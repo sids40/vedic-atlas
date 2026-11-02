@@ -115,6 +115,9 @@ run('Follow-up retains topic','Tell me more',a=>{
   assert(a.context.terms.includes('nachiketa'));assert(a.results.length>0);
   assert(a.results.some(r=>/nachiketa|katha/i.test(r.title)));
 },{history:[{question:'Nachiketa',response:first}]});
+run('Reference follow-up retains sources','Where can I read it?',a=>{
+ const ids=new Set(a.results.map(r=>r.id));assert.equal(a.intent,'references');assert(ids.has('u-story-nachiketas-and-death'));assert(ids.has('p-varaha-purana-8-10-1'));
+},{history:[{question:'Nachiketa',response:first}]});
 run('HTML-like question remains inert','<script>globalThis.guideInjected=true</script> Quantum Unicorn',a=>{
   assert.equal(context.guideInjected,undefined);
 });

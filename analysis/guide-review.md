@@ -22,6 +22,6 @@ The native modal provides a labeled conversation log, keyboard submission, focus
 
 ## Acceptance checks
 
-Run `node scripts/check_guide.js` from the repository root. The checks cover 21 conversational cases, all eight topic paths, result identifiers, document/page bounds, exact source excerpt prefixes, commentary classification, and connection evidence.
+Run `node scripts/check_guide.js` from the repository root. The checks cover 22 conversational cases, all eight topic paths, result identifiers, document/page bounds, exact source excerpt prefixes, commentary classification, and connection evidence.
 
 The guide assembles reviewed summaries and source passages; it does not generate new doctrine or claim exhaustive scholarly interpretation. Text matching can still be affected by spelling, translation, and OCR. Responses preserve that limitation and direct readers back to the cited PDFs.

@@ -6,7 +6,7 @@
       "name": "Topic chooser",
       "question": "I am new here. Help me pick a topic",
       "result": "PASS",
-      "elapsedMs": 2,
+      "elapsedMs": 3,
       "resultIds": []
     },
     {
@@ -23,7 +23,7 @@
       "name": "Cross-family comparison",
       "question": "Compare creation across the Vedas and Upanishads",
       "result": "PASS",
-      "elapsedMs": 2,
+      "elapsedMs": 1,
       "resultIds": [
         "rv-10-129",
         "rv-10-90",
@@ -44,7 +44,7 @@
       "name": "Brahman distinct from creator",
       "question": "What is Brahman?",
       "result": "PASS",
-      "elapsedMs": 1,
+      "elapsedMs": 2,
       "resultIds": [
         "u-story-uddalaka-teaches-svetaketu",
         "u-story-yajnavalkya-and-maitreyi",
@@ -56,7 +56,7 @@
       "name": "Creator Brahma ranking",
       "question": "What is Brahma?",
       "result": "PASS",
-      "elapsedMs": 6,
+      "elapsedMs": 5,
       "resultIds": [
         "concept-brahma",
         "p-brahma-vaivart-puran-9-35",
@@ -105,7 +105,7 @@
       "name": "Modern commentary classification",
       "question": "Show modern commentaries on Katha",
       "result": "PASS",
-      "elapsedMs": 4,
+      "elapsedMs": 5,
       "resultIds": [
         "u-katha-upanishad-commentary"
       ]
@@ -114,7 +114,7 @@
       "name": "Compare two collection families",
       "question": "Compare the Upanishads and the Puranas",
       "result": "PASS",
-      "elapsedMs": 1,
+      "elapsedMs": 0,
       "resultIds": [
         "family-upanishads",
         "family-puranas"
@@ -145,7 +145,7 @@
       "name": "Scoped topical PDF fallback",
       "question": "Where is Shiva in Yajurveda?",
       "result": "PASS",
-      "elapsedMs": 223,
+      "elapsedMs": 217,
       "resultIds": [
         "page-yajurveda-99"
       ]
@@ -193,12 +193,22 @@
       "name": "Follow-up retains topic",
       "question": "Tell me more",
       "result": "PASS",
-      "elapsedMs": 4,
+      "elapsedMs": 5,
       "resultIds": [
         "motif-nachiketa",
         "concept-nachiketa",
         "u-katha-upanishad",
         "p-varaha-purana"
+      ]
+    },
+    {
+      "name": "Reference follow-up retains sources",
+      "question": "Where can I read it?",
+      "result": "PASS",
+      "elapsedMs": 1,
+      "resultIds": [
+        "u-story-nachiketas-and-death",
+        "p-varaha-purana-8-10-1"
       ]
     },
     {
