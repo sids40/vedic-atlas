@@ -17,6 +17,23 @@ The atlas maps **30 source PDFs, 7,984 pages, 12,722 nodes, and 25,501 connectio
 
 Use the map's zoom buttons, drag to pan, and select nodes to explore their immediate connections. Individual maps can be downloaded as SVG.
 
+## Ask the library
+
+Open **Ask the library** in the header, or select **Ask about this reading** beside any atlas entry. The conversational guide helps you choose a topic, follow a short reading path, find page references, and compare accounts across the supplied books and PDFs.
+
+Try:
+
+- “Help me pick a topic.”
+- “Give me a brief summary of Nachiketa and references.”
+- “Compare creation across the Vedas and Upanishads.”
+- “Summarize this book,” while viewing a text on the map.
+
+Answers include map actions and links to the cited PDF pages. Follow-up questions keep the previous topic. Eight editorial starter paths cover creation, the self, Nachiketa, sacrifice, devotion, Shiva and Sati, the Goddess, and yoga.
+
+The guide retrieves and assembles existing summaries, source excerpts, and indexed connections in the browser. It is not a live language model, and it does not send questions to an external service or store conversations on a server. Unknown matches, commentary, extracted headings, and supplied-edition limits remain explicit.
+
+Run the source and conversation checks with `node scripts/check_guide.js`. See the [guide review](analysis/guide-review.md) and [reading-path notes](analysis/guide-content-notes.md).
+
 ## Scope and evidence
 
 Every supplied file and physical PDF page has a graph record. All 108 Upanishad catalog entries and all 1,028 Rigveda hymns are indexed. Story summaries and semantic links are selective; the collection includes abridged retellings, partial editions, and draft material.

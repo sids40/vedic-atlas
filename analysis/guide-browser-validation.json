@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-02",
+  "result": "PASS",
+  "checks": [
+    {
+      "name": "Starter topics",
+      "result": "PASS",
+      "observed": "Eight source-linked topic paths; current-reading shortcut available"
+    },
+    {
+      "name": "Cross-book answer",
+      "result": "PASS",
+      "observed": "Nachiketa returns the Katha dialogue at PDF45 and Varaha retelling at PDF29, with separate summaries and a suggested comparison"
+    },
+    {
+      "name": "Map navigation",
+      "result": "PASS",
+      "observed": "Show on map selects u-story-nachiketas-and-death and closes the guide"
+    },
+    {
+      "name": "Source-page navigation",
+      "result": "PASS",
+      "observed": "Read page selects page-varaha-purana-29 and opens reader page29"
+    },
+    {
+      "name": "Conversation retained",
+      "result": "PASS",
+      "observed": "Reopening the guide after map navigation preserves the existing answer"
+    },
+    {
+      "name": "Follow-up",
+      "result": "PASS",
+      "observed": "Tell me more retains Nachiketa context and provides additional indexed readings"
+    },
+    {
+      "name": "Mobile",
+      "result": "PASS",
+      "width": 390,
+      "height": 844,
+      "horizontalOverflow": false,
+      "inputVisible": true,
+      "newReplyVisible": true
+    },
+    {
+      "name": "Runtime",
+      "result": "PASS",
+      "scriptErrors": 0
+    },
+    {
+      "name": "HTML input remains inert",
+      "result": "PASS",
+      "observed": "HTML-shaped input appears as literal text; no inserted image or script execution"
+    }
+  ],
+  "engineValidation": "guide-validation.json",
+  "limits": [
+    "Answers assemble existing indexed summaries and passages; this is not a live language model.",
+    "Matching can be affected by spelling, translation choices, and OCR; supplied-edition limits remain in the atlas."
+  ]
+}

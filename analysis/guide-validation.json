@@ -1,0 +1,216 @@
+{
+  "result": "PASS",
+  "engine": "source-based in-browser retrieval",
+  "cases": [
+    {
+      "name": "Topic chooser",
+      "question": "I am new here. Help me pick a topic",
+      "result": "PASS",
+      "elapsedMs": 2,
+      "resultIds": []
+    },
+    {
+      "name": "Cross-PDF narrative references",
+      "question": "Give me a brief summary of Nachiketa and references",
+      "result": "PASS",
+      "elapsedMs": 3,
+      "resultIds": [
+        "u-story-nachiketas-and-death",
+        "p-varaha-purana-8-10-1"
+      ]
+    },
+    {
+      "name": "Cross-family comparison",
+      "question": "Compare creation across the Vedas and Upanishads",
+      "result": "PASS",
+      "elapsedMs": 2,
+      "resultIds": [
+        "rv-10-129",
+        "rv-10-90",
+        "u-aitareya-upanishad"
+      ]
+    },
+    {
+      "name": "Work-limited references",
+      "question": "Only Rigveda references for creation",
+      "result": "PASS",
+      "elapsedMs": 1,
+      "resultIds": [
+        "rv-10-129",
+        "rv-10-90"
+      ]
+    },
+    {
+      "name": "Brahman distinct from creator",
+      "question": "What is Brahman?",
+      "result": "PASS",
+      "elapsedMs": 1,
+      "resultIds": [
+        "u-story-uddalaka-teaches-svetaketu",
+        "u-story-yajnavalkya-and-maitreyi",
+        "u-mandukya-upanishad",
+        "p-agni-puranas-10-9-4"
+      ]
+    },
+    {
+      "name": "Creator Brahma ranking",
+      "question": "What is Brahma?",
+      "result": "PASS",
+      "elapsedMs": 6,
+      "resultIds": [
+        "concept-brahma",
+        "p-brahma-vaivart-puran-9-35",
+        "p-skanda-ch-6",
+        "p-brahma-puran-1-1"
+      ]
+    },
+    {
+      "name": "Mixed Brahma and Brahman distinction",
+      "question": "What is the difference between Brahma and Brahman?",
+      "result": "PASS",
+      "elapsedMs": 1,
+      "resultIds": [
+        "concept-brahma",
+        "concept-brahman"
+      ]
+    },
+    {
+      "name": "Explicitly named Brahma Upanishad preserved",
+      "question": "Summarize Brahma Upanishad",
+      "result": "PASS",
+      "elapsedMs": 1,
+      "resultIds": [
+        "u-brahma-upanishad"
+      ]
+    },
+    {
+      "name": "Direct primary-text summary",
+      "question": "Summarize Katha Upanishad",
+      "result": "PASS",
+      "elapsedMs": 1,
+      "resultIds": [
+        "u-katha-upanishad"
+      ]
+    },
+    {
+      "name": "Exact hymn reference",
+      "question": "Summarize RV 10.129",
+      "result": "PASS",
+      "elapsedMs": 1,
+      "resultIds": [
+        "rv-10-129"
+      ]
+    },
+    {
+      "name": "Modern commentary classification",
+      "question": "Show modern commentaries on Katha",
+      "result": "PASS",
+      "elapsedMs": 4,
+      "resultIds": [
+        "u-katha-upanishad-commentary"
+      ]
+    },
+    {
+      "name": "Compare two collection families",
+      "question": "Compare the Upanishads and the Puranas",
+      "result": "PASS",
+      "elapsedMs": 1,
+      "resultIds": [
+        "family-upanishads",
+        "family-puranas"
+      ]
+    },
+    {
+      "name": "Selected book summary",
+      "question": "Summarize this book",
+      "result": "PASS",
+      "elapsedMs": 1,
+      "resultIds": [
+        "p-shiva"
+      ]
+    },
+    {
+      "name": "Selected text deictic question",
+      "question": "What is this about?",
+      "result": "PASS",
+      "elapsedMs": 1,
+      "resultIds": [
+        "u-katha-upanishad",
+        "u-story-nachiketas-and-death",
+        "p-varaha-purana-8-10-1",
+        "rv-10-14"
+      ]
+    },
+    {
+      "name": "Scoped topical PDF fallback",
+      "question": "Where is Shiva in Yajurveda?",
+      "result": "PASS",
+      "elapsedMs": 223,
+      "resultIds": [
+        "page-yajurveda-99"
+      ]
+    },
+    {
+      "name": "Omnibus PDF work boundaries",
+      "question": "Where is offerer in Samaveda?",
+      "result": "PASS",
+      "elapsedMs": 44,
+      "resultIds": [
+        "page-four-vedas-english-translation-1180",
+        "page-the-4-vedas-in-1-858"
+      ]
+    },
+    {
+      "name": "Selected work cross-book connections",
+      "question": "Connect this with other books",
+      "result": "PASS",
+      "elapsedMs": 1,
+      "resultIds": [
+        "p-shiva",
+        "p-shiv-maha-purana-1-5-2-52",
+        "p-padma-puran-2-1-5",
+        "p-kurma-puran-12-12"
+      ]
+    },
+    {
+      "name": "Honest missing source",
+      "question": "Find the Quantum Unicorn Upanishad",
+      "result": "PASS",
+      "elapsedMs": 166,
+      "resultIds": []
+    },
+    {
+      "name": "Conversation seed",
+      "question": "Nachiketa",
+      "result": "PASS",
+      "elapsedMs": 2,
+      "resultIds": [
+        "u-story-nachiketas-and-death",
+        "p-varaha-purana-8-10-1"
+      ]
+    },
+    {
+      "name": "Follow-up retains topic",
+      "question": "Tell me more",
+      "result": "PASS",
+      "elapsedMs": 4,
+      "resultIds": [
+        "motif-nachiketa",
+        "concept-nachiketa",
+        "u-katha-upanishad",
+        "p-varaha-purana"
+      ]
+    },
+    {
+      "name": "HTML-like question remains inert",
+      "question": "<script>globalThis.guideInjected=true</script> Quantum Unicorn",
+      "result": "PASS",
+      "elapsedMs": 14,
+      "resultIds": [
+        "p-shiv-maha-purana-1-5-2-88"
+      ]
+    }
+  ],
+  "topicPaths": 8,
+  "validatedSourceReferences": true
+}

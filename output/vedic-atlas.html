@@ -5,9 +5,10 @@
 <title>Vedic Atlas · A connected reading library</title>
 <link rel="icon" href="favicon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="atlas.css">
+<link rel="stylesheet" href="guide.css">
 </head>
 <body>
-<header><a class="brand" href="#root"><span class="brandmark">✳</span><span>VEDIC ATLAS<small>A connected reading library</small></span></a><div class="topnote">30 source files · <span id="totalPages">7,984</span> pages</div><button id="helpButton" class="quiet">How to explore</button></header>
+<header><a class="brand" href="#root"><span class="brandmark">✳</span><span>VEDIC ATLAS<small>A connected reading library</small></span></a><div class="topnote">30 source files · <span id="totalPages">7,984</span> pages</div><div class="header-actions"><button id="openGuide" class="guide-launch" aria-haspopup="dialog" aria-controls="guideDialog"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 4h14a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2h-9l-5 3v-3a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2Z"/><path d="M7 9h10M7 13h6"/></svg>Ask the library</button><button id="helpButton" class="quiet" aria-label="How to explore"><span class="help-label">How to explore</span><span class="help-icon" aria-hidden="true">?</span></button></div></header>
 <div class="app">
 <aside class="sidebar">
 <div class="searchbox"><span>⌕</span><input id="search" type="search" aria-label="Search the library" placeholder="Find a text, story, or idea…"><kbd>/</kbd></div>
@@ -24,5 +25,12 @@
 </main>
 </div>
 <dialog id="help"><button class="close" id="closeHelp" aria-label="Close help">×</button><p class="eyebrow">READ THE MAP</p><h2>Follow a thread.</h2><p>Select a family, book, hymn, story, or concept. The map shows its immediate connections; the full collection remains available in the library.</p><ol><li><b>Library</b> follows the supplied texts and their indexed contents.</li><li><b>Connections</b> brings together passages that share names or ideas. A shared theme does not establish literary borrowing.</li><li><b>Passages</b> searches the extracted text of all PDFs. Search spelling variants separately.</li><li><b>Coverage</b> records partial editions, OCR, commentary, duplicates, and gaps.</li></ol><p>Page numbers always mean PDF pages, starting at 1. Use “Open source PDF” to check the original. Extracted and recognized text may contain errors. Indexed headings are navigation aids; they are not a claim that every embedded story has received a separate scholarly analysis.</p><p class="fine">The library runs entirely in your browser. No external APIs, accounts, or analytics are required.</p></dialog>
-<script src="atlas-data.js"></script><script src="atlas-pages.js"></script><script src="atlas.js"></script>
+<dialog id="guideDialog" aria-labelledby="guideTitle" aria-describedby="guideDescription">
+  <div class="guide-head"><div><div class="guide-kicker">YOUR READING COMPANION</div><h2 id="guideTitle">Ask the library.</h2></div><div class="guide-head-actions"><button id="resetGuide" title="Start a new conversation">Start over</button><button id="closeGuide" aria-label="Close reading guide">×</button></div></div>
+  <p id="guideDescription">Find a starting point. Follow the sources. Connect the ideas.</p>
+  <div id="guideLog" class="guide-log" role="log" aria-live="polite" aria-relevant="additions" aria-label="Reading guide conversation"></div>
+  <div id="guideStatus" class="guide-status" role="status"></div>
+  <form id="guideForm" class="guide-form"><label for="guideInput" class="guide-sr-only">Ask about a topic or book</label><div class="guide-input-row"><textarea id="guideInput" rows="2" maxlength="600" placeholder="Ask about a topic, story, or book…" required></textarea><button id="guideSend" type="submit" aria-label="Send question"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 19V5M5 12l7-7 7 7"/></svg></button></div><p>Uses indexed summaries and PDF passages. Check the cited pages for context.</p></form>
+</dialog>
+<script src="atlas-data.js"></script><script src="atlas-pages.js"></script><script src="atlas.js?v=reading-guide-1"></script><script src="guide-topics.js"></script><script src="guide-engine.js"></script><script src="guide.js"></script>
 </body></html>
