@@ -1,0 +1,5055 @@
+{
+  "nodes": [
+    {
+      "id": "p-matsya-ch-001",
+      "title": "Matsya 1: Manu and Vishnu in fish form",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 19,
+      "endPage": 24,
+      "summary": "Chapter navigation: Manu and Vishnu in fish form. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 1",
+        "Matsya I"
+      ],
+      "tags": [
+        "Vishnu",
+        "Manu"
+      ],
+      "chapterNumber": 1,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 19,
+          "quote": "CHAPTER I May the lotus feet of Bhava, who shook the diggajas at the time of His dance, disperse all obstacles.-1.",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-002",
+      "title": "Matsya 2: Destruction and renewal of the universe",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 24,
+      "endPage": 27,
+      "summary": "Chapter navigation: Destruction and renewal of the universe. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 2",
+        "Matsya II"
+      ],
+      "tags": [
+        "Creation"
+      ],
+      "chapterNumber": 2,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 24,
+          "quote": "CHAPTER II. Sata, continuing hie narration, said, that, on hearing such words of the Lord, the king begged Him to reveal to him in how many years the",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-003",
+      "title": "Matsya 3: Primary creation",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 27,
+      "endPage": 30,
+      "summary": "Chapter navigation: Primary creation. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 3",
+        "Matsya III"
+      ],
+      "tags": [
+        "Creation"
+      ],
+      "chapterNumber": 3,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 27,
+          "quote": "CHAPTER III. lightning, embryo, rivers, pitria, Manu and the seven oceans, full of various gems, were created. - 33-34.",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-004",
+      "title": "Matsya 4: Brahma, creation and divine forms",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 30,
+      "endPage": 34,
+      "summary": "Chapter navigation: Brahma, creation and divine forms. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 4",
+        "Matsya IV"
+      ],
+      "tags": [
+        "Creation"
+      ],
+      "chapterNumber": 4,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 30,
+          "quote": "CHAPTER IV. The king said, \"O, Merciful! I feel awfully grieved to hear that Lord Bralind married Abgaja. \"Pray, tell me why he was not regard-",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-005",
+      "title": "Matsya 5: Progenies of Vasus and Rudras",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 34,
+      "endPage": 36,
+      "summary": "Chapter navigation: Progenies of Vasus and Rudras. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 5",
+        "Matsya V"
+      ],
+      "tags": [
+        "Genealogy"
+      ],
+      "chapterNumber": 5,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 34,
+          "quote": "CHAPTER V. The sages, after hearing this, requested the Sage Sata to relate to them how Devaa, Dânavas, Gandharvas, serpente and Råkęasas were born.",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-006",
+      "title": "Matsya 6: The progeny of Kashyapa",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 36,
+      "endPage": 39,
+      "summary": "Chapter navigation: The progeny of Kashyapa. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 6",
+        "Matsya VI"
+      ],
+      "tags": [
+        "Genealogy"
+      ],
+      "chapterNumber": 6,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 36,
+          "quote": "CHAPTER VI. Sûta, addressing the sages who were listening to his narrations with wrapt attention at Naimidâranya, said :-\"O, sages! I shall now",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-007",
+      "title": "Matsya 7: Diti, the Maruts and Madana Dvadashi",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 39,
+      "endPage": 44,
+      "summary": "Chapter navigation: Diti, the Maruts and Madana Dvadashi. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 7",
+        "Matsya VII"
+      ],
+      "tags": [],
+      "chapterNumber": 7,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 39,
+          "quote": "CHAPTER VIL The Risie said: -How did Diti again beget the Marute and how did the latter become the friends of the Devas ?-1.",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-008",
+      "title": "Matsya 8: The coronation of kings",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 44,
+      "endPage": 45,
+      "summary": "Chapter navigation: The coronation of kings. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 8",
+        "Matsya VIII"
+      ],
+      "tags": [],
+      "chapterNumber": 8,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 44,
+          "quote": "CHAPTER VIII. The Rigis said:-O Sûta! We have heard with concentrated attention what you have been pleased to relate to us; now we feel desirous",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-009",
+      "title": "Matsya 9: Manvantaras",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 45,
+      "endPage": 47,
+      "summary": "Chapter navigation: Manvantaras. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 9",
+        "Matsya IX"
+      ],
+      "tags": [
+        "Manu"
+      ],
+      "chapterNumber": 9,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 45,
+          "quote": "CHAPTER IX. The Sage Sûta said: \"After hearing that, King Manu again requested the Fish God to narrate to him the career of the Manus who",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-010",
+      "title": "Matsya 10: Vena, Prithu and the earth as a cow",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 47,
+      "endPage": 50,
+      "summary": "Chapter navigation: Vena, Prithu and the earth as a cow. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 10",
+        "Matsya X"
+      ],
+      "tags": [],
+      "chapterNumber": 10,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 47,
+          "quote": "CHAPTER X. The sages said that in ancient times the kings came to be called Parthiva, on account of their sway all over the land; but how did the eartl",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-011",
+      "title": "Matsya 11: The solar race, Ila and Budha",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 50,
+      "endPage": 54,
+      "summary": "Chapter navigation: The solar race, Ila and Budha. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 11",
+        "Matsya XI"
+      ],
+      "tags": [
+        "Genealogy"
+      ],
+      "chapterNumber": 11,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 50,
+          "quote": "CHAPTER XI The sages said, \"O Sûta! be pleased to relate to us the history of the solar and the lunar races.\"",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-012",
+      "title": "Matsya 12: The solar dynasty",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 54,
+      "endPage": 57,
+      "summary": "Chapter navigation: The solar dynasty. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 12",
+        "Matsya XII"
+      ],
+      "tags": [
+        "Genealogy"
+      ],
+      "chapterNumber": 12,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 54,
+          "quote": "CHAPTER XII. Sâta said that sometime after Ikęwaku, &c., the brothers of Ila, set out in quest of him. In their wanderinge they chanced to pass by the",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-013",
+      "title": "Matsya 13: The Pitris and 108 names of Gauri",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 57,
+      "endPage": 61,
+      "summary": "Chapter navigation: The Pitris and 108 names of Gauri. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 13",
+        "Matsya XIII"
+      ],
+      "tags": [
+        "Shiva",
+        "Ancestors"
+      ],
+      "chapterNumber": 13,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 57,
+          "quote": "OHPTER XIII. 39 Bhinumati begot a son, named Asamañjasa, and Prablå of the family of Yadu, became the mother of sixty thousand sons.-42. Once upon a time, the sixty thousand sons of Prabha were reduced",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-014",
+      "title": "Matsya 14: Agnishvatta Pitris and the river Acchoda",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 61,
+      "endPage": 62,
+      "summary": "Chapter navigation: Agnishvatta Pitris and the river Acchoda. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 14",
+        "Matsya XIV"
+      ],
+      "tags": [
+        "Ancestors",
+        "Agni"
+      ],
+      "chapterNumber": 14,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 61,
+          "quote": "CHAPTER XIV. Sâta said: The group of Marichinandana Pitris, whom the Devas, constantly meditate upon, live in Somapatha regions. Those known as",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-015",
+      "title": "Matsya 15: Birth and dynasties of the Pitris",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 62,
+      "endPage": 67,
+      "summary": "Chapter navigation: Birth and dynasties of the Pitris. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 15",
+        "Matsya XV"
+      ],
+      "tags": [
+        "Ancestors",
+        "Genealogy"
+      ],
+      "chapterNumber": 15,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 62,
+          "quote": "CHAPTER XV. Sûta said: \"In heaven, there are other illustrious regions called Vibharâjas where dwell the pious Barbigada pitria so named because their",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-016",
+      "title": "Matsya 16: Shraddha rites with the sacred fire",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 67,
+      "endPage": 72,
+      "summary": "Chapter navigation: Shraddha rites with the sacred fire. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 16",
+        "Matsya XVI"
+      ],
+      "tags": [
+        "Ritual",
+        "Ancestors",
+        "Agni"
+      ],
+      "chapterNumber": 16,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 67,
+          "quote": "CHAPTER XVI Sâta said, after hearing that, King Manu again enquired from the Lord Kesava, about the periods for the performance of srâddhas, the different",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-017",
+      "title": "Matsya 17: General and Abhyudaya Shraddha",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 72,
+      "endPage": 78,
+      "summary": "Chapter navigation: General and Abhyudaya Shraddha. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 17",
+        "Matsya XVII"
+      ],
+      "tags": [
+        "Ritual",
+        "Ancestors"
+      ],
+      "chapterNumber": 17,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 72,
+          "quote": "CHAPTER XVII. Sûta said: I shall now relate to you what Lord Vienu said about the general ritual of Srâddha (applicable to all whether they keep sacred fire",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-018",
+      "title": "Matsya 18: Ekoddishta and Sapindikarana rites",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 78,
+      "endPage": 80,
+      "summary": "Chapter navigation: Ekoddishta and Sapindikarana rites. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 18",
+        "Matsya XVIII"
+      ],
+      "tags": [],
+      "chapterNumber": 18,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 78,
+          "quote": "CHAPTER XVILL. Sâta said: I shall now relate to you the Ekoddięta erâddha, as explained by the Lord, and will also tell you for what period a son should",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-019",
+      "title": "Matsya 19: How offerings reach the ancestors",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 80,
+      "endPage": 81,
+      "summary": "Chapter navigation: How offerings reach the ancestors. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 19",
+        "Matsya XIX"
+      ],
+      "tags": [
+        "Ancestors"
+      ],
+      "chapterNumber": 19,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 80,
+          "quote": "CHAPTER XIX. The Risis asked: -How the offerings to the ancestors and the Devas are to be made here by men. They also requested him to explain to them",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-020",
+      "title": "Matsya 20: The sons of Kaushika and the she-ant",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 81,
+      "endPage": 84,
+      "summary": "Chapter navigation: The sons of Kaushika and the she-ant. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 20",
+        "Matsya XX"
+      ],
+      "tags": [],
+      "chapterNumber": 20,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 81,
+          "quote": "CHAPTER XX. The Risis asked the sage Sûta to relate to them how the sons of Kausika in their fifth cycle of birth, putting an end to their desires,",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-021",
+      "title": "Matsya 21: Brahmadatta and understanding animal speech",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 84,
+      "endPage": 86,
+      "summary": "Chapter navigation: Brahmadatta and understanding animal speech. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 21",
+        "Matsya XXI"
+      ],
+      "tags": [],
+      "chapterNumber": 21,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 84,
+          "quote": "CHAPTER XXI. The Risis asked :-How did the King Brahmadatta acquire the faculty of understanding the language of all creatures and in what family",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-022",
+      "title": "Matsya 22: Sacred places for Shraddha",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 86,
+      "endPage": 90,
+      "summary": "Chapter navigation: Sacred places for Shraddha. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 22",
+        "Matsya XXII"
+      ],
+      "tags": [
+        "Ritual",
+        "Ancestors",
+        "Pilgrimage"
+      ],
+      "chapterNumber": 22,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 86,
+          "quote": "CHAPTER XXIL. The Risis said. -\" When does that srâddha give everlasting benefit ? In what parte of the day and at what sacred places should it be per-",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-023",
+      "title": "Matsya 23: Soma, Tara and the war of the gods",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 90,
+      "endPage": 94,
+      "summary": "Chapter navigation: Soma, Tara and the war of the gods. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 23",
+        "Matsya XXIII"
+      ],
+      "tags": [],
+      "chapterNumber": 23,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 90,
+          "quote": "CHAPTER XXIII The Risis said:-How did the moon O! scholar of all the Sistras, become the sovereign of the Pitris and how did the Rajas of the lunar",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-024",
+      "title": "Matsya 24: Budha and the lunar line to Yayati",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 94,
+      "endPage": 98,
+      "summary": "Chapter navigation: Budha and the lunar line to Yayati. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 24",
+        "Matsya XXIV"
+      ],
+      "tags": [
+        "Yayati"
+      ],
+      "chapterNumber": 24,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 94,
+          "quote": "CHAPTER XXIV. Sûta said.-After a year a handsome cherub-boy shining like the twelve suns, wearing yellow raiments and resembling the Moon, was born",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-025",
+      "title": "Matsya 25: Kacha learns from Shukra",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 98,
+      "endPage": 102,
+      "summary": "Chapter navigation: Kacha learns from Shukra. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 25",
+        "Matsya XXV"
+      ],
+      "tags": [
+        "Knowledge",
+        "Shukra"
+      ],
+      "chapterNumber": 25,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 98,
+          "quote": "CHAPTER XXV. The Kiyis saked :-Why Paurava dynasty became so illustrious and why Yadu the eldest of Yayati's sons became the founder of an inferior",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-026",
+      "title": "Matsya 26: Devayani and Kacha exchange curses",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 102,
+      "endPage": 103,
+      "summary": "Chapter navigation: Devayani and Kacha exchange curses. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 26",
+        "Matsya XXVI"
+      ],
+      "tags": [
+        "Devayani"
+      ],
+      "chapterNumber": 26,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 102,
+          "quote": "CHAPTER XXVI. Saunaka asid: -On the fulfilment of his vow when Kacha, after taking leave of Sukra, was abont to start for heaven, Devayint addressed the",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-027",
+      "title": "Matsya 27: Devayani, Sharmishtha and Yayati",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 103,
+      "endPage": 105,
+      "summary": "Chapter navigation: Devayani, Sharmishtha and Yayati. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 27",
+        "Matsya XXVII"
+      ],
+      "tags": [
+        "Yayati",
+        "Devayani"
+      ],
+      "chapterNumber": 27,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 103,
+          "quote": "CHAPTER XXVII. Saunaka said :-The Deras, on seeing Kacha back with sañjivant knowledge, accorded him a most cordial welcome, and after acquiring",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-028",
+      "title": "Matsya 28: Devayani and Shukra on patience",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 105,
+      "endPage": 106,
+      "summary": "Chapter navigation: Devayani and Shukra on patience. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 28",
+        "Matsya XXVIII"
+      ],
+      "tags": [
+        "Shukra",
+        "Devayani"
+      ],
+      "chapterNumber": 28,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 105,
+          "quote": "CHAPTER XXVIII. Sukra said.-\"Devayânt! hear, one who calmly and patiently endures the hard speech of others, conquers all. One, who curbe his",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-029",
+      "title": "Matsya 29: Shukra and the reconciliation of Devayani",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 106,
+      "endPage": 108,
+      "summary": "Chapter navigation: Shukra and the reconciliation of Devayani. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 29",
+        "Matsya XXIX"
+      ],
+      "tags": [
+        "Shukra",
+        "Devayani"
+      ],
+      "chapterNumber": 29,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 106,
+          "quote": "CHAPTER XXIX. Saunaka said: -On hearing those words of Devayânt, Sukra the best of the Blrigus also got angry and going to the King Vriyaparvan who was",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-030",
+      "title": "Matsya 30: Yayati marries Devayani",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 108,
+      "endPage": 111,
+      "summary": "Chapter navigation: Yayati marries Devayani. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 30",
+        "Matsya XXX"
+      ],
+      "tags": [
+        "Yayati",
+        "Devayani"
+      ],
+      "chapterNumber": 30,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 108,
+          "quote": "CHAPTER XXX. Saunaka said:--O king! Long after that, Devayânf again went to amuse herself in the same forest in the company of Sarmiętha and a",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-031",
+      "title": "Matsya 31: Yayati and Sharmishtha",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 111,
+      "endPage": 112,
+      "summary": "Chapter navigation: Yayati and Sharmishtha. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 31",
+        "Matsya XXXI"
+      ],
+      "tags": [
+        "Yayati"
+      ],
+      "chapterNumber": 31,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 111,
+          "quote": "CHAPTER XXXL. Saunaka said :-Yayâti entered his capital, which was as beautiful as the city of Indra. He then ushered Devayan! into his palace and,",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-032",
+      "title": "Matsya 32: Shukra curses Yayati with old age",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 112,
+      "endPage": 115,
+      "summary": "Chapter navigation: Shukra curses Yayati with old age. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 32",
+        "Matsya XXXII"
+      ],
+      "tags": [
+        "Yayati",
+        "Shukra"
+      ],
+      "chapterNumber": 32,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 112,
+          "quote": "CHAPTER XXXII. Saunaka said: -On hearing the newe of Sarmięth& giving birth to a child, Devay&ni became deeply afflicted and went and asked her, why she",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-033",
+      "title": "Matsya 33: Puru accepts Yayati's old age",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 115,
+      "endPage": 116,
+      "summary": "Chapter navigation: Puru accepts Yayati's old age. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 33",
+        "Matsya XXXIII"
+      ],
+      "tags": [
+        "Yayati"
+      ],
+      "chapterNumber": 33,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 115,
+          "quote": "CHAPTER XXXIII. Saunaka said. -On being visited with old age, King Yayâti went to his capital and said to his eldest son, Yadu, that owing to the curse of",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-034",
+      "title": "Matsya 34: The coronation of Puru",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 116,
+      "endPage": 118,
+      "summary": "Chapter navigation: The coronation of Puru. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 34",
+        "Matsya XXXIV"
+      ],
+      "tags": [],
+      "chapterNumber": 34,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 116,
+          "quote": "CHAPTER XXXIV. Saunaka said:-On hearing those words of the prince Puru, king YayAti, after nentally reciting the name of Sukra, transferred his old age",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-035",
+      "title": "Matsya 35: Yayati's forest life",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 118,
+      "endPage": 119,
+      "summary": "Chapter navigation: Yayati's forest life. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 35",
+        "Matsya XXXV"
+      ],
+      "tags": [
+        "Yayati"
+      ],
+      "chapterNumber": 35,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 118,
+          "quote": "CHAPTER XXXY. Saunaka.-Thus King Yayâti, making over his Empire to his son, Puru, turned an anchorite; and living on fruits, passed a number of days",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-036",
+      "title": "Matsya 36: Yayati advises Puru",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 119,
+      "endPage": 120,
+      "summary": "Chapter navigation: Yayati advises Puru. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 36",
+        "Matsya XXXVI"
+      ],
+      "tags": [
+        "Yayati"
+      ],
+      "chapterNumber": 36,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 119,
+          "quote": "CHAPTER XXXVI. Saunaka. -That king, on reaching heaven, was venerated by S&dhyas, Marutgan&s, Vasus and the Devas. Afterwards, on account of his virtue, he",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-037",
+      "title": "Matsya 37: Yayati falls from heaven",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 120,
+      "endPage": 121,
+      "summary": "Chapter navigation: Yayati falls from heaven. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 37",
+        "Matsya XXXVII"
+      ],
+      "tags": [
+        "Yayati"
+      ],
+      "chapterNumber": 37,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 120,
+          "quote": "CHAPTER XXXVIL. Indra. -\" King! I ask you to please tell me, how you practised aus- terities after renouncing your kingdom and repairing to the forest as an",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-038",
+      "title": "Matsya 38: Yayati and Ashtaka",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 121,
+      "endPage": 122,
+      "summary": "Chapter navigation: Yayati and Ashtaka. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 38",
+        "Matsya XXXVIII"
+      ],
+      "tags": [
+        "Yayati"
+      ],
+      "chapterNumber": 38,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 121,
+          "quote": "CHAPTER XXXVIL. Yayâti-\"I am King Yayâti, son of Nabusa and father of Pura. Indra has hurled me down fron the world of SurAs and Siddhas for des-",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-039",
+      "title": "Matsya 39: Yayati and Ashtaka on heaven and rebirth",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 122,
+      "endPage": 124,
+      "summary": "Chapter navigation: Yayati and Ashtaka on heaven and rebirth. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 39",
+        "Matsya XXXIX"
+      ],
+      "tags": [
+        "Yayati"
+      ],
+      "chapterNumber": 39,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 122,
+          "quote": "CHAPTER XXXIX. Aștaka.-\" After spending ten thousand years in the pleasure garden called Nandana KAmarapa, how did you happen to come to this",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-040",
+      "title": "Matsya 40: The duties of the four life stages",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 124,
+      "endPage": 126,
+      "summary": "Chapter navigation: The duties of the four life stages. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 40",
+        "Matsya XL"
+      ],
+      "tags": [
+        "Dharma"
+      ],
+      "chapterNumber": 40,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 124,
+          "quote": "CHAPTER XL. Artaka.-i O King! Be good enough, to tell me how does a house- holder go to the Devas in the Heaven world, and how do a Sanyâsi and a",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-041",
+      "title": "Matsya 41: Ashtaka and Pratardana offer merit to Yayati",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 126,
+      "endPage": 128,
+      "summary": "Chapter navigation: Ashtaka and Pratardana offer merit to Yayati. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 41",
+        "Matsya XLI"
+      ],
+      "tags": [
+        "Yayati"
+      ],
+      "chapterNumber": 41,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 126,
+          "quote": "CHAPTER XLL. Aętaka.-\" King! Who between the two (orders), viz, the Sanyasi or the Vânaprastha attains to the region of the Devas first ? Both of them",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-042",
+      "title": "Matsya 42: The conclusion of Yayati's story",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 128,
+      "endPage": 130,
+      "summary": "Chapter navigation: The conclusion of Yayati's story. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 42",
+        "Matsya XLII"
+      ],
+      "tags": [
+        "Yayati"
+      ],
+      "chapterNumber": 42,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 128,
+          "quote": "CHAPTER XLI. Vasumân.--\"O O ruler of men! I, King Vasumân, known as Audadaśvi ask you about that world of mine, whether it is in Heaven or in",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-043",
+      "title": "Matsya 43: The lunar dynasty and Kartavirya Arjuna",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 130,
+      "endPage": 133,
+      "summary": "Chapter navigation: The lunar dynasty and Kartavirya Arjuna. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 43",
+        "Matsya XLIII"
+      ],
+      "tags": [
+        "Genealogy"
+      ],
+      "chapterNumber": 43,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 130,
+          "quote": "CHAPTER XLIII. Sûta. -King Satânika was amazed to hear all that from Saunaka and glowed, likenhe foll rati, dith debiles A farmarka, a praka also die-",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-044",
+      "title": "Matsya 44: Kartavirya and the lunar dynasty",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 133,
+      "endPage": 138,
+      "summary": "Chapter navigation: Kartavirya and the lunar dynasty. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 44",
+        "Matsya XLIV"
+      ],
+      "tags": [
+        "Genealogy"
+      ],
+      "chapterNumber": 44,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 133,
+          "quote": "CHAPTER XLIV. The Rigie said: -Sâta! Why did the thousand-armed King Kârta- virya, burn the forest of the Sage Apava? Please tell us fully the reason",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-045",
+      "title": "Matsya 45: The Vrishni branch of the lunar dynasty",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 138,
+      "endPage": 140,
+      "summary": "Chapter navigation: The Vrishni branch of the lunar dynasty. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 45",
+        "Matsya XLV"
+      ],
+      "tags": [
+        "Genealogy"
+      ],
+      "chapterNumber": 45,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 138,
+          "quote": "CHAPTER XLV. Suta.-Gândhârl and Madri were the wives of Vrişni, and Sumitra, the rejoicer of his friends, was born from GAndhari. Madri begot five",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-046",
+      "title": "Matsya 46: The dynasty of the Vrishnis",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 140,
+      "endPage": 142,
+      "summary": "Chapter navigation: The dynasty of the Vrishnis. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 46",
+        "Matsya XLVI"
+      ],
+      "tags": [
+        "Genealogy"
+      ],
+      "chapterNumber": 46,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 140,
+          "quote": "CHAPTER XLVI. Sûta said: -Aikęvâki, the daughter of King Ikęvaku bore Sûra, a heroic son, named and renowned as Adbhutamidhugam, to her lord,",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-047",
+      "title": "Matsya 47: Shukra, the Asuras and ten incarnations",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 142,
+      "endPage": 158,
+      "summary": "Chapter navigation: Shukra, the Asuras and ten incarnations. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 47",
+        "Matsya XLVII"
+      ],
+      "tags": [
+        "Vishnu",
+        "Shukra"
+      ],
+      "chapterNumber": 47,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 142,
+          "quote": "CHAPTER XLVII. Sûta said:-The Lord of all, the Protector of the universe, mani- fested Himself as Srikriana for the purpose of His pastime. Through the",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-048",
+      "title": "Matsya 48: Soma's family and eastern kingdoms",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 158,
+      "endPage": 164,
+      "summary": "Chapter navigation: Soma's family and eastern kingdoms. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 48",
+        "Matsya XLVIII"
+      ],
+      "tags": [
+        "Genealogy"
+      ],
+      "chapterNumber": 48,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 158,
+          "quote": "CHAPTER XLVIII. Sûta said:-Turvasu was the father of Garbha, who begot Gobh&nu, the father of the heroic Trisari. Trisari was the father of Karandhama,",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-049",
+      "title": "Matsya 49: The Paurava dynasty",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 164,
+      "endPage": 168,
+      "summary": "Chapter navigation: The Paurava dynasty. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 49",
+        "Matsya XLIX"
+      ],
+      "tags": [
+        "Genealogy"
+      ],
+      "chapterNumber": 49,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 164,
+          "quote": "CHAPTER XLIX. Puru was the father of the most illustrious Janamejaya who begot Prâchitvata and ruled in the Fast, and gave his name to the Eastern",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-050",
+      "title": "Matsya 50: Pauravas down to Kshemaka",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 168,
+      "endPage": 173,
+      "summary": "Chapter navigation: Pauravas down to Kshemaka. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 50",
+        "Matsya L"
+      ],
+      "tags": [],
+      "chapterNumber": 50,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 168,
+          "quote": "CHAPTER L. SQta said: -Ajamidha begot from Nilint, Nila, who was the father of Susanti, through his severe austerities. Sudânti begot Purujinu, the father",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-051",
+      "title": "Matsya 51: The genealogy of Agni",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 173,
+      "endPage": 176,
+      "summary": "Chapter navigation: The genealogy of Agni. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 51",
+        "Matsya LI"
+      ],
+      "tags": [
+        "Genealogy",
+        "Agni"
+      ],
+      "chapterNumber": 51,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 173,
+          "quote": "CHAPTER LI. The Rigis. -O! Sûta! Pray tell us about those Agnis or Fires which are honored amongst the twice-born, and narrate the history of the",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-052",
+      "title": "Matsya 52: Dharma, adharma and Kriya Yoga",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 176,
+      "endPage": 179,
+      "summary": "Chapter navigation: Dharma, adharma and Kriya Yoga. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 52",
+        "Matsya LII"
+      ],
+      "tags": [
+        "Dharma",
+        "Yoga"
+      ],
+      "chapterNumber": 52,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 176,
+          "quote": "CHAPTER LII. The Risis said:-\"Sâta! Be good enough to relate to us the difference between Virtue (Dharma) and Vice (Adharma) in detail, as",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-053",
+      "title": "Matsya 53: The Puranas and Upapuranas",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 179,
+      "endPage": 185,
+      "summary": "Chapter navigation: The Puranas and Upapuranas. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 53",
+        "Matsya LIII"
+      ],
+      "tags": [],
+      "chapterNumber": 53,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 179,
+          "quote": "CHAPTER LIII. The Ridis.-Sûta! Be pleased to describe to us the number and bulk of all the Purânas in due order and in detail and also about the",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-054",
+      "title": "Matsya 54: Nakshatra Purusha Vrata",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 185,
+      "endPage": 190,
+      "summary": "Chapter navigation: Nakshatra Purusha Vrata. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 54",
+        "Matsya LIV"
+      ],
+      "tags": [
+        "Ritual"
+      ],
+      "chapterNumber": 54,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 185,
+          "quote": "CHAPTER LIV. Sâta said: -Rigis! I shall now relate to you in full about the gifte (Dâna Dharma), vows (Vrata) and faste, as explained by the Lord in the",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-055",
+      "title": "Matsya 55: Adityashayana Vrata",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 190,
+      "endPage": 192,
+      "summary": "Chapter navigation: Adityashayana Vrata. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 55",
+        "Matsya LV"
+      ],
+      "tags": [
+        "Ritual"
+      ],
+      "chapterNumber": 55,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 190,
+          "quote": "CHAPTER LV. Hearing all that Nârada said:-\"Lord ! What sbould one, who, owing to delicate health or otherwise, is not in a position to go through the",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-056",
+      "title": "Matsya 56: Krishnashtami Vrata",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 192,
+      "endPage": 193,
+      "summary": "Chapter navigation: Krishnashtami Vrata. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 56",
+        "Matsya LVI"
+      ],
+      "tags": [
+        "Ritual",
+        "Krishna"
+      ],
+      "chapterNumber": 56,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 192,
+          "quote": "CHAPTER LVI The adorable Siva said:-I shall now explain to you about the Kriępâetam! Vrata (ordinance) which is the destroyer of all erils. This",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-057",
+      "title": "Matsya 57: Rohini Chandrashayana Vrata",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 193,
+      "endPage": 195,
+      "summary": "Chapter navigation: Rohini Chandrashayana Vrata. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 57",
+        "Matsya LVII"
+      ],
+      "tags": [
+        "Ritual"
+      ],
+      "chapterNumber": 57,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 193,
+          "quote": "CHAPTER IVI. 173* Brahmanas, and should observe a fast after giving away cow, land,",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-058",
+      "title": "Matsya 58: Consecrating tanks and reservoirs",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 195,
+      "endPage": 200,
+      "summary": "Chapter navigation: Consecrating tanks and reservoirs. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 58",
+        "Matsya LVIII"
+      ],
+      "tags": [],
+      "chapterNumber": 58,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 195,
+          "quote": "CHAPTER LVIII. Sâta said:-The King Vaivasvata Manu asked the Lord, who was lying in the water in the form of fish, to explain to him when should",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-059",
+      "title": "Matsya 59: Dedicating trees and planting groves",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 200,
+      "endPage": 202,
+      "summary": "Chapter navigation: Dedicating trees and planting groves. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 59",
+        "Matsya LIX"
+      ],
+      "tags": [],
+      "chapterNumber": 59,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 200,
+          "quote": "CHAPTER LIX. The Risis. -Sûta! Tell us in detail the rites which the wise should observe in dedicating and consecrating a tree, and also the region in which",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-060",
+      "title": "Matsya 60: Saubhagya Shayana Vrata",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 202,
+      "endPage": 205,
+      "summary": "Chapter navigation: Saubhagya Shayana Vrata. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 60",
+        "Matsya LX"
+      ],
+      "tags": [
+        "Ritual"
+      ],
+      "chapterNumber": 60,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 202,
+          "quote": "CHAPTER LX. The Lord Fish said:-I shall now relate to you the Sanbhâgya Sayana Vrata (ordinance), the giver of all bliss which is known to the",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-061",
+      "title": "Matsya 61: The birth of Agastya",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 205,
+      "endPage": 210,
+      "summary": "Chapter navigation: The birth of Agastya. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 61",
+        "Matsya LXI"
+      ],
+      "tags": [],
+      "chapterNumber": 61,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 205,
+          "quote": "CHAPTER LXI. Narada said:-Siva! There are named the following seren regions of the Devas, ois.-Bhuh, Bhuvah, Svab, Mabah, Janah, Tapub, Satyam. -1.",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-062",
+      "title": "Matsya 62: Ananta Tritiya Vrata",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 210,
+      "endPage": 213,
+      "summary": "Chapter navigation: Ananta Tritiya Vrata. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 62",
+        "Matsya LXII"
+      ],
+      "tags": [
+        "Ritual"
+      ],
+      "chapterNumber": 62,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 210,
+          "quote": "CHAPTER LXIL King Vaivasvata Manu said:-Lord ! pray tell me about a vrata (ordi- nance) that may be the giver of good luck, health, prosperity, emancipation,",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-063",
+      "title": "Matsya 63: Rasa Kalyanini Tritiya Vrata",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 213,
+      "endPage": 215,
+      "summary": "Chapter navigation: Rasa Kalyanini Tritiya Vrata. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 63",
+        "Matsya LXIII"
+      ],
+      "tags": [
+        "Ritual"
+      ],
+      "chapterNumber": 63,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 213,
+          "quote": "CHAPTER LXII. The Lord Siva said:-I shall now describe to you another Tritfy& ordinance that washes off all the sins and is known as \" Rasakaly&pint",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-064",
+      "title": "Matsya 64: Ardranandakari Tritiya Vrata",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 215,
+      "endPage": 217,
+      "summary": "Chapter navigation: Ardranandakari Tritiya Vrata. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 64",
+        "Matsya LXIV"
+      ],
+      "tags": [
+        "Ritual"
+      ],
+      "chapterNumber": 64,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 215,
+          "quote": "CHAPTER LXIV. Siva said: -Narada! I shall now explain to you about the ordinance known as Ardrânandakart tritlys, which is the destroyer of all sins.-1.",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-065",
+      "title": "Matsya 65: Akshaya Tritiya",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 217,
+      "endPage": 218,
+      "summary": "Chapter navigation: Akshaya Tritiya. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 65",
+        "Matsya LXV"
+      ],
+      "tags": [],
+      "chapterNumber": 65,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 217,
+          "quote": "CHAPTER IXV. Siva said: -I shall now explain to you about the Aksaystritfya (giver of all desires) vrata, on which day the performance of charity,",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-066",
+      "title": "Matsya 66: Sarasvata Vrata",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 218,
+      "endPage": 219,
+      "summary": "Chapter navigation: Sarasvata Vrata. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 66",
+        "Matsya LXVI"
+      ],
+      "tags": [
+        "Ritual"
+      ],
+      "chapterNumber": 66,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 218,
+          "quote": "CHAPTER LXVI. Vaivasvata Manu asked :-Lord! By what vrata does one get sweet speech, worldly prosperity, intelligence, skill in all arts and sciences,",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-067",
+      "title": "Matsya 67: Bathing during solar and lunar eclipses",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 219,
+      "endPage": 221,
+      "summary": "Chapter navigation: Bathing during solar and lunar eclipses. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 67",
+        "Matsya LXVII"
+      ],
+      "tags": [
+        "Ritual"
+      ],
+      "chapterNumber": 67,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 219,
+          "quote": "CHAPTER LXVIL. Manu said:-Lord! Knower of the rites, the mantras and of the things to be given away in charity at the time of solar and lunar eclipses,",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-068",
+      "title": "Matsya 68: Saptami vows for infants",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 221,
+      "endPage": 225,
+      "summary": "Chapter navigation: Saptami vows for infants. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 68",
+        "Matsya LXVIII"
+      ],
+      "tags": [
+        "Ritual"
+      ],
+      "chapterNumber": 68,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 221,
+          "quote": "CHAPTER LXVIII. Narada said: -Lord! What should be done to restore the equili- brium of mind in times of distress? How is poverty to be got over? What",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-069",
+      "title": "Matsya 69: Bhima Dvadashi Vrata",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 225,
+      "endPage": 229,
+      "summary": "Chapter navigation: Bhima Dvadashi Vrata. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 69",
+        "Matsya LXIX"
+      ],
+      "tags": [
+        "Ritual"
+      ],
+      "chapterNumber": 69,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 225,
+          "quote": "CHAPTER LXIX. The Lord said: -In the past, during the Rathantara Kalpa, Brahm& asked Siva on the summit of the Mandarâchala Mountain. -1.",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-070",
+      "title": "Matsya 70: Ananga Dana Vrata",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 229,
+      "endPage": 233,
+      "summary": "Chapter navigation: Ananga Dana Vrata. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 70",
+        "Matsya LXX"
+      ],
+      "tags": [
+        "Ritual"
+      ],
+      "chapterNumber": 70,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 229,
+          "quote": "CHAPTER LXX. Brahma said:-Siva! I have heard of the efficacy of Varpa Adrama a well as of good conduct, as prescribed by the Dharma Sistras. I am now",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-071",
+      "title": "Matsya 71: Ashunya Shayana Vrata",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 233,
+      "endPage": 235,
+      "summary": "Chapter navigation: Ashunya Shayana Vrata. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 71",
+        "Matsya LXXI"
+      ],
+      "tags": [
+        "Ritual"
+      ],
+      "chapterNumber": 71,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 233,
+          "quote": "CHAPTER LXXI. Brabma said. -\" Lord be pleased to explain to me the ordinance, by the observance of which there may he no separation between husband",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-072",
+      "title": "Matsya 72: Angaraka Vrata",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 235,
+      "endPage": 238,
+      "summary": "Chapter navigation: Angaraka Vrata. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 72",
+        "Matsya LXXII"
+      ],
+      "tags": [
+        "Ritual"
+      ],
+      "chapterNumber": 72,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 235,
+          "quote": "CHAPTER LXXII. Siva said. -\" Brahma! Now listen to the ordinance that will be the giver of wealth, and will come in vogue at the end of future Dw&para.",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-073",
+      "title": "Matsya 73: Worship of Jupiter and Venus",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 238,
+      "endPage": 240,
+      "summary": "Chapter navigation: Worship of Jupiter and Venus. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 73",
+        "Matsya LXXIII"
+      ],
+      "tags": [
+        "Ritual"
+      ],
+      "chapterNumber": 73,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 238,
+          "quote": "CHAPTER LXXIII. Pippalada said. -\" King! now listen to the rituals pertaining to the pacification of the malignant aspect of the planet Sukra (Venus). On the",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-074",
+      "title": "Matsya 74: Kalyana Saptami Vrata",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 240,
+      "endPage": 241,
+      "summary": "Chapter navigation: Kalyana Saptami Vrata. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 74",
+        "Matsya LXXIV"
+      ],
+      "tags": [
+        "Ritual"
+      ],
+      "chapterNumber": 74,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 240,
+          "quote": "CHAPTER LXXIV. Brahma said: -Lord Siva! you are the One, who sees all beings safely through the ocean of the world, pray therefore describe some such",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-075",
+      "title": "Matsya 75: Vishoka Saptami Vrata",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 241,
+      "endPage": 242,
+      "summary": "Chapter navigation: Vishoka Saptami Vrata. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 75",
+        "Matsya LXXV"
+      ],
+      "tags": [
+        "Ritual"
+      ],
+      "chapterNumber": 75,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 241,
+          "quote": "CHAPTER LXXV. Siva said: -O sage! I shall now tell you about the Višoka Saptami (the Sorrow-Destroying fast) the observance of which fast frees the devotee",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-076",
+      "title": "Matsya 76: Phala Saptami Vrata",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 242,
+      "endPage": 244,
+      "summary": "Chapter navigation: Phala Saptami Vrata. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 76",
+        "Matsya LXXVI"
+      ],
+      "tags": [
+        "Ritual"
+      ],
+      "chapterNumber": 76,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 242,
+          "quote": "CHAPTER LXXVI. Siva said: -\" I shall now describe to you the Phala Saptami, (fruit- gift fast) the observance of which liberates the devotee from sins and leads",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-077",
+      "title": "Matsya 77: Sharkara Saptami Vrata",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 244,
+      "endPage": 245,
+      "summary": "Chapter navigation: Sharkara Saptami Vrata. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 77",
+        "Matsya LXXVII"
+      ],
+      "tags": [
+        "Ritual"
+      ],
+      "chapterNumber": 77,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 244,
+          "quote": "CHAPTER LXXVII. Siva said.-\"I shall now explain to you something about the Sarkard Saptamt, (gift of sugar) the destroyer of sin, by the observance of",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-078",
+      "title": "Matsya 78: Kamala Saptami Vrata",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 245,
+      "endPage": 246,
+      "summary": "Chapter navigation: Kamala Saptami Vrata. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 78",
+        "Matsya LXXVIII"
+      ],
+      "tags": [
+        "Ritual"
+      ],
+      "chapterNumber": 78,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 245,
+          "quote": "CHAPTER LXXVIII. Siva said: -I shall now describe to you that Kamala Saptainf vrata, by the mere mention of which the God Sun becomes pleased. -1.",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-079",
+      "title": "Matsya 79: Mandara Saptami Vrata",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 246,
+      "endPage": 247,
+      "summary": "Chapter navigation: Mandara Saptami Vrata. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 79",
+        "Matsya LXXIX"
+      ],
+      "tags": [
+        "Ritual"
+      ],
+      "chapterNumber": 79,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 246,
+          "quote": "CHAPTER LXXIX. Siva said: -I now relate to you about the Mandara Saptami, the giver of all desires, the most excellent, and the destroyer of all sins.-1.",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-080",
+      "title": "Matsya 80: Shubha Saptami Vrata",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 247,
+      "endPage": 248,
+      "summary": "Chapter navigation: Shubha Saptami Vrata. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 80",
+        "Matsya LXXX"
+      ],
+      "tags": [
+        "Ritual"
+      ],
+      "chapterNumber": 80,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 247,
+          "quote": "CHAPTER LXXX. 8r1 Bhagavân said: -I shall now explain to you about the excellent Subha eaptamt fasting, which frees the devotee from all diseases, sorrows",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-081",
+      "title": "Matsya 81: Vishoka Dvadashi Vrata",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 248,
+      "endPage": 251,
+      "summary": "Chapter navigation: Vishoka Dvadashi Vrata. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 81",
+        "Matsya LXXXI"
+      ],
+      "tags": [
+        "Ritual"
+      ],
+      "chapterNumber": 81,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 248,
+          "quote": "CHAPTER LXXXI. Manu asked:--Lord! which is that ordinance, by the observance of which, separation from the dear ones ceases to be painful and which confers",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-082",
+      "title": "Matsya 82: Ashoka Dvadashi and symbolic cows",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 251,
+      "endPage": 253,
+      "summary": "Chapter navigation: Ashoka Dvadashi and symbolic cows. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 82",
+        "Matsya LXXXII"
+      ],
+      "tags": [],
+      "chapterNumber": 82,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 251,
+          "quote": "CHAPTER LXXXII. Manu asked:-O, Lord of the Universe! pray tell me about Guda- dhenu. How should it be made, and by what mantra should it be given",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-083",
+      "title": "Matsya 83: Gifts of grain heaps",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 253,
+      "endPage": 257,
+      "summary": "Chapter navigation: Gifts of grain heaps. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 83",
+        "Matsya LXXXIII"
+      ],
+      "tags": [
+        "Ritual"
+      ],
+      "chapterNumber": 83,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 253,
+          "quote": "CHAPTER LXXXIII. NArada said: -O Lord of the Universe! I wish to hear the benefite of that best of all gifts, that may be the giver of everlasting benefits in",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-084",
+      "title": "Matsya 84: The gift of a salt mountain",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 257,
+      "endPage": 257,
+      "summary": "Chapter navigation: The gift of a salt mountain. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 84",
+        "Matsya LXXXIV"
+      ],
+      "tags": [
+        "Ritual",
+        "Cosmology"
+      ],
+      "chapterNumber": 84,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 257,
+          "quote": "CHAPTER LXXXIV. Siva said: -I am now going to tell you about the mount of salt, the donor of which goes to My region.-1.",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-085",
+      "title": "Matsya 85: The gift of a molasses mountain",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 257,
+      "endPage": 258,
+      "summary": "Chapter navigation: The gift of a molasses mountain. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 85",
+        "Matsya LXXXV"
+      ],
+      "tags": [
+        "Ritual",
+        "Cosmology"
+      ],
+      "chapterNumber": 85,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 257,
+          "quote": "CHAPTER LXXXIV. Siva said: -I am now going to tell you about the mount of salt, the donor of which goes to My region.-1.",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-086",
+      "title": "Matsya 86: The gift of a gold mountain",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 258,
+      "endPage": 259,
+      "summary": "Chapter navigation: The gift of a gold mountain. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 86",
+        "Matsya LXXXVI"
+      ],
+      "tags": [
+        "Ritual",
+        "Cosmology"
+      ],
+      "chapterNumber": 86,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 258,
+          "quote": "CHAPTER LXXXVI. I am now describing to you the ways of giving away the mountain of gold, which drives away all sins, and takes the devotee to the region of",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-087",
+      "title": "Matsya 87: The gift of a sesame mountain",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 259,
+      "endPage": 259,
+      "summary": "Chapter navigation: The gift of a sesame mountain. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 87",
+        "Matsya LXXXVII"
+      ],
+      "tags": [
+        "Ritual",
+        "Cosmology"
+      ],
+      "chapterNumber": 87,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 259,
+          "quote": "CHAPTER LXXXVII. Now I proceed to explain to you about the giving away of the mount of sesamum, by the virtue of which the devotee goes to the realm of",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-088",
+      "title": "Matsya 88: The gift of a cotton mountain",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 259,
+      "endPage": 260,
+      "summary": "Chapter navigation: The gift of a cotton mountain. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 88",
+        "Matsya LXXXVIII"
+      ],
+      "tags": [
+        "Ritual",
+        "Cosmology"
+      ],
+      "chapterNumber": 88,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 259,
+          "quote": "CHAPTER LXXXVII. Now I proceed to explain to you about the giving away of the mount of sesamum, by the virtue of which the devotee goes to the realm of",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-089",
+      "title": "Matsya 89: The gift of a clarified-butter mountain",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 260,
+      "endPage": 260,
+      "summary": "Chapter navigation: The gift of a clarified-butter mountain. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 89",
+        "Matsya LXXXIX"
+      ],
+      "tags": [
+        "Ritual",
+        "Cosmology"
+      ],
+      "chapterNumber": 89,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 260,
+          "quote": "CHAPTER LXXXIX. Now I shall describe to you about the gift of the mount of clarified butter. It is like nectar, and its charity is the destroyer of all",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-090",
+      "title": "Matsya 90: The gift of pearls and gems",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 260,
+      "endPage": 261,
+      "summary": "Chapter navigation: The gift of pearls and gems. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 90",
+        "Matsya XC"
+      ],
+      "tags": [
+        "Ritual"
+      ],
+      "chapterNumber": 90,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 260,
+          "quote": "CHAPTER LXXXIX. Now I shall describe to you about the gift of the mount of clarified butter. It is like nectar, and its charity is the destroyer of all",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-091",
+      "title": "Matsya 91: The gift of a silver mountain",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 261,
+      "endPage": 262,
+      "summary": "Chapter navigation: The gift of a silver mountain. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 91",
+        "Matsya XCI"
+      ],
+      "tags": [
+        "Ritual",
+        "Cosmology"
+      ],
+      "chapterNumber": 91,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 261,
+          "quote": "CHAPTER XCI Now I shall explain to you about the mount of silver, by the gift of which the devotee goes to the realm of the Moon.-1.",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-092",
+      "title": "Matsya 92: The gift of a sugar mountain",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 262,
+      "endPage": 265,
+      "summary": "Chapter navigation: The gift of a sugar mountain. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 92",
+        "Matsya XCII"
+      ],
+      "tags": [
+        "Ritual",
+        "Cosmology"
+      ],
+      "chapterNumber": 92,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 262,
+          "quote": "CHAPTER XCIL. I now relate to you the ways of giving away the mountain of sugar in gift, by the virtue of which Vignu, Siva, and the Sun always remain.",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-093",
+      "title": "Matsya 93: Navagraha Homa Shanti",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 265,
+      "endPage": 277,
+      "summary": "Chapter navigation: Navagraha Homa Shanti. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 93",
+        "Matsya XCIII"
+      ],
+      "tags": [
+        "Ritual"
+      ],
+      "chapterNumber": 93,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 265,
+          "quote": "CHAPTER XCIL. Sâta said: -In the days gone by, Saunaka asked Vaisampâyana, who was seated at his leisure, to explain to him the ways of the acquirement of",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-094",
+      "title": "Matsya 94: Iconography of the planets",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 277,
+      "endPage": 279,
+      "summary": "Chapter navigation: Iconography of the planets. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 94",
+        "Matsya XCIV"
+      ],
+      "tags": [
+        "Cosmology"
+      ],
+      "chapterNumber": 94,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 277,
+          "quote": "CHAPTER XCIV. Siva said: - The image of the God Sun who causes the lotus to bud- should be made as seated on a lotus (Padmasana), with color like that of",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-095",
+      "title": "Matsya 95: Shiva Chaturdashi Vrata",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 279,
+      "endPage": 282,
+      "summary": "Chapter navigation: Shiva Chaturdashi Vrata. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 95",
+        "Matsya XCV"
+      ],
+      "tags": [
+        "Shiva",
+        "Ritual"
+      ],
+      "chapterNumber": 95,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 279,
+          "quote": "CHAPTER XOV. Narada said: -O Lord, presiding over the Past and the Future! pray tell me about some other ordinance that may be the giver of happinese",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-096",
+      "title": "Matsya 96: Relinquishing the fruits of action",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 282,
+      "endPage": 283,
+      "summary": "Chapter navigation: Relinquishing the fruits of action. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 96",
+        "Matsya XCVI"
+      ],
+      "tags": [],
+      "chapterNumber": 96,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 282,
+          "quote": "CHAPTER XOVI. Nandikesvara said: -O Nârada! also hear the benefits that accrue to the devotee in his next life, by his relinquishing the fruite of this ordi-",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-097",
+      "title": "Matsya 97: The Sunday observance",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 283,
+      "endPage": 285,
+      "summary": "Chapter navigation: The Sunday observance. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 97",
+        "Matsya XCVII"
+      ],
+      "tags": [
+        "Ritual",
+        "Cosmology"
+      ],
+      "chapterNumber": 97,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 283,
+          "quote": "CHAPTER XOVII. Narada said:-Nandikedvara! Pray describe to me the ordinance that may be the giver of peace, health and everlasting benefits to the",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-098",
+      "title": "Matsya 98: Concluding the Sankranti Vrata",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 285,
+      "endPage": 287,
+      "summary": "Chapter navigation: Concluding the Sankranti Vrata. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 98",
+        "Matsya XCVIII"
+      ],
+      "tags": [
+        "Ritual"
+      ],
+      "chapterNumber": 98,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 285,
+          "quote": "CHAPTER XCVIII. Nandikeśvara said:-Nârada! I shall now describe to you the way how the ordinance of Sankranti, which in the next world gives everlasting",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-099",
+      "title": "Matsya 99: Vibhuti Dvadashi Vrata",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 287,
+      "endPage": 288,
+      "summary": "Chapter navigation: Vibhuti Dvadashi Vrata. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 99",
+        "Matsya XCIX"
+      ],
+      "tags": [
+        "Ritual"
+      ],
+      "chapterNumber": 99,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 287,
+          "quote": "CHAPTER XCIX. Nandikedvara said :--NArada! 1 shall now relate to you Vişnu vrata, known as the Vibhûti-Dvadast vrata, which is held in veneration by all",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-100",
+      "title": "Matsya 100: The story of Vibhuti Dvadashi",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 288,
+      "endPage": 291,
+      "summary": "Chapter navigation: The story of Vibhuti Dvadashi. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 100",
+        "Matsya C"
+      ],
+      "tags": [],
+      "chapterNumber": 100,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 288,
+          "quote": "CHAPTER C. Nandikedvara said:-In the days gone by, during the Rathantara Kalpa, there lived a mighty king, as illustrious as the Sun, who was known",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-101",
+      "title": "Matsya 101: Sixty vows and their fruits",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 291,
+      "endPage": 298,
+      "summary": "Chapter navigation: Sixty vows and their fruits. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 101",
+        "Matsya CI"
+      ],
+      "tags": [
+        "Ritual"
+      ],
+      "chapterNumber": 101,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 291,
+          "quote": "CHAPTER CL. Nandikesvara said: -Nârada! Hear, I am now going to tell you about the sixty ordinancee, as explained by the Lord Siva and which dispel",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-102",
+      "title": "Matsya 102: The method of bathing",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 298,
+      "endPage": 302,
+      "summary": "Chapter navigation: The method of bathing. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 102",
+        "Matsya CII"
+      ],
+      "tags": [
+        "Ritual"
+      ],
+      "chapterNumber": 102,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 298,
+          "quote": "CHAPTER CIL. Nandikesvara said:-NArada! There cannot be purity of body and mind without bathing, therefore to keep the mind refreshed it is",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-103",
+      "title": "Matsya 103: The greatness of Prayaga",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 302,
+      "endPage": 303,
+      "summary": "Chapter navigation: The greatness of Prayaga. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 103",
+        "Matsya CIII"
+      ],
+      "tags": [
+        "Pilgrimage"
+      ],
+      "chapterNumber": 103,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 302,
+          "quote": "CHAPTER CII. Nandikesvara said: -Nârada! I shall now relate to you what the sage Markandeya narrated to Yudhięthirn about Prayaga, in the days",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-104",
+      "title": "Matsya 104: Prayaga: Brahma's teaching",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 303,
+      "endPage": 305,
+      "summary": "Chapter navigation: Prayaga: Brahma's teaching. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 104",
+        "Matsya CIV"
+      ],
+      "tags": [
+        "Pilgrimage",
+        "Knowledge"
+      ],
+      "chapterNumber": 104,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 303,
+          "quote": "CHAPTER CIV. Yudhięthira said: -Brâhmapa! I am desirous of hearing what Lord Brabmâ had said in the days gone by.-1.",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-105",
+      "title": "Matsya 105: The gift of a cow at Prayaga",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 305,
+      "endPage": 306,
+      "summary": "Chapter navigation: The gift of a cow at Prayaga. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 105",
+        "Matsya CV"
+      ],
+      "tags": [
+        "Ritual",
+        "Pilgrimage"
+      ],
+      "chapterNumber": 105,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 305,
+          "quote": "CHAPTER CV. Markandeya said: -King! Besides this, 1 shall now tell you about the great virtues of Prayaga; by the mere hearing of it one is rescued",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-106",
+      "title": "Matsya 106: The greatness of Prayaga continued",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 306,
+      "endPage": 309,
+      "summary": "Chapter navigation: The greatness of Prayaga continued. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 106",
+        "Matsya CVI"
+      ],
+      "tags": [
+        "Pilgrimage"
+      ],
+      "chapterNumber": 106,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 306,
+          "quote": "CHAPTER OVI. Yudhięthira said: -Sage! I feel I am gradually being freed from my sins by the virtues of Prayaga that you have been pleased to relate",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-107",
+      "title": "Matsya 107: The greatness of the Prayaga Tirtha",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 309,
+      "endPage": 311,
+      "summary": "Chapter navigation: The greatness of the Prayaga Tirtha. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 107",
+        "Matsya CVII"
+      ],
+      "tags": [
+        "Pilgrimage"
+      ],
+      "chapterNumber": 107,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 309,
+          "quote": "CHAPTER CVIL. Merkandeya said: O King! I shall now relate to you further the greatness of the holy Prayâga by listening to which a man undoubtedly",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-108",
+      "title": "Matsya 108: Prayaga and sacred pilgrimage",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 311,
+      "endPage": 313,
+      "summary": "Chapter navigation: Prayaga and sacred pilgrimage. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 108",
+        "Matsya CVIII"
+      ],
+      "tags": [
+        "Ritual",
+        "Pilgrimage"
+      ],
+      "chapterNumber": 108,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 311,
+          "quote": "CHAPTER CVIL. Yudhisthira said: \" Bhagavân! my mind has become purified by hearing the greatness of PrayAga narrated by you. -1.",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-109",
+      "title": "Matsya 109: Prayaga compared with other sacred places",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 313,
+      "endPage": 315,
+      "summary": "Chapter navigation: Prayaga compared with other sacred places. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 109",
+        "Matsya CIX"
+      ],
+      "tags": [
+        "Ritual",
+        "Pilgrimage"
+      ],
+      "chapterNumber": 109,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 313,
+          "quote": "CHAPTER CIX. Mârkandeya said:--The thousands of tirthas that I have heard described in the Brahma Purâna by Brahmi, are sacred, purifying and",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-110",
+      "title": "Matsya 110: The greatness of Prayaga continued",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 315,
+      "endPage": 316,
+      "summary": "Chapter navigation: The greatness of Prayaga continued. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 110",
+        "Matsya CX"
+      ],
+      "tags": [
+        "Pilgrimage"
+      ],
+      "chapterNumber": 110,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 315,
+          "quote": "CHAPTER CX. Markandeya said :-King! Hear from me something further about the greatness of Pray&ga. The sages have said that Naimiga, Puękara,",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-111",
+      "title": "Matsya 111: Why Prayaga is praised",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 316,
+      "endPage": 317,
+      "summary": "Chapter navigation: Why Prayaga is praised. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 111",
+        "Matsya CXI"
+      ],
+      "tags": [
+        "Pilgrimage"
+      ],
+      "chapterNumber": 111,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 316,
+          "quote": "CHAPTER CXI. Yudhisthirs said: -\" O' Sage ! How is it that you have been telling me only all about Prayâga? Pray explain it to me so that my family may",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-112",
+      "title": "Matsya 112: The Pandavas visit Prayaga",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 317,
+      "endPage": 321,
+      "summary": "Chapter navigation: The Pandavas visit Prayaga. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 112",
+        "Matsya CXII"
+      ],
+      "tags": [
+        "Pilgrimage"
+      ],
+      "chapterNumber": 112,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 317,
+          "quote": "CHAPTER CXII. Nandikeśvara said:- Nârada! Having pluced full belief in the words of the Sage Mârkandeya, Yudhisthira along with the other Pândavas",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-113",
+      "title": "Matsya 113: Jambudvipa, mountains and regions",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 321,
+      "endPage": 326,
+      "summary": "Chapter navigation: Jambudvipa, mountains and regions. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 113",
+        "Matsya CXIII"
+      ],
+      "tags": [
+        "Cosmology"
+      ],
+      "chapterNumber": 113,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 321,
+          "quote": "CHAPTER OXIL The lisis said:-Sir, How many spheres (dvipas) are there of the world, as well as how many oceans and mountains are there? How",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-114",
+      "title": "Matsya 114: Bharatavarsha and the regions of the world",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 326,
+      "endPage": 332,
+      "summary": "Chapter navigation: Bharatavarsha and the regions of the world. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 114",
+        "Matsya CXIV"
+      ],
+      "tags": [
+        "Cosmology"
+      ],
+      "chapterNumber": 114,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 326,
+          "quote": "CHAPTER OXIV. The sages said:- We wish to hear from you an account of this Bharatavarga, which was peopled by Svåyambbuva and the rest of the",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-115",
+      "title": "Matsya 115: The king and the hermitage",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 332,
+      "endPage": 333,
+      "summary": "Chapter navigation: The king and the hermitage. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 115",
+        "Matsya CXV"
+      ],
+      "tags": [],
+      "chapterNumber": 115,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 332,
+          "quote": "CHAPTER OXV. Manu said: -Janârdana! I have heard the doings of the son of Budha and have also heard the ways of performing sacred Srâddha that",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-116",
+      "title": "Matsya 116: The celestial river Airavati",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 333,
+      "endPage": 335,
+      "summary": "Chapter navigation: The celestial river Airavati. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 116",
+        "Matsya CXVI"
+      ],
+      "tags": [],
+      "chapterNumber": 116,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 333,
+          "quote": "CHAPTER CXVI. Sûta said:-O Risis! The King saw the glorious, blessed and sacred river of Haimavatf where the Gandharvas abound and which Indra",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-117",
+      "title": "Matsya 117: The Himalayas",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 335,
+      "endPage": 336,
+      "summary": "Chapter navigation: The Himalayas. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 117",
+        "Matsya CXVII"
+      ],
+      "tags": [],
+      "chapterNumber": 117,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 335,
+          "quote": "CHAPTER CXVIL Sûta said: -Risie! when the king's fatigue was removed at the siglit of the holy water of that river and by the contact of its wind, be trudged",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-118",
+      "title": "Matsya 118: The hermitage of Atri",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 336,
+      "endPage": 339,
+      "summary": "Chapter navigation: The hermitage of Atri. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 118",
+        "Matsya CXVIII"
+      ],
+      "tags": [],
+      "chapterNumber": 118,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 336,
+          "quote": "CHAPTER CXVILL. Sûta said :-Sages ! King Purûrav& suddenly came to one of the beautiful placesiạẠạthat mountain inaccessible to ordinary human beings.",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-119",
+      "title": "Matsya 119: The mountain peaks and hermitage",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 339,
+      "endPage": 342,
+      "summary": "Chapter navigation: The mountain peaks and hermitage. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 119",
+        "Matsya CXIX"
+      ],
+      "tags": [
+        "Cosmology"
+      ],
+      "chapterNumber": 119,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 339,
+          "quote": "CHAPTER CXIX. Sûta said:-There were two great snowclad peake, shining with variegated colours, and in their midst was a huge summit, covered with",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-120",
+      "title": "Matsya 120: The Aila hermitage",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 342,
+      "endPage": 345,
+      "summary": "Chapter navigation: The Aila hermitage. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 120",
+        "Matsya CXX"
+      ],
+      "tags": [],
+      "chapterNumber": 120,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 342,
+          "quote": "CHAPTER CXX. Sûta said:--Then that king, giving up all food and the use of raiments, saw the pastimes of the Gandharvas and the nymphs (apsar&s). -1.",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-121",
+      "title": "Matsya 121: Jambudvipa and Mount Kailasa",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 345,
+      "endPage": 349,
+      "summary": "Chapter navigation: Jambudvipa and Mount Kailasa. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 121",
+        "Matsya CXXI"
+      ],
+      "tags": [
+        "Cosmology"
+      ],
+      "chapterNumber": 121,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 345,
+          "quote": "CHAPTER CXXI. Sûta said:-To the north of that hermitage, on the back of the Him&laya, in the centre, stands the Mont Kailas the residence of Siva",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-122",
+      "title": "Matsya 122: Shaka, Kusha, Krauncha and Shalmala Dvipas",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 349,
+      "endPage": 354,
+      "summary": "Chapter navigation: Shaka, Kusha, Krauncha and Shalmala Dvipas. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 122",
+        "Matsya CXXII"
+      ],
+      "tags": [
+        "Cosmology"
+      ],
+      "chapterNumber": 122,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 349,
+          "quote": "CHAPTER CXXI. Sâta Said. - Now hear from me, O, holy twice born! the description of Sakadvipa. Its width is twice that of the Jambudvipa, while its perimeter",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-123",
+      "title": "Matsya 123: The seven Dvipas",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 354,
+      "endPage": 358,
+      "summary": "Chapter navigation: The seven Dvipas. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 123",
+        "Matsya CXXIII"
+      ],
+      "tags": [
+        "Cosmology"
+      ],
+      "chapterNumber": 123,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 354,
+          "quote": "CHAPTER OXXII. Gômeda Doîpa. Sûta said: -Rięis! Now hear about the sixth dvfpa, known as the",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-124",
+      "title": "Matsya 124: The sun, moon and the world",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 358,
+      "endPage": 366,
+      "summary": "Chapter navigation: The sun, moon and the world. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 124",
+        "Matsya CXXIV"
+      ],
+      "tags": [
+        "Cosmology"
+      ],
+      "chapterNumber": 124,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 358,
+          "quote": "CHAPTER CXXIV. Sûta said:-I shall now tell you, O Risis! something about the movements of the sun and the moon and the area illumined by these two",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-125",
+      "title": "Matsya 125: The motions of the sun and moon",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 366,
+      "endPage": 369,
+      "summary": "Chapter navigation: The motions of the sun and moon. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 125",
+        "Matsya CXXV"
+      ],
+      "tags": [
+        "Cosmology"
+      ],
+      "chapterNumber": 125,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 366,
+          "quote": "CHAPTER CXXV. The Rigie after hearing such an interesting narration about the sun, moon and the planets asked the Sage Sûta. How do the planets move about",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-126",
+      "title": "Matsya 126: Monthly attendants of the sun",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 369,
+      "endPage": 373,
+      "summary": "Chapter navigation: Monthly attendants of the sun. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 126",
+        "Matsya CXXVI"
+      ],
+      "tags": [
+        "Cosmology"
+      ],
+      "chapterNumber": 126,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 369,
+          "quote": "CHAPTER CXXVI Sûta said: -The chariot of the Sun is occupied by the several (1) Devas month after month, by turns, in regular succession; they carry Him on",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-127",
+      "title": "Matsya 127: Chariots of stars, planets and Rahu",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 373,
+      "endPage": 375,
+      "summary": "Chapter navigation: Chariots of stars, planets and Rahu. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 127",
+        "Matsya CXXVII"
+      ],
+      "tags": [
+        "Cosmology"
+      ],
+      "chapterNumber": 127,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 373,
+          "quote": "CHAPTER CXXVI. Sûta said:-I shall now relate to you about the chariots of the stars and planets and Râhu (the ascending node). The chariot of Budha",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-128",
+      "title": "Matsya 128: The abodes of the gods and planets",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 375,
+      "endPage": 380,
+      "summary": "Chapter navigation: The abodes of the gods and planets. Title normalized from the supplied chapter body and/or closing colophon; the inclusive range may include the next heading page.",
+      "aliases": [
+        "Matsya chapter 128",
+        "Matsya CXXVIII"
+      ],
+      "tags": [
+        "Cosmology"
+      ],
+      "chapterNumber": 128,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 375,
+          "quote": "CHAPTER CXXVIII. The Risis said :- We have heard what you have explained, O, Sûta! But what are those abodes of the Devas ? Kindly explain more at length",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR heading and colophon index; normalized display title; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-271",
+      "title": "Matsya 271: Future kings in the solar and lunar lines",
+      "type": "section",
+      "parent": "p-matsya-appendix-iii",
+      "doc": "matsyapurana-english",
+      "page": 407,
+      "endPage": 410,
+      "summary": "A translated Matsya chapter placed within Appendix III of this edition. Interleaved historical notes belong to the editor or translator.",
+      "aliases": [
+        "Matsya chapter 271"
+      ],
+      "tags": [
+        "Genealogy",
+        "Kali Yuga"
+      ],
+      "chapterNumber": 271,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 407,
+          "quote": "CHAPTER COLXXI. Rigis said:-O Sûta, you have described to us the dynasty of Puru, along with the future kings in that dynasty. Now tell us about those",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR appendix heading; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-272",
+      "title": "Matsya 272: Pradyota, Shishunaga, Nanda, Maurya, Shunga and Kanva dynasties",
+      "type": "section",
+      "parent": "p-matsya-appendix-iii",
+      "doc": "matsyapurana-english",
+      "page": 410,
+      "endPage": 414,
+      "summary": "A translated Matsya chapter placed within Appendix III of this edition. Interleaved historical notes belong to the editor or translator.",
+      "aliases": [
+        "Matsya chapter 272"
+      ],
+      "tags": [
+        "Genealogy",
+        "Kali Yuga"
+      ],
+      "chapterNumber": 272,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 410,
+          "quote": "CHAPTER COLXXII. Pradyota or Balaka Dynasty. Sûta said :-When Bribadrathas and Vitihotras and Avantis have",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR appendix heading; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-ch-273",
+      "title": "Matsya 273: Andhra and later dynasties; Kali-age chronology",
+      "type": "section",
+      "parent": "p-matsya-appendix-iii",
+      "doc": "matsyapurana-english",
+      "page": 414,
+      "endPage": 428,
+      "summary": "A translated Matsya chapter placed within Appendix III of this edition. Interleaved historical notes belong to the editor or translator.",
+      "aliases": [
+        "Matsya chapter 273"
+      ],
+      "tags": [
+        "Genealogy",
+        "Kali Yuga"
+      ],
+      "chapterNumber": 273,
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 414,
+          "quote": "CHAPTER COLXXILL. Andhras. The Andhra Simuka (Siduka) with his fellow tribesmen, the servante",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR appendix heading; inclusive navigation span."
+    },
+    {
+      "id": "p-matsya-appendix-i",
+      "title": "Matsya Appendix I: The character and origin of the Puranas",
+      "type": "commentary",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 381,
+      "endPage": 392,
+      "summary": "Editorial or translator material appended to this edition; distinguish its historical and interpretive claims from the Purana translation. ",
+      "aliases": [],
+      "tags": [
+        "Knowledge"
+      ],
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 381,
+          "quote": "APPENDIX I. THE CHARACTER AND THE ORIGIN OF THE PURÂNAS.® The word 'Purana ' means ' old ' in all the Sanskritic languages of India. In its use as a noun this word means the branch of religious",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR appendix heading."
+    },
+    {
+      "id": "p-matsya-appendix-ii",
+      "title": "Matsya Appendix II: Chronological discussion and dynastic comparisons",
+      "type": "commentary",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 393,
+      "endPage": 406,
+      "summary": "Editorial or translator material appended to this edition; distinguish its historical and interpretive claims from the Purana translation. ",
+      "aliases": [],
+      "tags": [
+        "Genealogy"
+      ],
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 393,
+          "quote": "APPENDIX II. THE DATE OF THE MAHABHARATA WAR. (Various Views.) I. The most important question, in Indian Paurânic Chronology is,",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR appendix heading."
+    },
+    {
+      "id": "p-matsya-appendix-iii",
+      "title": "Matsya Appendix III: Translations of Matsya chapters 271–273 with notes",
+      "type": "section",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 407,
+      "endPage": 428,
+      "summary": "Editorial or translator material appended to this edition; distinguish its historical and interpretive claims from the Purana translation. This appendix also contains translated chapters 271–273.",
+      "aliases": [],
+      "tags": [
+        "Genealogy"
+      ],
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 407,
+          "quote": "APPENDIX III. [Note.-Here we give the translation of three chapters, namely of 971-978 of the Matays Purina, which give an acoount of the Dynasties of the Kalf Age after the War, in order, to complete the chronology of the Indian kings and to elucidate the points dia-",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR appendix heading."
+    },
+    {
+      "id": "p-matsya-appendix-vi",
+      "title": "Matsya Appendix VI: Dynastic tables",
+      "type": "commentary",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 433,
+      "endPage": 454,
+      "summary": "Editorial or translator material appended to this edition; distinguish its historical and interpretive claims from the Purana translation. ",
+      "aliases": [],
+      "tags": [
+        "Genealogy"
+      ],
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 433,
+          "quote": "APPENDIX VI. TABLE No. 1. THE SORYA VAMSA or THE SOLAR DYNASTY. (Pre-Mahabhärata War).",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR appendix heading."
+    },
+    {
+      "id": "p-matsya-appendix-vii",
+      "title": "Matsya Appendix VII: Pre-Mahabharata kings: comparative tables",
+      "type": "commentary",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 455,
+      "endPage": 458,
+      "summary": "Editorial or translator material appended to this edition; distinguish its historical and interpretive claims from the Purana translation. ",
+      "aliases": [],
+      "tags": [
+        "Genealogy"
+      ],
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 455,
+          "quote": "APPENDIX VII. (Pre Mahabharata War Kings. (Extract from Mr. Pargiter's paper in J.R.A.S. January 1910). YADAYAS.",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR appendix heading."
+    },
+    {
+      "id": "p-matsya-appendix-viii",
+      "title": "Matsya Appendix VIII: Pauranik chronology",
+      "type": "commentary",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 459,
+      "endPage": 473,
+      "summary": "Editorial or translator material appended to this edition; distinguish its historical and interpretive claims from the Purana translation. ",
+      "aliases": [],
+      "tags": [
+        "Genealogy"
+      ],
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 459,
+          "quote": "APPENDIX VIII. PAURANIK CHRONOLOGY. It is said that Indians have no history, and that they do not possess any historical instinct. This erroneous opinion about the Hindus, owes its",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR appendix heading."
+    },
+    {
+      "id": "p-matsya-appendix-ix",
+      "title": "Matsya Appendix IX: Pauranik geography",
+      "type": "commentary",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 474,
+      "endPage": 483,
+      "summary": "Editorial or translator material appended to this edition; distinguish its historical and interpretive claims from the Purana translation. ",
+      "aliases": [],
+      "tags": [
+        "Knowledge"
+      ],
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 474,
+          "quote": "APPENDIX IX. PAURANIK GEOGRAPHY. Another subject, which the present part treats of, is about geography and cosmography or Bhuvanakoda. The last few chapters of this part treat",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR appendix heading."
+    },
+    {
+      "id": "p-matsya-appendix-x",
+      "title": "Matsya Appendix X: The date of the Matsya Purana",
+      "type": "commentary",
+      "parent": "p-matsyapurana-english",
+      "doc": "matsyapurana-english",
+      "page": 484,
+      "endPage": 488,
+      "summary": "Editorial or translator material appended to this edition; distinguish its historical and interpretive claims from the Purana translation. ",
+      "aliases": [],
+      "tags": [
+        "Knowledge"
+      ],
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 484,
+          "quote": "APPENDIX X. THE DATE OF THE MATSYA PURÂNA The Sacrificial Session. THE Great War had come to an end and the militarism of India,",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR appendix heading."
+    },
+    {
+      "id": "p-brahmanda-ch-044",
+      "title": "Brahmanda 44: The story of Parashurama",
+      "type": "section",
+      "parent": "p-brahmaand-purana",
+      "doc": "brahmaand-purana",
+      "page": 10,
+      "endPage": 13,
+      "summary": "Chapter navigation in the supplied Part III continuation: The story of Parashurama. Inclusive range may include the next chapter heading page.",
+      "aliases": [
+        "Brahmanda chapter 44"
+      ],
+      "tags": [
+        "Parashurama"
+      ],
+      "chapterNumber": 44,
+      "evidence": [
+        {
+          "doc": "brahmaand-purana",
+          "page": 10,
+          "quote": "CHAPTER FORTYFOUR The Story of Paraturama Vasiştha said :",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR body heading checked against contents; normalized display title."
+    },
+    {
+      "id": "p-brahmanda-ch-045",
+      "title": "Brahmanda 45: The story of Parashurama continued",
+      "type": "section",
+      "parent": "p-brahmaand-purana",
+      "doc": "brahmaand-purana",
+      "page": 13,
+      "endPage": 15,
+      "summary": "Chapter navigation in the supplied Part III continuation: The story of Parashurama continued. Inclusive range may include the next chapter heading page.",
+      "aliases": [
+        "Brahmanda chapter 45"
+      ],
+      "tags": [
+        "Parashurama"
+      ],
+      "chapterNumber": 45,
+      "evidence": [
+        {
+          "doc": "brahmaand-purana",
+          "page": 13,
+          "quote": "CHAPTER FORTYFIVE The Story of Parafurama (continued) Vasiştha said :—",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR body heading checked against contents; normalized display title."
+    },
+    {
+      "id": "p-brahmanda-ch-046",
+      "title": "Brahmanda 46: The story of Parashurama continued",
+      "type": "section",
+      "parent": "p-brahmaand-purana",
+      "doc": "brahmaand-purana",
+      "page": 15,
+      "endPage": 18,
+      "summary": "Chapter navigation in the supplied Part III continuation: The story of Parashurama continued. Inclusive range may include the next chapter heading page.",
+      "aliases": [
+        "Brahmanda chapter 46"
+      ],
+      "tags": [
+        "Parashurama"
+      ],
+      "chapterNumber": 46,
+      "evidence": [
+        {
+          "doc": "brahmaand-purana",
+          "page": 15,
+          "quote": "CHAPTER FORTYSIX The Story of Parasurâma (Continued) Vasiştha said :-",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR body heading checked against contents; normalized display title."
+    },
+    {
+      "id": "p-brahmanda-ch-047",
+      "title": "Brahmanda 47: The story of Parashurama continued",
+      "type": "section",
+      "parent": "p-brahmaand-purana",
+      "doc": "brahmaand-purana",
+      "page": 18,
+      "endPage": 27,
+      "summary": "Chapter navigation in the supplied Part III continuation: The story of Parashurama continued. Inclusive range may include the next chapter heading page.",
+      "aliases": [
+        "Brahmanda chapter 47"
+      ],
+      "tags": [
+        "Parashurama"
+      ],
+      "chapterNumber": 47,
+      "evidence": [
+        {
+          "doc": "brahmaand-purana",
+          "page": 18,
+          "quote": "CHAPTER FORTYSEVEN The Story of Parasurãma (Continued) Vasiştha said :—",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR body heading checked against contents; normalized display title."
+    },
+    {
+      "id": "p-brahmanda-ch-048",
+      "title": "Brahmanda 48: Sagara keeps his vow",
+      "type": "section",
+      "parent": "p-brahmaand-purana",
+      "doc": "brahmaand-purana",
+      "page": 27,
+      "endPage": 33,
+      "summary": "Chapter navigation in the supplied Part III continuation: Sagara keeps his vow. Inclusive range may include the next chapter heading page.",
+      "aliases": [
+        "Brahmanda chapter 48"
+      ],
+      "tags": [
+        "Ritual",
+        "Sagara"
+      ],
+      "chapterNumber": 48,
+      "evidence": [
+        {
+          "doc": "brahmaand-purana",
+          "page": 27,
+          "quote": "CHAPTER FORTYEIGHT Sagara keeps his vow Jaimini said :",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR body heading checked against contents; normalized display title."
+    },
+    {
+      "id": "p-brahmanda-ch-049",
+      "title": "Brahmanda 49: Sagara conquers the world",
+      "type": "section",
+      "parent": "p-brahmaand-purana",
+      "doc": "brahmaand-purana",
+      "page": 33,
+      "endPage": 39,
+      "summary": "Chapter navigation in the supplied Part III continuation: Sagara conquers the world. Inclusive range may include the next chapter heading page.",
+      "aliases": [
+        "Brahmanda chapter 49"
+      ],
+      "tags": [
+        "Cosmology",
+        "Sagara"
+      ],
+      "chapterNumber": 49,
+      "evidence": [
+        {
+          "doc": "brahmaand-purana",
+          "page": 33,
+          "quote": "CHAPTER FORTYNINE Conquest of the World by Sagara Jaimini said:",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR body heading checked against contents; normalized display title."
+    },
+    {
+      "id": "p-brahmanda-ch-050",
+      "title": "Brahmanda 50: Sagara visits Aurva’s hermitage",
+      "type": "section",
+      "parent": "p-brahmaand-purana",
+      "doc": "brahmaand-purana",
+      "page": 39,
+      "endPage": 45,
+      "summary": "Chapter navigation in the supplied Part III continuation: Sagara visits Aurva’s hermitage. Inclusive range may include the next chapter heading page.",
+      "aliases": [
+        "Brahmanda chapter 50"
+      ],
+      "tags": [
+        "Sagara"
+      ],
+      "chapterNumber": 50,
+      "evidence": [
+        {
+          "doc": "brahmaand-purana",
+          "page": 39,
+          "quote": "CHAPTER FIFTY Sagara's Visit to Aurva's Hermitage Jaimini continued :",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR body heading checked against contents; normalized display title."
+    },
+    {
+      "id": "p-brahmanda-ch-051",
+      "title": "Brahmanda 51: The banishment of Asamanjasa",
+      "type": "section",
+      "parent": "p-brahmaand-purana",
+      "doc": "brahmaand-purana",
+      "page": 45,
+      "endPage": 51,
+      "summary": "Chapter navigation in the supplied Part III continuation: The banishment of Asamanjasa. Inclusive range may include the next chapter heading page.",
+      "aliases": [
+        "Brahmanda chapter 51"
+      ],
+      "tags": [],
+      "chapterNumber": 51,
+      "evidence": [
+        {
+          "doc": "brahmaand-purana",
+          "page": 45,
+          "quote": "CHAPTER FIFTYONE The Banishment of Asamañjasa Sagara said :",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR body heading checked against contents; normalized display title."
+    },
+    {
+      "id": "p-brahmanda-ch-052",
+      "title": "Brahmanda 52: The sacrificial horse is released",
+      "type": "section",
+      "parent": "p-brahmaand-purana",
+      "doc": "brahmaand-purana",
+      "page": 51,
+      "endPage": 55,
+      "summary": "Chapter navigation in the supplied Part III continuation: The sacrificial horse is released. Inclusive range may include the next chapter heading page.",
+      "aliases": [
+        "Brahmanda chapter 52"
+      ],
+      "tags": [
+        "Ritual"
+      ],
+      "chapterNumber": 52,
+      "evidence": [
+        {
+          "doc": "brahmaand-purana",
+          "page": 51,
+          "quote": "CHAPTER FIFTYTWO The Sacrificial Horse is let loose Jaimini Said :",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR body heading checked against contents; normalized display title."
+    },
+    {
+      "id": "p-brahmanda-ch-053",
+      "title": "Brahmanda 53: The destruction of Sagara’s sons",
+      "type": "section",
+      "parent": "p-brahmaand-purana",
+      "doc": "brahmaand-purana",
+      "page": 55,
+      "endPage": 59,
+      "summary": "Chapter navigation in the supplied Part III continuation: The destruction of Sagara’s sons. Inclusive range may include the next chapter heading page.",
+      "aliases": [
+        "Brahmanda chapter 53"
+      ],
+      "tags": [
+        "Sagara"
+      ],
+      "chapterNumber": 53,
+      "evidence": [
+        {
+          "doc": "brahmaand-purana",
+          "page": 55,
+          "quote": "CHAPTER FIFTYTHREE The destruction of the sons of Sagara Jarmini Said :",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR body heading checked against contents; normalized display title."
+    },
+    {
+      "id": "p-brahmanda-ch-054",
+      "title": "Brahmanda 54: Recovery of the sacrificial horse",
+      "type": "section",
+      "parent": "p-brahmaand-purana",
+      "doc": "brahmaand-purana",
+      "page": 59,
+      "endPage": 64,
+      "summary": "Chapter navigation in the supplied Part III continuation: Recovery of the sacrificial horse. Inclusive range may include the next chapter heading page.",
+      "aliases": [
+        "Brahmanda chapter 54"
+      ],
+      "tags": [
+        "Ritual"
+      ],
+      "chapterNumber": 54,
+      "evidence": [
+        {
+          "doc": "brahmaand-purana",
+          "page": 59,
+          "quote": "CHAPTER FIFTYFOUR Recovery of the Sacrificial Horse Jaimini Reported* :",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR body heading checked against contents; normalized display title."
+    },
+    {
+      "id": "p-brahmanda-ch-055",
+      "title": "Brahmanda 55: Amshuman becomes crown prince",
+      "type": "section",
+      "parent": "p-brahmaand-purana",
+      "doc": "brahmaand-purana",
+      "page": 64,
+      "endPage": 67,
+      "summary": "Chapter navigation in the supplied Part III continuation: Amshuman becomes crown prince. Inclusive range may include the next chapter heading page.",
+      "aliases": [
+        "Brahmanda chapter 55"
+      ],
+      "tags": [],
+      "chapterNumber": 55,
+      "evidence": [
+        {
+          "doc": "brahmaand-purana",
+          "page": 64,
+          "quote": "CHAPTER FIFTYFIVE Amsumãn installed as Crown Prince Jaimini said :",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR body heading checked against contents; normalized display title."
+    },
+    {
+      "id": "p-brahmanda-ch-056",
+      "title": "Brahmanda 56: The descent of Ganga",
+      "type": "section",
+      "parent": "p-brahmaand-purana",
+      "doc": "brahmaand-purana",
+      "page": 67,
+      "endPage": 73,
+      "summary": "Chapter navigation in the supplied Part III continuation: The descent of Ganga. Inclusive range may include the next chapter heading page.",
+      "aliases": [
+        "Brahmanda chapter 56"
+      ],
+      "tags": [
+        "Ganga"
+      ],
+      "chapterNumber": 56,
+      "evidence": [
+        {
+          "doc": "brahmaand-purana",
+          "page": 67,
+          "quote": "CHAPTER FIFTYSIX The Descent of Gangā Jarmini Said :",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR body heading checked against contents; normalized display title."
+    },
+    {
+      "id": "p-brahmanda-ch-057",
+      "title": "Brahmanda 57: Varuna visits Bhargava",
+      "type": "section",
+      "parent": "p-brahmaand-purana",
+      "doc": "brahmaand-purana",
+      "page": 73,
+      "endPage": 79,
+      "summary": "Chapter navigation in the supplied Part III continuation: Varuna visits Bhargava. Inclusive range may include the next chapter heading page.",
+      "aliases": [
+        "Brahmanda chapter 57"
+      ],
+      "tags": [],
+      "chapterNumber": 57,
+      "evidence": [
+        {
+          "doc": "brahmaand-purana",
+          "page": 73,
+          "quote": "CHAPTER FIFTYSEVEN Varuna visits Bhargava Jaimini continued :",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR body heading checked against contents; normalized display title."
+    },
+    {
+      "id": "p-brahmanda-ch-058",
+      "title": "Brahmanda 58: Rama reclaims land from the sea",
+      "type": "section",
+      "parent": "p-brahmaand-purana",
+      "doc": "brahmaand-purana",
+      "page": 79,
+      "endPage": 82,
+      "summary": "Chapter navigation in the supplied Part III continuation: Rama reclaims land from the sea. Inclusive range may include the next chapter heading page.",
+      "aliases": [
+        "Brahmanda chapter 58"
+      ],
+      "tags": [
+        "Rama"
+      ],
+      "chapterNumber": 58,
+      "evidence": [
+        {
+          "doc": "brahmaand-purana",
+          "page": 79,
+          "quote": "CHAPTER FIFTYEIGHT Râma reclaims land from the sea Farmini continued :",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR body heading checked against contents; normalized display title."
+    },
+    {
+      "id": "p-brahmanda-ch-059",
+      "title": "Brahmanda 59: The birth of Vaivasvata",
+      "type": "section",
+      "parent": "p-brahmaand-purana",
+      "doc": "brahmaand-purana",
+      "page": 82,
+      "endPage": 90,
+      "summary": "Chapter navigation in the supplied Part III continuation: The birth of Vaivasvata. Inclusive range may include the next chapter heading page.",
+      "aliases": [
+        "Brahmanda chapter 59"
+      ],
+      "tags": [],
+      "chapterNumber": 59,
+      "evidence": [
+        {
+          "doc": "brahmaand-purana",
+          "page": 82,
+          "quote": "CHAPTER FIFTYNINE The Birth of Vaivasvata Brhaspati said :",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR body heading checked against contents; normalized display title."
+    },
+    {
+      "id": "p-brahmanda-ch-060",
+      "title": "Brahmanda 60: The progeny of Vaivasvata Manu",
+      "type": "section",
+      "parent": "p-brahmaand-purana",
+      "doc": "brahmaand-purana",
+      "page": 90,
+      "endPage": 92,
+      "summary": "Chapter navigation in the supplied Part III continuation: The progeny of Vaivasvata Manu. Inclusive range may include the next chapter heading page.",
+      "aliases": [
+        "Brahmanda chapter 60"
+      ],
+      "tags": [
+        "Manu",
+        "Genealogy"
+      ],
+      "chapterNumber": 60,
+      "evidence": [
+        {
+          "doc": "brahmaand-purana",
+          "page": 90,
+          "quote": "CHAPTER SIXTY The Progeny of Vaivasuala Manu Suta continued :",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR body heading checked against contents; normalized display title."
+    },
+    {
+      "id": "p-brahmanda-ch-061",
+      "title": "Brahmanda 61: A dissertation on music",
+      "type": "section",
+      "parent": "p-brahmaand-purana",
+      "doc": "brahmaand-purana",
+      "page": 92,
+      "endPage": 100,
+      "summary": "Chapter navigation in the supplied Part III continuation: A dissertation on music. Inclusive range may include the next chapter heading page.",
+      "aliases": [
+        "Brahmanda chapter 61"
+      ],
+      "tags": [
+        "Music"
+      ],
+      "chapterNumber": 61,
+      "evidence": [
+        {
+          "doc": "brahmaand-purana",
+          "page": 92,
+          "quote": "CHAPTER SIXTYONE A dissertation on Music Suta said :",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR body heading checked against contents; normalized display title."
+    },
+    {
+      "id": "p-brahmanda-ch-062",
+      "title": "Brahmanda 62: The science of music",
+      "type": "section",
+      "parent": "p-brahmaand-purana",
+      "doc": "brahmaand-purana",
+      "page": 100,
+      "endPage": 105,
+      "summary": "Chapter navigation in the supplied Part III continuation: The science of music. Inclusive range may include the next chapter heading page.",
+      "aliases": [
+        "Brahmanda chapter 62"
+      ],
+      "tags": [
+        "Music"
+      ],
+      "chapterNumber": 62,
+      "evidence": [
+        {
+          "doc": "brahmaand-purana",
+          "page": 100,
+          "quote": "CHAPTER SIXTYTWO The Science of Music 1. After knowing the views of earlier teachers, I shall",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR body heading checked against contents; normalized display title."
+    },
+    {
+      "id": "p-brahmanda-ch-063",
+      "title": "Brahmanda 63: The Ikshvaku dynasty",
+      "type": "section",
+      "parent": "p-brahmaand-purana",
+      "doc": "brahmaand-purana",
+      "page": 105,
+      "endPage": 124,
+      "summary": "Chapter navigation in the supplied Part III continuation: The Ikshvaku dynasty. Inclusive range may include the next chapter heading page.",
+      "aliases": [
+        "Brahmanda chapter 63"
+      ],
+      "tags": [
+        "Genealogy"
+      ],
+      "chapterNumber": 63,
+      "evidence": [
+        {
+          "doc": "brahmaand-purana",
+          "page": 105,
+          "quote": "CHAPTER SIXTYTHREE The Ikşväku Dynasty* Suta said :-",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR body heading checked against contents; normalized display title."
+    },
+    {
+      "id": "p-brahmanda-ch-064",
+      "title": "Brahmanda 64: The Nimi dynasty",
+      "type": "section",
+      "parent": "p-brahmaand-purana",
+      "doc": "brahmaand-purana",
+      "page": 124,
+      "endPage": 127,
+      "summary": "Chapter navigation in the supplied Part III continuation: The Nimi dynasty. Inclusive range may include the next chapter heading page.",
+      "aliases": [
+        "Brahmanda chapter 64"
+      ],
+      "tags": [
+        "Genealogy"
+      ],
+      "chapterNumber": 64,
+      "evidence": [
+        {
+          "doc": "brahmaand-purana",
+          "page": 124,
+          "quote": "CHAPTER SIXTYFOUR The Description of Nimi Dynasty.* Süta said :—",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR body heading checked against contents; normalized display title."
+    },
+    {
+      "id": "p-brahmanda-ch-065",
+      "title": "Brahmanda 65: The birth of Soma and Saumya",
+      "type": "section",
+      "parent": "p-brahmaand-purana",
+      "doc": "brahmaand-purana",
+      "page": 127,
+      "endPage": 131,
+      "summary": "Chapter navigation in the supplied Part III continuation: The birth of Soma and Saumya. Inclusive range may include the next chapter heading page.",
+      "aliases": [
+        "Brahmanda chapter 65"
+      ],
+      "tags": [],
+      "chapterNumber": 65,
+      "evidence": [
+        {
+          "doc": "brahmaand-purana",
+          "page": 127,
+          "quote": "CHAPTER SIXTYFIVE The Nativity of Soma and Saumya Suta said :-",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR body heading checked against contents; normalized display title."
+    },
+    {
+      "id": "p-brahmanda-ch-066",
+      "title": "Brahmanda 66: The Amavasu dynasty",
+      "type": "section",
+      "parent": "p-brahmaand-purana",
+      "doc": "brahmaand-purana",
+      "page": 131,
+      "endPage": 139,
+      "summary": "Chapter navigation in the supplied Part III continuation: The Amavasu dynasty. Inclusive range may include the next chapter heading page.",
+      "aliases": [
+        "Brahmanda chapter 66"
+      ],
+      "tags": [
+        "Genealogy"
+      ],
+      "chapterNumber": 66,
+      "evidence": [
+        {
+          "doc": "brahmaand-purana",
+          "page": 131,
+          "quote": "CHAPTER SIXTYSIX Description of Amavasu Dynasty Sita said :—",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR body heading checked against contents; normalized display title."
+    },
+    {
+      "id": "p-brahmanda-ch-067",
+      "title": "Brahmanda 67: The origin of Dhanvantari",
+      "type": "section",
+      "parent": "p-brahmaand-purana",
+      "doc": "brahmaand-purana",
+      "page": 139,
+      "endPage": 148,
+      "summary": "Chapter navigation in the supplied Part III continuation: The origin of Dhanvantari. Inclusive range may include the next chapter heading page.",
+      "aliases": [
+        "Brahmanda chapter 67"
+      ],
+      "tags": [],
+      "chapterNumber": 67,
+      "evidence": [
+        {
+          "doc": "brahmaand-purana",
+          "page": 139,
+          "quote": "CHAPTER SIXTYSEVEN The Origin of Dhanvantari* 1. Ayus had five noble-souled sons of great strength.",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR body heading checked against contents; normalized display title."
+    },
+    {
+      "id": "p-brahmanda-ch-068",
+      "title": "Brahmanda 68: The story of Yayati",
+      "type": "section",
+      "parent": "p-brahmaand-purana",
+      "doc": "brahmaand-purana",
+      "page": 148,
+      "endPage": 158,
+      "summary": "Chapter navigation in the supplied Part III continuation: The story of Yayati. Inclusive range may include the next chapter heading page.",
+      "aliases": [
+        "Brahmanda chapter 68"
+      ],
+      "tags": [
+        "Yayati"
+      ],
+      "chapterNumber": 68,
+      "evidence": [
+        {
+          "doc": "brahmaand-purana",
+          "page": 148,
+          "quote": "CHAPTER SIXTYEIGHT The Story of Yayati The sages asked :-",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR body heading checked against contents; normalized display title."
+    },
+    {
+      "id": "p-brahmanda-ch-069",
+      "title": "Brahmanda 69: The birth of Kartavirya",
+      "type": "section",
+      "parent": "p-brahmaand-purana",
+      "doc": "brahmaand-purana",
+      "page": 158,
+      "endPage": 163,
+      "summary": "Chapter navigation in the supplied Part III continuation: The birth of Kartavirya. Inclusive range may include the next chapter heading page.",
+      "aliases": [
+        "Brahmanda chapter 69"
+      ],
+      "tags": [],
+      "chapterNumber": 69,
+      "evidence": [
+        {
+          "doc": "brahmaand-purana",
+          "page": 158,
+          "quote": "CHAPTER SIXTYNINE The Birth of Käritavirya* Suta continued :-",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR body heading checked against contents; normalized display title."
+    },
+    {
+      "id": "p-brahmanda-ch-070",
+      "title": "Brahmanda 70: The Jyamagha and Vrishni dynasties",
+      "type": "section",
+      "parent": "p-brahmaand-purana",
+      "doc": "brahmaand-purana",
+      "page": 163,
+      "endPage": 168,
+      "summary": "Chapter navigation in the supplied Part III continuation: The Jyamagha and Vrishni dynasties. Inclusive range may include the next chapter heading page.",
+      "aliases": [
+        "Brahmanda chapter 70"
+      ],
+      "tags": [
+        "Genealogy"
+      ],
+      "chapterNumber": 70,
+      "evidence": [
+        {
+          "doc": "brahmaand-purana",
+          "page": 163,
+          "quote": "CHAPTER SEVENTY Dynasties of Jyamagha and Vrsni The sages enquired :-",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR body heading checked against contents; normalized display title."
+    },
+    {
+      "id": "p-brahmanda-ch-071",
+      "title": "Brahmanda 71: The Vrishni dynasty",
+      "type": "section",
+      "parent": "p-brahmaand-purana",
+      "doc": "brahmaand-purana",
+      "page": 168,
+      "endPage": 190,
+      "summary": "Chapter navigation in the supplied Part III continuation: The Vrishni dynasty. Inclusive range may include the next chapter heading page.",
+      "aliases": [
+        "Brahmanda chapter 71"
+      ],
+      "tags": [
+        "Genealogy"
+      ],
+      "chapterNumber": 71,
+      "evidence": [
+        {
+          "doc": "brahmaand-purana",
+          "page": 168,
+          "quote": "CHAPTER SEVENTYONE The Vr›ni Dynasty Suta sara :—",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR body heading checked against contents; normalized display title."
+    },
+    {
+      "id": "p-brahmanda-ch-072",
+      "title": "Brahmanda 72: Praise of the Lord: conclusion",
+      "type": "section",
+      "parent": "p-brahmaand-purana",
+      "doc": "brahmaand-purana",
+      "page": 190,
+      "endPage": 209,
+      "summary": "Chapter navigation in the supplied Part III continuation: Praise of the Lord: conclusion. Inclusive range may include the next chapter heading page.",
+      "aliases": [
+        "Brahmanda chapter 72"
+      ],
+      "tags": [],
+      "chapterNumber": 72,
+      "evidence": [
+        {
+          "doc": "brahmaand-purana",
+          "page": 190,
+          "quote": "CHAPTER SEVENTYTWO Praise of the Lord: Conclusion Suta said :-",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR body heading checked against contents; normalized display title."
+    },
+    {
+      "id": "p-brahmanda-ch-073",
+      "title": "Brahmanda 73: The glory of Vishnu",
+      "type": "section",
+      "parent": "p-brahmaand-purana",
+      "doc": "brahmaand-purana",
+      "page": 209,
+      "endPage": 220,
+      "summary": "Chapter navigation in the supplied Part III continuation: The glory of Vishnu. Inclusive range may include the next chapter heading page.",
+      "aliases": [
+        "Brahmanda chapter 73"
+      ],
+      "tags": [
+        "Vishnu"
+      ],
+      "chapterNumber": 73,
+      "evidence": [
+        {
+          "doc": "brahmaand-purana",
+          "page": 209,
+          "quote": "CHAPTER SEVENTYTHREE Description of the Glory of Visnu Sita said :-",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR body heading checked against contents; normalized display title."
+    },
+    {
+      "id": "p-brahmanda-ch-074",
+      "title": "Brahmanda 74: Royal dynasties",
+      "type": "section",
+      "parent": "p-brahmaand-purana",
+      "doc": "brahmaand-purana",
+      "page": 220,
+      "endPage": 248,
+      "summary": "Chapter navigation in the supplied Part III continuation: Royal dynasties. Inclusive range may include the next chapter heading page.",
+      "aliases": [
+        "Brahmanda chapter 74"
+      ],
+      "tags": [
+        "Genealogy"
+      ],
+      "chapterNumber": 74,
+      "evidence": [
+        {
+          "doc": "brahmaand-purana",
+          "page": 220,
+          "quote": "CHAPTER SEVENTYFOUR Royal Dynasties Suta said :—",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "OCR body heading checked against contents; normalized display title."
+    },
+    {
+      "id": "p-scan-story-manu-shelters-the-growing-fish",
+      "title": "Manu shelters the growing fish",
+      "type": "story",
+      "parent": "p-matsya-ch-001",
+      "doc": "matsyapurana-english",
+      "page": 21,
+      "endPage": 24,
+      "summary": "Manu protects a small fish, which repeatedly outgrows its containers. The revealed divine fish promises protection in a future dissolution.",
+      "aliases": [],
+      "tags": [
+        "Manu",
+        "Vishnu",
+        "Creation"
+      ],
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 21,
+          "quote": "reason Vignu adopted the form of a fish. We are also anxious to know",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "Exact short OCR evidence excerpt."
+    },
+    {
+      "id": "p-scan-story-the-flood-the-boat-and-cosmic-renewal",
+      "title": "The flood, the boat and cosmic renewal",
+      "type": "story",
+      "parent": "p-matsya-ch-002",
+      "doc": "matsyapurana-english",
+      "page": 24,
+      "endPage": 27,
+      "summary": "The fish tells Manu the signs of destruction and the preparations by which living beings are to be preserved through the flood.",
+      "aliases": [],
+      "tags": [
+        "Manu",
+        "Vishnu",
+        "Creation"
+      ],
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 24,
+          "quote": "this boat to rescue the creation from such a calamity, placing in it",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "Exact short OCR evidence excerpt."
+    },
+    {
+      "id": "p-scan-story-prithu-milks-the-earth",
+      "title": "Prithu milks the earth",
+      "type": "story",
+      "parent": "p-matsya-ch-010",
+      "doc": "matsyapurana-english",
+      "page": 47,
+      "endPage": 50,
+      "summary": "The narrative explains Prithu’s relation to the earth, which takes cow form, and the provision of nourishment for beings.",
+      "aliases": [],
+      "tags": [
+        "Dharma",
+        "Creation"
+      ],
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 47,
+          "quote": "bling with fear, assumed the form of a cow and took to fight. -11-12.",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "Exact short OCR evidence excerpt."
+    },
+    {
+      "id": "p-scan-story-kacha-devayani-and-the-reviving-knowledge",
+      "title": "Kacha, Devayani and the reviving knowledge",
+      "type": "story",
+      "parent": "p-matsya-ch-025",
+      "doc": "matsyapurana-english",
+      "page": 98,
+      "endPage": 103,
+      "summary": "Kacha learns from Shukra while repeated attacks by the Asuras test the teacher’s reviving power. The episode ends with mutual curses involving Devayani.",
+      "aliases": [],
+      "tags": [
+        "Knowledge",
+        "Devayani",
+        "Shukra"
+      ],
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 98,
+          "quote": "Kacha. -8-14.",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "Exact short OCR evidence excerpt."
+    },
+    {
+      "id": "p-scan-story-devayani-and-sharmishtha-at-the-well",
+      "title": "Devayani and Sharmishtha at the well",
+      "type": "story",
+      "parent": "p-matsya-ch-027",
+      "doc": "matsyapurana-english",
+      "page": 103,
+      "endPage": 108,
+      "summary": "A quarrel between Devayani and Sharmishtha leads to Devayani’s fall into a well and rescue by Yayati; Shukra becomes involved in resolving the humiliation.",
+      "aliases": [],
+      "tags": [
+        "Devayani",
+        "Shukra",
+        "Yayati"
+      ],
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 104,
+          "quote": "wards she threw the astonished and bewildered DevayAnt into a well and",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "Exact short OCR evidence excerpt."
+    },
+    {
+      "id": "p-scan-story-yayati-borrows-puru-s-youth",
+      "title": "Yayati borrows Puru’s youth",
+      "type": "story",
+      "parent": "p-matsya-ch-033",
+      "doc": "matsyapurana-english",
+      "page": 115,
+      "endPage": 118,
+      "summary": "Struck with old age, Yayati asks his sons for an exchange. Puru accepts, and the narrative connects this action with his succession.",
+      "aliases": [],
+      "tags": [
+        "Yayati",
+        "Dharma"
+      ],
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 116,
+          "quote": "Yayâti then put the same proposal to his son, Puru, and said that by",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "Exact short OCR evidence excerpt."
+    },
+    {
+      "id": "p-scan-story-the-ten-incarnations-in-the-matsya-account",
+      "title": "The ten incarnations in the Matsya account",
+      "type": "story",
+      "parent": "p-matsya-ch-047",
+      "doc": "matsyapurana-english",
+      "page": 142,
+      "endPage": 157,
+      "summary": "This long chapter connects Shukra’s curse and the conflict of gods and Asuras with an account of divine incarnations.",
+      "aliases": [],
+      "tags": [
+        "Vishnu",
+        "Shukra"
+      ],
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 142,
+          "quote": "Note.- It means that Kasyapa was a partial incarnation of the Creator, whilst his",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "Exact short OCR evidence excerpt."
+    },
+    {
+      "id": "p-scan-story-parashurama-and-ganesha-s-broken-tusk",
+      "title": "Parashurama and Ganesha’s broken tusk",
+      "type": "story",
+      "parent": "p-brahmanda-ch-044",
+      "doc": "brahmaand-purana",
+      "page": 10,
+      "endPage": 13,
+      "summary": "Parashurama reports his attempted entrance into Shiva’s realm, conflict with Ganesha, axe-blow to the tusk, and subsequent reconciliation.",
+      "aliases": [],
+      "tags": [
+        "Parashurama",
+        "Shiva",
+        "Ganesha"
+      ],
+      "evidence": [
+        {
+          "doc": "brahmaand-purana",
+          "page": 12,
+          "quote": "axe was hurled by ine with great anger. His tusk was felled down",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "Exact short OCR evidence excerpt."
+    },
+    {
+      "id": "p-scan-story-jamadagni-s-murder-and-parashurama-s-return",
+      "title": "Jamadagni’s murder and Parashurama’s return",
+      "type": "story",
+      "parent": "p-brahmanda-ch-045",
+      "doc": "brahmaand-purana",
+      "page": 13,
+      "endPage": 18,
+      "summary": "The sons of Kartavirya kill Jamadagni. Parashurama hears the account, returns and pursues vengeance.",
+      "aliases": [],
+      "tags": [
+        "Parashurama",
+        "Dharma"
+      ],
+      "evidence": [
+        {
+          "doc": "brahmaand-purana",
+          "page": 13,
+          "quote": "saw the hermitage of Jamadagni on the way.",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "Exact short OCR evidence excerpt."
+    },
+    {
+      "id": "p-scan-story-sagara-s-sons-and-kapila",
+      "title": "Sagara’s sons and Kapila",
+      "type": "story",
+      "parent": "p-brahmanda-ch-053",
+      "doc": "brahmaand-purana",
+      "page": 55,
+      "endPage": 59,
+      "summary": "Sagara’s sons, searching for the sacrificial horse, approach Kapila and meet destruction; the story explains the need for later rites and Ganga’s descent.",
+      "aliases": [],
+      "tags": [
+        "Sagara",
+        "Ritual",
+        "Ganga"
+      ],
+      "evidence": [
+        {
+          "doc": "brahmaand-purana",
+          "page": 55,
+          "quote": "vicinity of sage Kapila.",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "Exact short OCR evidence excerpt."
+    },
+    {
+      "id": "p-scan-story-bhagiratha-brings-ganga-down",
+      "title": "Bhagiratha brings Ganga down",
+      "type": "story",
+      "parent": "p-brahmanda-ch-056",
+      "doc": "brahmaand-purana",
+      "page": 67,
+      "endPage": 73,
+      "summary": "The descent of Ganga completes the sequence concerning Sagara’s descendants and the deliverance of his sons.",
+      "aliases": [],
+      "tags": [
+        "Sagara",
+        "Ganga",
+        "Ancestors"
+      ],
+      "evidence": [
+        {
+          "doc": "brahmaand-purana",
+          "page": 70,
+          "quote": "32. His son named Bhagiratha became very famous",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "Exact short OCR evidence excerpt."
+    },
+    {
+      "id": "p-scan-story-parashurama-and-the-land-reclaimed-from-the-sea",
+      "title": "Parashurama and the land reclaimed from the sea",
+      "type": "story",
+      "parent": "p-brahmanda-ch-058",
+      "doc": "brahmaand-purana",
+      "page": 79,
+      "endPage": 82,
+      "summary": "After Varuna’s visit, Rama determines the land he is to reclaim from the sea, within the continuation of the Bhargava narrative.",
+      "aliases": [],
+      "tags": [
+        "Parashurama",
+        "Varuna"
+      ],
+      "evidence": [
+        {
+          "doc": "brahmaand-purana",
+          "page": 79,
+          "quote": "Râma reclaims land from the sea",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "Exact short OCR evidence excerpt."
+    },
+    {
+      "id": "p-scan-story-music-within-a-purana",
+      "title": "Music within a Purana",
+      "type": "story",
+      "parent": "p-brahmanda-ch-061",
+      "doc": "brahmaand-purana",
+      "page": 92,
+      "endPage": 105,
+      "summary": "Two chapters interrupt the genealogical sequence with a dissertation on music, notes and musical embellishments.",
+      "aliases": [],
+      "tags": [
+        "Music",
+        "Knowledge"
+      ],
+      "evidence": [
+        {
+          "doc": "brahmaand-purana",
+          "page": 92,
+          "quote": "A dissertation on Music",
+          "extraction": "OCR"
+        }
+      ],
+      "method": "Exact short OCR evidence excerpt."
+    },
+    {
+      "id": "p-matsyapurana-english",
+      "title": "Matsya Purana",
+      "type": "text",
+      "parent": "family-puranas",
+      "doc": "matsyapurana-english",
+      "page": 1,
+      "endPage": 488,
+      "summary": "Supplied English Part I: chapters 1–128 at PDF pages 19–380, plus translated chapters 271–273 in Appendix III at pages 407–428. Editorial appendices and dynastic tables are distinct from the scripture translation. All 488 pages were processed by local OCR; this is a partial edition of the canonical work.",
+      "aliases": [
+        "Matsya Puranam",
+        "Matsya Purana Part I"
+      ],
+      "tags": [
+        "Vishnu",
+        "Manu",
+        "Creation",
+        "Genealogy",
+        "Ritual",
+        "Pilgrimage",
+        "Cosmology"
+      ],
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 3,
+          "quote": "THE MATSYA PURANAM CHAPTERS 1-128",
+          "extraction": "OCR"
+        },
+        {
+          "doc": "matsyapurana-english",
+          "page": 19,
+          "quote": "CHAPTER I",
+          "extraction": "OCR"
+        },
+        {
+          "doc": "matsyapurana-english",
+          "page": 407,
+          "quote": "APPENDIX III.",
+          "extraction": "OCR"
+        }
+      ],
+      "sourceVerification": "Title page PDF3 identifies chapters1–128; body start PDF19 visually checked. Separate appendix translations identified atPDF407–428."
+    },
+    {
+      "id": "p-brahmaand-purana",
+      "title": "Brahmanda Purana",
+      "type": "text",
+      "parent": "family-puranas",
+      "doc": "brahmaand-purana",
+      "page": 1,
+      "endPage": 248,
+      "summary": "Supplied English Part III, Section III Upodghatapada continued: chapters 44–74 at PDF pages 10–248. Covers Parashurama, Sagara and Ganga, solar and lunar dynasties, music, and praise of Vishnu. All 248 pages were processed by local OCR. This continuation is not the complete Brahmanda Purana.",
+      "aliases": [
+        "Brahmanda Purana Part III",
+        "Brahmanda Purana Upodghatapada"
+      ],
+      "tags": [
+        "Parashurama",
+        "Sagara",
+        "Ganga",
+        "Genealogy",
+        "Music",
+        "Vishnu"
+      ],
+      "evidence": [
+        {
+          "doc": "brahmaand-purana",
+          "page": 6,
+          "quote": "THE BRAHMANDA PURANA",
+          "extraction": "OCR; title and Part III designation visually checked"
+        },
+        {
+          "doc": "brahmaand-purana",
+          "page": 10,
+          "quote": "CHAPTER FORTYFOUR",
+          "extraction": "OCR"
+        },
+        {
+          "doc": "brahmaand-purana",
+          "page": 220,
+          "quote": "CHAPTER SEVENTYFOUR",
+          "extraction": "OCR"
+        }
+      ],
+      "sourceVerification": "Rendered title page PDF6 and contents PDF8 both visibly read PART III. OCR drops one I and incorrectly renders PART II; the work scope follows the visual original. Contents and body headings confirm chapters44–74."
+    }
+  ],
+  "edges": [
+    {
+      "source": "p-scan-story-manu-shelters-the-growing-fish",
+      "target": "p-scan-story-the-flood-the-boat-and-cosmic-renewal",
+      "type": "narrative-sequence",
+      "summary": "The fish revelation in chapter1 leads into the flood and preservation teaching in chapter2.",
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 21,
+          "quote": "reason Vignu adopted the form of a fish. We are also anxious to know",
+          "extraction": "OCR"
+        },
+        {
+          "doc": "matsyapurana-english",
+          "page": 24,
+          "quote": "this boat to rescue the creation from such a calamity, placing in it",
+          "extraction": "OCR"
+        }
+      ],
+      "basis": "Editorial reading connection between supplied passages; no historical derivation inferred."
+    },
+    {
+      "source": "p-matsya-ch-033",
+      "target": "p-brahmanda-ch-068",
+      "type": "parallel-account",
+      "summary": "Both supplied texts contain the Yayati narrative; compare the Matsya episode sequence with the Brahmanda chapter rather than treating wording as identical.",
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 115,
+          "quote": "CHAPTER XXXIII. Saunaka said. -On being visited with old age, King Yayâti went to his capital and said to his eldest son, Yadu, that owing to the curse of",
+          "extraction": "OCR"
+        },
+        {
+          "doc": "brahmaand-purana",
+          "page": 148,
+          "quote": "CHAPTER SIXTYEIGHT The Story of Yayati The sages asked :-",
+          "extraction": "OCR"
+        }
+      ],
+      "basis": "Editorial reading connection between supplied passages; no historical derivation inferred."
+    },
+    {
+      "source": "p-matsya-ch-043",
+      "target": "p-brahmanda-ch-069",
+      "type": "shared-figure",
+      "summary": "Both supplied chapter passages concern Kartavirya Arjuna and related dynastic material.",
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 130,
+          "quote": "CHAPTER XLIII. Sûta. -King Satânika was amazed to hear all that from Saunaka and glowed, likenhe foll rati, dith debiles A farmarka, a praka also die-",
+          "extraction": "OCR"
+        },
+        {
+          "doc": "brahmaand-purana",
+          "page": 158,
+          "quote": "CHAPTER SIXTYNINE The Birth of Käritavirya* Suta continued :-",
+          "extraction": "OCR"
+        }
+      ],
+      "basis": "Editorial reading connection between supplied passages; no historical derivation inferred."
+    },
+    {
+      "source": "p-brahmanda-ch-053",
+      "target": "p-brahmanda-ch-056",
+      "type": "narrative-sequence",
+      "summary": "The destruction of Sagara’s sons belongs to the narrative sequence completed by the descent of Ganga.",
+      "evidence": [
+        {
+          "doc": "brahmaand-purana",
+          "page": 55,
+          "quote": "CHAPTER FIFTYTHREE The destruction of the sons of Sagara Jarmini Said :",
+          "extraction": "OCR"
+        },
+        {
+          "doc": "brahmaand-purana",
+          "page": 67,
+          "quote": "CHAPTER FIFTYSIX The Descent of Gangā Jarmini Said :",
+          "extraction": "OCR"
+        }
+      ],
+      "basis": "Editorial reading connection between supplied passages; no historical derivation inferred."
+    },
+    {
+      "source": "p-brahmanda-ch-061",
+      "target": "p-brahmanda-ch-062",
+      "type": "continuation",
+      "summary": "The discussion of music continues into the following chapter on the science of music.",
+      "evidence": [
+        {
+          "doc": "brahmaand-purana",
+          "page": 92,
+          "quote": "CHAPTER SIXTYONE A dissertation on Music Suta said :",
+          "extraction": "OCR"
+        },
+        {
+          "doc": "brahmaand-purana",
+          "page": 100,
+          "quote": "CHAPTER SIXTYTWO The Science of Music 1. After knowing the views of earlier teachers, I shall",
+          "extraction": "OCR"
+        }
+      ],
+      "basis": "Editorial reading connection between supplied passages; no historical derivation inferred."
+    },
+    {
+      "source": "p-matsya-ch-049",
+      "target": "p-matsya-ch-271",
+      "type": "related-genealogy",
+      "summary": "The main-body Paurava genealogy and appendix translations of future dynasties form complementary genealogical reading routes in this edition.",
+      "evidence": [
+        {
+          "doc": "matsyapurana-english",
+          "page": 164,
+          "quote": "CHAPTER XLIX. Puru was the father of the most illustrious Janamejaya who begot Prâchitvata and ruled in the Fast, and gave his name to the Eastern",
+          "extraction": "OCR"
+        },
+        {
+          "doc": "matsyapurana-english",
+          "page": 407,
+          "quote": "CHAPTER COLXXI. Rigis said:-O Sûta, you have described to us the dynasty of Puru, along with the future kings in that dynasty. Now tell us about those",
+          "extraction": "OCR"
+        }
+      ],
+      "basis": "Editorial reading connection between supplied passages; no historical derivation inferred."
+    }
+  ],
+  "notes": [
+    "Matsya supplied scan identifies itself as Volume XVII, Part I, chapters 1–128 (title page PDF3). Its translated body occupies PDF19–380. It is not the complete canonical Matsya Purana.",
+    "Matsya Appendix III additionally translates chapters 271–273 (PDF407–428). The remaining appendices are largely modern editorial discussions and genealogical tables, indexed separately from scripture.",
+    "Brahmanda supplied scan identifies itself as PART III (PDF6) and Section III continuation. It contains chapters 44–74 (PDF10–248), not the whole Brahmanda Purana.",
+    "Both PDFs are image scans. These navigation nodes use locally generated OCR, whose spelling, diacritics and Roman chapter numerals can contain recognition errors. Display titles normalize obvious heading errors; evidence excerpts preserve the OCR wording.",
+    "Matsya chapter 13 begins on PDF57 after the chapter12 colophon without a recognizable chapter13 heading in the OCR. The boundary was identified from the following dialogue and chapter13 colophon atPDF61.",
+    "Chapter ranges are inclusive navigation spans to the next heading page, so adjoining chapters may legitimately share one PDF page. They are not verse-level critical segmentation.",
+    "All128 Matsya main-body chapters, its three translated appendix chapters, and all31 Brahmanda chapters are represented, totaling162 chapter nodes.",
+    "Matsya pages429–432 have very little OCR text and appear to contain diagram or table material. They remain accessible through page navigation and are not assigned invented appendix titles.",
+    "Editorial dates and historical identifications in the early20th-century appendices are presented as claims of that edition, not accepted current scholarship.",
+    "Curated episode summaries are reading aids anchored to the supplied translations; the complete page text remains the place to inspect the wording.",
+    "Visual checks: Matsya PDF19 confirms the chapterI body start; Brahmanda PDF8 confirms the chapter44–67 contents in the supplied PartIII continuation.",
+    "Work-summary patch nodes retain the original work IDs, parent category and full PDF endpoints so the merged graph replaces pre-OCR placeholder summaries. Brahmanda PartIII is based on rendered PDF6 andPDF8, overriding an OCR error reading PartII."
+  ]
+}

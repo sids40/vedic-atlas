@@ -1,0 +1,392 @@
+[
+  {
+    "id": "ayurvedic-home-remediesenglishebook",
+    "title": "Ayurvedic-Home-RemediesEnglishEbook",
+    "path": "inputs/Bonus/Ayurvedic-Home-RemediesEnglishEbook.pdf",
+    "category": "Bonus",
+    "pages": 30,
+    "bytes": 4860643,
+    "sha256": "bb9adfc24b86dac83f741219c730dc3b1484566ea05c2bdf7eff7d10b82d1c2f",
+    "text_chars": 27439,
+    "blank_pages": [
+      30
+    ]
+  },
+  {
+    "id": "common-yoga-aasana-englishebook",
+    "title": "Common Yoga Aasana Englishebook",
+    "path": "inputs/Bonus/Common Yoga Aasana Englishebook.pdf",
+    "category": "Bonus",
+    "pages": 51,
+    "bytes": 3372191,
+    "sha256": "9cac70ec8eea1e9a54733a55da83ac1f85be68fce319d50d8b7ee52c7393c876",
+    "text_chars": 46542,
+    "blank_pages": [
+      1,
+      2
+    ],
+    "ocr": true,
+    "ocr_pages_completed": 51
+  },
+  {
+    "id": "practical-vastu-professional-guide-1",
+    "title": "Practical_Vastu_Professional_Guide (1)",
+    "path": "inputs/Bonus/Practical_Vastu_Professional_Guide (1).pdf",
+    "category": "Bonus",
+    "pages": 44,
+    "bytes": 1686416,
+    "sha256": "3ac2304d132e41e4dcdbfc132cd0ecd3a7dd9e91c33aa1b594fd79830dafa893",
+    "text_chars": 69246,
+    "blank_pages": []
+  },
+  {
+    "id": "agni-puranas",
+    "title": "Agni Puranas",
+    "path": "inputs/Puranas/Agni Puranas.pdf",
+    "category": "Puranas",
+    "pages": 34,
+    "bytes": 303652,
+    "sha256": "a7ae9a28c5e42ae3045a516090b3d2f19a855e68a847b6e7472f8f60199875e9",
+    "text_chars": 122083,
+    "blank_pages": []
+  },
+  {
+    "id": "bhavisya-puranas",
+    "title": "Bhavisya Puranas",
+    "path": "inputs/Puranas/Bhavisya Puranas.pdf",
+    "category": "Puranas",
+    "pages": 13,
+    "bytes": 217176,
+    "sha256": "f1534a8a2ffb3ece53f99544c53e4e7e62d0cc5b321e2d5f938c308cb7b19042",
+    "text_chars": 46934,
+    "blank_pages": []
+  },
+  {
+    "id": "brahma-puran",
+    "title": "Brahma Puran",
+    "path": "inputs/Puranas/Brahma Puran.pdf",
+    "category": "Puranas",
+    "pages": 5,
+    "bytes": 192014,
+    "sha256": "030df9b6ae40aa15219bcf8a9d17cf0f058a561a75478cb3871f77a6897670ea",
+    "text_chars": 15399,
+    "blank_pages": []
+  },
+  {
+    "id": "brahma-vaivart-puran",
+    "title": "Brahma Vaivart Puran",
+    "path": "inputs/Puranas/Brahma Vaivart Puran.pdf",
+    "category": "Puranas",
+    "pages": 34,
+    "bytes": 291117,
+    "sha256": "019e16a44eddab7fc771cf7e6b7921cb7c213623e56074eaeb28d6c5b975ccf7",
+    "text_chars": 109164,
+    "blank_pages": []
+  },
+  {
+    "id": "garuda-purana",
+    "title": "Garuda Purana",
+    "path": "inputs/Puranas/Garuda Purana.pdf",
+    "category": "Puranas",
+    "pages": 30,
+    "bytes": 304380,
+    "sha256": "39829947c4f3cff656368a4a21391b38a109fd4dcbcb2f010689416a4f0e2353",
+    "text_chars": 110866,
+    "blank_pages": []
+  },
+  {
+    "id": "kurma-puran",
+    "title": "Kurma Puran",
+    "path": "inputs/Puranas/Kurma Puran.pdf",
+    "category": "Puranas",
+    "pages": 35,
+    "bytes": 286219,
+    "sha256": "e750a3a934d4ef8ee574ef2852f39504a425598210aef7652e7b69515adb56b5",
+    "text_chars": 104964,
+    "blank_pages": []
+  },
+  {
+    "id": "linga-purana",
+    "title": "Linga Purana",
+    "path": "inputs/Puranas/Linga Purana.pdf",
+    "category": "Puranas",
+    "pages": 27,
+    "bytes": 290306,
+    "sha256": "cc0e8caa0db38e26bc87f6a4318023313b30e8d31622fe2b5a00094e47997f5c",
+    "text_chars": 95573,
+    "blank_pages": []
+  },
+  {
+    "id": "markandeya-puran",
+    "title": "Markandeya Puran",
+    "path": "inputs/Puranas/Markandeya Puran.pdf",
+    "category": "Puranas",
+    "pages": 62,
+    "bytes": 462159,
+    "sha256": "47a531d96f8d51f9e728fd2fcd605e56d9ff849b3ffbfc9ce485059751918b08",
+    "text_chars": 244787,
+    "blank_pages": []
+  },
+  {
+    "id": "matsyapurana-english",
+    "title": "Matsyapurana English ",
+    "path": "inputs/Puranas/Matsyapurana English .pdf",
+    "category": "Puranas",
+    "pages": 488,
+    "bytes": 17049969,
+    "sha256": "5d9dd4a6c7731096e2e211c2ac7734346ef00031d729513146997e8b786d96a5",
+    "text_chars": 1109178,
+    "blank_pages": [
+      2,
+      6,
+      8,
+      18,
+      187,
+      188,
+      430,
+      431,
+      432,
+      465,
+      466,
+      477,
+      478
+    ],
+    "ocr": true,
+    "ocr_pages_completed": 488
+  },
+  {
+    "id": "narad-puran",
+    "title": "Narad Puran",
+    "path": "inputs/Puranas/Narad Puran.pdf",
+    "category": "Puranas",
+    "pages": 21,
+    "bytes": 250102,
+    "sha256": "9a52992f7b4d2f25b789f84cced274d44c872b7f0e55dca06d93c479c9279fd3",
+    "text_chars": 75222,
+    "blank_pages": []
+  },
+  {
+    "id": "padma-puran",
+    "title": "Padma puran",
+    "path": "inputs/Puranas/Padma puran.pdf",
+    "category": "Puranas",
+    "pages": 32,
+    "bytes": 321827,
+    "sha256": "fef9fc2d7d8781accebd63fb7187080b2a915158301b2886a4e1ac48efa05148",
+    "text_chars": 123777,
+    "blank_pages": [
+      1
+    ]
+  },
+  {
+    "id": "shrimad-bhagwat-puran",
+    "title": "Shrimad Bhagwat puran",
+    "path": "inputs/Puranas/Shrimad Bhagwat puran.pdf",
+    "category": "Puranas",
+    "pages": 76,
+    "bytes": 533127,
+    "sha256": "6b27841f74b567d556d87fa35afa278343e888061ebc3bb8416f109b0062e095",
+    "text_chars": 296848,
+    "blank_pages": []
+  },
+  {
+    "id": "the-skanda-purana",
+    "title": "The-Skanda-Purana",
+    "path": "inputs/Puranas/The-Skanda-Purana.pdf",
+    "category": "Puranas",
+    "pages": 325,
+    "bytes": 34841029,
+    "sha256": "ae8f6eef088f8d5d131be6cc8fd1185ad1ec4b5580bf1fbeb541b659ca83e779",
+    "text_chars": 708511,
+    "blank_pages": []
+  },
+  {
+    "id": "vamana-puran",
+    "title": "Vamana puran",
+    "path": "inputs/Puranas/Vamana puran.pdf",
+    "category": "Puranas",
+    "pages": 47,
+    "bytes": 388946,
+    "sha256": "e5d0f58b37aab2e2373673f82f744840e3ed744215325626966f8d9e59f2e601",
+    "text_chars": 187536,
+    "blank_pages": []
+  },
+  {
+    "id": "varaha-purana",
+    "title": "Varaha Purana",
+    "path": "inputs/Puranas/Varaha Purana.pdf",
+    "category": "Puranas",
+    "pages": 37,
+    "bytes": 348434,
+    "sha256": "a4f11e8063d47fa2b55215093594b248856e980f37ff792f6589c7d02d1f0ab7",
+    "text_chars": 145070,
+    "blank_pages": []
+  },
+  {
+    "id": "vishnu-puran-1",
+    "title": "Vishnu puran-1",
+    "path": "inputs/Puranas/Vishnu puran-1.pdf",
+    "category": "Puranas",
+    "pages": 39,
+    "bytes": 361271,
+    "sha256": "79ceee930651c63f0a086b0af7081338250afebda1516a483a56b66978689541",
+    "text_chars": 161113,
+    "blank_pages": []
+  },
+  {
+    "id": "vishnu-puran-2",
+    "title": "Vishnu puran-2",
+    "path": "inputs/Puranas/Vishnu puran-2.pdf",
+    "category": "Puranas",
+    "pages": 40,
+    "bytes": 339977,
+    "sha256": "60b87c9833daa6427e6b158b938da83bd67eef5bd40b2e2315706daeec455286",
+    "text_chars": 154999,
+    "blank_pages": []
+  },
+  {
+    "id": "brahmaand-purana",
+    "title": "brahmaand purana",
+    "path": "inputs/Puranas/brahmaand purana.pdf",
+    "category": "Puranas",
+    "pages": 248,
+    "bytes": 14953539,
+    "sha256": "b774afa9541631d7678a9075a7919b6c8bd91aec03bcd1cd2ccd9b6b5a27c9c7",
+    "text_chars": 434854,
+    "blank_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      243,
+      244,
+      245,
+      246,
+      247,
+      248
+    ],
+    "ocr": true,
+    "ocr_pages_completed": 248
+  },
+  {
+    "id": "shiv-maha-purana-1",
+    "title": "shiv maha Purana-1",
+    "path": "inputs/Puranas/shiv maha Purana-1.pdf",
+    "category": "Puranas",
+    "pages": 47,
+    "bytes": 383573,
+    "sha256": "ca7d18db1a2ed00d080245d290f59077724c93e2dcf72f22b8c70a6347946240",
+    "text_chars": 149269,
+    "blank_pages": []
+  },
+  {
+    "id": "shiv-maha-purana-2",
+    "title": "shiv maha Purana-2",
+    "path": "inputs/Puranas/shiv maha Purana-2.pdf",
+    "category": "Puranas",
+    "pages": 48,
+    "bytes": 377365,
+    "sha256": "f2c6d9cb80eb5b6fda3287e076969b43ff2fcb3260a903fe2ccb80d73b5afc7f",
+    "text_chars": 153724,
+    "blank_pages": []
+  },
+  {
+    "id": "108upanishads-compiled",
+    "title": "108upanishads compiled",
+    "path": "inputs/Upanishads /108upanishads compiled.pdf",
+    "category": "Upanishads",
+    "pages": 908,
+    "bytes": 3292478,
+    "sha256": "0c4c346b6abdd6fb95ebcc2e71e796e3e6e5ea8a349a4f9abe490a7cd32014ec",
+    "text_chars": 2829378,
+    "blank_pages": []
+  },
+  {
+    "id": "four-vedas-english-translation",
+    "title": "Four-Vedas-English-Translation",
+    "path": "inputs/Vedas/Four-Vedas-English-Translation.pdf",
+    "category": "Vedas",
+    "pages": 1446,
+    "bytes": 9482291,
+    "sha256": "0e4120bc97c8b2d272d37d46681cce88daea079ae6e27bcf3f46fe918019ec54",
+    "text_chars": 3892980,
+    "blank_pages": [
+      1
+    ]
+  },
+  {
+    "id": "rigveda",
+    "title": "RigVeda",
+    "path": "inputs/Vedas/RigVeda.pdf",
+    "category": "Vedas",
+    "pages": 750,
+    "bytes": 4032438,
+    "sha256": "6c7569c0deae5c4e58e876d338990b1bbe601cd047ca01b91f77401127a909f2",
+    "text_chars": 1723709,
+    "blank_pages": []
+  },
+  {
+    "id": "the-sama-veda",
+    "title": "The-Sama-Veda",
+    "path": "inputs/Vedas/The-Sama-Veda.pdf",
+    "category": "Vedas",
+    "pages": 214,
+    "bytes": 7146850,
+    "sha256": "d9a378ac4387366391bbba4b8252dba5527f59aae4f95c875bd6b27e41f14e31",
+    "text_chars": 421779,
+    "blank_pages": []
+  },
+  {
+    "id": "atharvaveda",
+    "title": "atharvaveda",
+    "path": "inputs/Vedas/atharvaveda.pdf",
+    "category": "Vedas",
+    "pages": 648,
+    "bytes": 25186568,
+    "sha256": "e82eb362a56a0f61a85a3e92a5a2a0db8f4ff486afe683e1853e97b7d0b6fbcf",
+    "text_chars": 2564246,
+    "blank_pages": [
+      1,
+      2,
+      3,
+      5,
+      6,
+      9,
+      14,
+      28,
+      49,
+      70,
+      116,
+      641,
+      642,
+      643,
+      644,
+      645,
+      646,
+      648
+    ]
+  },
+  {
+    "id": "the-4-vedas-in-1",
+    "title": "the-4-vedas_in_1",
+    "path": "inputs/Vedas/the-4-vedas_in_1.pdf",
+    "category": "Vedas",
+    "pages": 1109,
+    "bytes": 6419305,
+    "sha256": "ef8ddb3fabc4f8cae5c6d92baea5b7a604b9f03ecfebca04121f087fa4ee3fe5",
+    "text_chars": 4164096,
+    "blank_pages": []
+  },
+  {
+    "id": "yajurveda",
+    "title": "yajurveda",
+    "path": "inputs/Vedas/yajurveda.pdf",
+    "category": "Vedas",
+    "pages": 1096,
+    "bytes": 4283943,
+    "sha256": "eca9b71eb04d2b19057eabc5b482d3f1dfbfb7ae815dee444d2b54887827c405",
+    "text_chars": 2147860,
+    "blank_pages": []
+  }
+]

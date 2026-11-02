@@ -1,0 +1,5 @@
+*.pdf binary
+output/atlas-data.js linguist-generated=true
+output/atlas-pages.js linguist-generated=true
+output/atlas.json linguist-generated=true
+output/atlas.graphml linguist-generated=true

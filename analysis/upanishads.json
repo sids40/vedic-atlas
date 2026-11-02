@@ -1,0 +1,5581 @@
+{
+  "nodes": [
+    {
+      "id": "u-isavasya-upanishad",
+      "title": "Isavasya Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 3,
+      "endPage": 4,
+      "summary": "Sees the moving world as pervaded by the Lord; places action, renunciation, knowledge and immortality together.",
+      "aliases": [
+        "Isa",
+        "Isha",
+        "Isavasyopanishad"
+      ],
+      "tags": [
+        "Om",
+        "Renunciation",
+        "Knowledge",
+        "Prana",
+        "Karma",
+        "Sun"
+      ],
+      "catalogNumber": 1,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 3,
+          "quote": "Isavasya Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Sukla-Yajur-Veda",
+      "collectionEndPage": 32,
+      "vedaAffiliationPage": 4
+    },
+    {
+      "id": "u-isavasya-upanishad-commentary",
+      "title": "Isavasya Upanishad — Nirmalananda Giri commentary",
+      "type": "commentary",
+      "parent": "u-isavasya-upanishad",
+      "doc": "108upanishads-compiled",
+      "page": 4,
+      "endPage": 32,
+      "summary": "Modern commentary by Swami Nirmalananda Giri. Interpretations and additional anecdotes are distinct from the preceding Upanishad translation.",
+      "aliases": [],
+      "tags": [
+        "Om",
+        "Renunciation",
+        "Knowledge",
+        "Prana",
+        "Karma",
+        "Sun"
+      ],
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 4,
+          "quote": "Commentary on the Isavasya Upanishad–by Swami Nirmalananda Giri"
+        }
+      ]
+    },
+    {
+      "id": "u-kena-upanishad",
+      "title": "Kena Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 33,
+      "endPage": 35,
+      "summary": "Asks what directs mind, speech and senses; the Yaksha encounter exposes the gods' dependence on Brahman.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Om",
+        "Renunciation",
+        "Knowledge",
+        "Meditation",
+        "Consciousness",
+        "Indra",
+        "Agni"
+      ],
+      "catalogNumber": 2,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 33,
+          "quote": "Kena Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Sama-Veda",
+      "collectionEndPage": 43,
+      "vedaAffiliationPage": 35
+    },
+    {
+      "id": "u-kena-upanishad-commentary",
+      "title": "Kena Upanishad — Nirmalananda Giri commentary",
+      "type": "commentary",
+      "parent": "u-kena-upanishad",
+      "doc": "108upanishads-compiled",
+      "page": 36,
+      "endPage": 43,
+      "summary": "Modern commentary by Swami Nirmalananda Giri. Interpretations and additional anecdotes are distinct from the preceding Upanishad translation.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Om",
+        "Renunciation",
+        "Knowledge",
+        "Meditation",
+        "Consciousness",
+        "Indra",
+        "Agni"
+      ],
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 36,
+          "quote": "Commentary on the Kena Upanishad–by Swami Nirmalananda Giri"
+        }
+      ]
+    },
+    {
+      "id": "u-katha-upanishad",
+      "title": "Katha Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 44,
+      "endPage": 51,
+      "summary": "Nachiketas questions Death about the self, the good and the pleasant, immortality, and disciplined knowledge.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Om",
+        "Yoga",
+        "Knowledge",
+        "Prana",
+        "Vishnu",
+        "Krishna",
+        "Meditation",
+        "Creation",
+        "Consciousness",
+        "Ritual",
+        "Karma",
+        "Indra",
+        "Sun"
+      ],
+      "catalogNumber": 3,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 44,
+          "quote": "Katha Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Krishna-Yajur-Veda",
+      "collectionEndPage": 128,
+      "vedaAffiliationPage": 51
+    },
+    {
+      "id": "u-katha-upanishad-commentary",
+      "title": "Katha Upanishad — Nirmalananda Giri commentary",
+      "type": "commentary",
+      "parent": "u-katha-upanishad",
+      "doc": "108upanishads-compiled",
+      "page": 51,
+      "endPage": 128,
+      "summary": "Modern commentary by Swami Nirmalananda Giri. Interpretations and additional anecdotes are distinct from the preceding Upanishad translation.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Om",
+        "Yoga",
+        "Knowledge",
+        "Prana",
+        "Vishnu",
+        "Krishna",
+        "Meditation",
+        "Creation",
+        "Consciousness",
+        "Ritual",
+        "Karma",
+        "Indra",
+        "Sun"
+      ],
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 51,
+          "quote": "Commentary on the Katha Upanishad–by Swami Nirmalananda Giri"
+        }
+      ]
+    },
+    {
+      "id": "u-prasna-upanishad",
+      "title": "Prasna Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 129,
+      "endPage": 134,
+      "summary": "Six seekers question Pippalada on origins, life-breath, sleep, Om and the sixteen-part Purusha.",
+      "aliases": [
+        "Prashna",
+        "Prasnopanishad"
+      ],
+      "tags": [
+        "Brahman",
+        "Om",
+        "Knowledge",
+        "Prana",
+        "Shiva",
+        "Meditation",
+        "Creation",
+        "Ritual",
+        "Mantra",
+        "Pippalada",
+        "Indra",
+        "Sun"
+      ],
+      "catalogNumber": 4,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 129,
+          "quote": "Prasna Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Atharva-Veda",
+      "collectionEndPage": 152,
+      "vedaAffiliationPage": 134
+    },
+    {
+      "id": "u-prasna-upanishad-commentary",
+      "title": "Prasna Upanishad — Nirmalananda Giri commentary",
+      "type": "commentary",
+      "parent": "u-prasna-upanishad",
+      "doc": "108upanishads-compiled",
+      "page": 134,
+      "endPage": 152,
+      "summary": "Modern commentary by Swami Nirmalananda Giri. Interpretations and additional anecdotes are distinct from the preceding Upanishad translation.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Om",
+        "Knowledge",
+        "Prana",
+        "Shiva",
+        "Meditation",
+        "Creation",
+        "Ritual",
+        "Mantra",
+        "Pippalada",
+        "Indra",
+        "Sun"
+      ],
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 134,
+          "quote": "Commentary on the Prashna Upanishad–by Swami Nirmalananda Giri"
+        }
+      ]
+    },
+    {
+      "id": "u-mundaka-upanishad",
+      "title": "Mundaka Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 153,
+      "endPage": 157,
+      "summary": "Angiras answers Saunaka's question about knowing all; distinguishes higher and lower knowledge and teaches Brahman.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Om",
+        "Yoga",
+        "Renunciation",
+        "Liberation",
+        "Knowledge",
+        "Prana",
+        "Meditation",
+        "Creation",
+        "Ritual",
+        "Mantra",
+        "Karma",
+        "Indra",
+        "Sun"
+      ],
+      "catalogNumber": 5,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 153,
+          "quote": "Mundaka Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Atharva-Veda",
+      "collectionEndPage": 180,
+      "vedaAffiliationPage": 157
+    },
+    {
+      "id": "u-mundaka-upanishad-commentary",
+      "title": "Mundaka Upanishad — Nirmalananda Giri commentary",
+      "type": "commentary",
+      "parent": "u-mundaka-upanishad",
+      "doc": "108upanishads-compiled",
+      "page": 158,
+      "endPage": 180,
+      "summary": "Modern commentary by Swami Nirmalananda Giri. Interpretations and additional anecdotes are distinct from the preceding Upanishad translation.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Om",
+        "Yoga",
+        "Renunciation",
+        "Liberation",
+        "Knowledge",
+        "Prana",
+        "Meditation",
+        "Creation",
+        "Ritual",
+        "Mantra",
+        "Karma",
+        "Indra",
+        "Sun"
+      ],
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 158,
+          "quote": "Commentary on the Mundaka Upanishad–by Swami Nirmalananda Giri"
+        }
+      ]
+    },
+    {
+      "id": "u-mandukya-upanishad",
+      "title": "Mandukya Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 181,
+      "endPage": 182,
+      "summary": "Interprets Om through waking, dream, deep sleep and the fourth, nondual self; followed by Gaudapada's Karika.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Om",
+        "Knowledge",
+        "Creation",
+        "Consciousness",
+        "Indra"
+      ],
+      "catalogNumber": 6,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 181,
+          "quote": "Mandukya Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Atharva-Veda",
+      "collectionEndPage": 197,
+      "vedaAffiliationPage": 182
+    },
+    {
+      "id": "u-mandukya-upanishad-commentary",
+      "title": "Mandukya Upanishad — Nirmalananda Giri commentary",
+      "type": "commentary",
+      "parent": "u-mandukya-upanishad",
+      "doc": "108upanishads-compiled",
+      "page": 193,
+      "endPage": 197,
+      "summary": "Modern commentary by Swami Nirmalananda Giri. Interpretations and additional anecdotes are distinct from the preceding Upanishad translation.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Om",
+        "Knowledge",
+        "Creation",
+        "Consciousness",
+        "Indra"
+      ],
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 193,
+          "quote": "Commentary on the Mandukya Upanishad–by Swami Nirmalananda Giri"
+        }
+      ]
+    },
+    {
+      "id": "u-taittiriya-upanishad",
+      "title": "Taittiriya Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 198,
+      "endPage": 205,
+      "summary": "Combines student instruction with layered accounts of self and bliss; Bhrigu investigates Brahman through austerity.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Om",
+        "Knowledge",
+        "Prana",
+        "Vishnu",
+        "Goddess",
+        "Krishna",
+        "Meditation",
+        "Creation",
+        "Ritual",
+        "Karma",
+        "Indra",
+        "Sun"
+      ],
+      "catalogNumber": 7,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 198,
+          "quote": "Taittiriya Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Krishna-Yajur-Veda",
+      "collectionEndPage": 226,
+      "vedaAffiliationPage": 205
+    },
+    {
+      "id": "u-taittiriya-upanishad-commentary",
+      "title": "Taittiriya Upanishad — Nirmalananda Giri commentary",
+      "type": "commentary",
+      "parent": "u-taittiriya-upanishad",
+      "doc": "108upanishads-compiled",
+      "page": 205,
+      "endPage": 226,
+      "summary": "Modern commentary by Swami Nirmalananda Giri. Interpretations and additional anecdotes are distinct from the preceding Upanishad translation.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Om",
+        "Knowledge",
+        "Prana",
+        "Vishnu",
+        "Goddess",
+        "Krishna",
+        "Meditation",
+        "Creation",
+        "Ritual",
+        "Karma",
+        "Indra",
+        "Sun"
+      ],
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 205,
+          "quote": "Commentary on the Taittiriya Upanishad–by Swami Nirmalananda Giri"
+        }
+      ]
+    },
+    {
+      "id": "u-aitareya-upanishad",
+      "title": "Aitareya Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 227,
+      "endPage": 230,
+      "summary": "Narrates the Self's creation and entry into embodied life, then identifies consciousness with Brahman.",
+      "aliases": [
+        "Aitereya"
+      ],
+      "tags": [
+        "Brahman",
+        "Om",
+        "Knowledge",
+        "Creation",
+        "Consciousness",
+        "Mantra",
+        "Indra",
+        "Sun"
+      ],
+      "catalogNumber": 8,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 227,
+          "quote": "Aitareya Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Rig-Veda",
+      "collectionEndPage": 233,
+      "vedaAffiliationPage": 230
+    },
+    {
+      "id": "u-aitareya-upanishad-commentary",
+      "title": "Aitareya Upanishad — Nirmalananda Giri commentary",
+      "type": "commentary",
+      "parent": "u-aitareya-upanishad",
+      "doc": "108upanishads-compiled",
+      "page": 230,
+      "endPage": 233,
+      "summary": "Modern commentary by Swami Nirmalananda Giri. Interpretations and additional anecdotes are distinct from the preceding Upanishad translation.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Om",
+        "Knowledge",
+        "Creation",
+        "Consciousness",
+        "Mantra",
+        "Indra",
+        "Sun"
+      ],
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 230,
+          "quote": "Commentary on the Aitereya Upanishad–by Swami Nirmalananda Giri"
+        }
+      ]
+    },
+    {
+      "id": "u-chandogya-upanishad",
+      "title": "Chandogya Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 234,
+      "endPage": 275,
+      "summary": "Links chant, Om, breath and cosmic correspondences to dialogues on Brahman, the self, and the infinite.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Atman",
+        "Om",
+        "Liberation",
+        "Knowledge",
+        "Prana",
+        "Krishna",
+        "Meditation",
+        "Creation",
+        "Consciousness",
+        "Ritual",
+        "Mantra",
+        "Karma",
+        "Ethics",
+        "Narada",
+        "Indra",
+        "Agni",
+        "Sun"
+      ],
+      "catalogNumber": 9,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 234,
+          "quote": "Chandogya Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Sama-Veda",
+      "collectionEndPage": 311,
+      "vedaAffiliationPage": 275
+    },
+    {
+      "id": "u-chandogya-upanishad-commentary",
+      "title": "Chandogya Upanishad — Nirmalananda Giri commentary",
+      "type": "commentary",
+      "parent": "u-chandogya-upanishad",
+      "doc": "108upanishads-compiled",
+      "page": 275,
+      "endPage": 311,
+      "summary": "Modern commentary by Swami Nirmalananda Giri. Interpretations and additional anecdotes are distinct from the preceding Upanishad translation.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Atman",
+        "Om",
+        "Liberation",
+        "Knowledge",
+        "Prana",
+        "Krishna",
+        "Meditation",
+        "Creation",
+        "Consciousness",
+        "Ritual",
+        "Mantra",
+        "Karma",
+        "Ethics",
+        "Narada",
+        "Indra",
+        "Agni",
+        "Sun"
+      ],
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 275,
+          "quote": "Commentary on the Chandogya Upanishad–by Swami Nirmalananda Giri"
+        }
+      ]
+    },
+    {
+      "id": "u-brihadaranyaka-upanishad",
+      "title": "Brihadaranyaka Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 312,
+      "endPage": 352,
+      "summary": "Uses ritual symbolism and dialogues involving Yajnavalkya, Maitreyi, Gargi and Janaka to investigate the self and Brahman.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Atman",
+        "Om",
+        "Yoga",
+        "Renunciation",
+        "Liberation",
+        "Knowledge",
+        "Prana",
+        "Shiva",
+        "Goddess",
+        "Meditation",
+        "Creation",
+        "Consciousness",
+        "Ritual",
+        "Mantra",
+        "Yajnavalkya",
+        "Indra",
+        "Sun"
+      ],
+      "catalogNumber": 10,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 312,
+          "quote": "Brihadaranyaka Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Sukla-Yajur-Veda",
+      "collectionEndPage": 384,
+      "vedaAffiliationPage": 352
+    },
+    {
+      "id": "u-brihadaranyaka-upanishad-commentary",
+      "title": "Brihadaranyaka Upanishad — Nirmalananda Giri commentary",
+      "type": "commentary",
+      "parent": "u-brihadaranyaka-upanishad",
+      "doc": "108upanishads-compiled",
+      "page": 352,
+      "endPage": 384,
+      "summary": "Modern commentary by Swami Nirmalananda Giri. Interpretations and additional anecdotes are distinct from the preceding Upanishad translation.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Atman",
+        "Om",
+        "Yoga",
+        "Renunciation",
+        "Liberation",
+        "Knowledge",
+        "Prana",
+        "Shiva",
+        "Goddess",
+        "Meditation",
+        "Creation",
+        "Consciousness",
+        "Ritual",
+        "Mantra",
+        "Yajnavalkya",
+        "Indra",
+        "Sun"
+      ],
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 352,
+          "quote": "Commentary on the Brihadaranyaka Upanishad–by Swami Nirmalananda Giri"
+        }
+      ]
+    },
+    {
+      "id": "u-brahma-upanishad",
+      "title": "Brahma Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 385,
+      "endPage": 387,
+      "summary": "Pippalada teaches Saunaka about the inner Brahman, life-breath and the sacred thread understood as knowledge.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Atman",
+        "Om",
+        "Yoga",
+        "Knowledge",
+        "Prana",
+        "Shiva",
+        "Vishnu",
+        "Krishna",
+        "Meditation",
+        "Creation",
+        "Consciousness",
+        "Ritual",
+        "Pippalada",
+        "Sun"
+      ],
+      "catalogNumber": 11,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 385,
+          "quote": "Brahma Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Krishna-Yajur-Veda",
+      "collectionEndPage": 387,
+      "vedaAffiliationPage": 387
+    },
+    {
+      "id": "u-kaivalya-upanishad",
+      "title": "Kaivalya Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 388,
+      "endPage": 390,
+      "summary": "Brahma teaches Asvalayana that faith, devotion, meditation and renunciation lead to the highest knowledge.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Atman",
+        "Om",
+        "Renunciation",
+        "Liberation",
+        "Knowledge",
+        "Prana",
+        "Shiva",
+        "Vishnu",
+        "Krishna",
+        "Meditation",
+        "Creation",
+        "Consciousness",
+        "Indra"
+      ],
+      "catalogNumber": 12,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 388,
+          "quote": "Kaivalya Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Krishna-Yajur-Veda",
+      "collectionEndPage": 390,
+      "vedaAffiliationPage": 390
+    },
+    {
+      "id": "u-jabala-upanishad",
+      "title": "Jabala Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 391,
+      "endPage": 393,
+      "summary": "Yajnavalkya explains Avimukta and renunciation; treats the conditions and conduct of the wandering ascetic.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Atman",
+        "Om",
+        "Renunciation",
+        "Liberation",
+        "Knowledge",
+        "Prana",
+        "Shiva",
+        "Meditation",
+        "Creation",
+        "Ritual",
+        "Mantra",
+        "Yajnavalkya",
+        "Agni"
+      ],
+      "catalogNumber": 13,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 391,
+          "quote": "Jabala Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Sukla-Yajur-Veda",
+      "collectionEndPage": 393,
+      "vedaAffiliationPage": 393
+    },
+    {
+      "id": "u-svetasvatara-upanishad",
+      "title": "Svetasvatara Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 394,
+      "endPage": 401,
+      "summary": "Investigates the cause of existence, the Lord, the self, nature and the discipline through which reality is known.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Atman",
+        "Om",
+        "Yoga",
+        "Liberation",
+        "Knowledge",
+        "Shiva",
+        "Krishna",
+        "Meditation",
+        "Creation",
+        "Consciousness",
+        "Ritual",
+        "Ethics",
+        "Sun"
+      ],
+      "catalogNumber": 14,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 394,
+          "quote": "Svetasvatara Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Krishna-Yajur-Veda",
+      "collectionEndPage": 401,
+      "vedaAffiliationPage": 401
+    },
+    {
+      "id": "u-hamsa-upanishad",
+      "title": "Hamsa Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 402,
+      "endPage": 403,
+      "summary": "Sanatkumara teaches Gautama the Hamsa discipline, breath-linked contemplation and inner sound.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Atman",
+        "Om",
+        "Yoga",
+        "Liberation",
+        "Knowledge",
+        "Prana",
+        "Shiva",
+        "Goddess",
+        "Meditation",
+        "Mantra",
+        "Agni",
+        "Sun"
+      ],
+      "catalogNumber": 15,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 402,
+          "quote": "Hamsa Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Sukla-Yajur-Veda",
+      "collectionEndPage": 403,
+      "vedaAffiliationPage": 403
+    },
+    {
+      "id": "u-aruni-upanishad",
+      "title": "Aruni Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 404,
+      "endPage": 405,
+      "summary": "Brahma instructs Aruni on abandoning ritual possessions and worldly ties for the knowledge of Brahman.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Atman",
+        "Om",
+        "Renunciation",
+        "Liberation",
+        "Prana",
+        "Creation",
+        "Ritual",
+        "Mantra",
+        "Ethics"
+      ],
+      "catalogNumber": 16,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 404,
+          "quote": "Aruni Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Sama-Veda",
+      "collectionEndPage": 405,
+      "vedaAffiliationPage": 405
+    },
+    {
+      "id": "u-garbha-upanishad",
+      "title": "Garbha Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 406,
+      "endPage": 407,
+      "summary": "Presents a traditional account of embryonic development, bodily elements and the body interpreted as sacrifice.",
+      "aliases": [],
+      "tags": [
+        "Atman",
+        "Om",
+        "Yoga",
+        "Liberation",
+        "Knowledge",
+        "Prana",
+        "Vishnu",
+        "Krishna",
+        "Meditation",
+        "Creation",
+        "Karma"
+      ],
+      "catalogNumber": 17,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 406,
+          "quote": "Garbha Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Krishna-Yajur-Veda",
+      "collectionEndPage": 407,
+      "vedaAffiliationPage": 407
+    },
+    {
+      "id": "u-narayana-upanishad",
+      "title": "Narayana Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 408,
+      "endPage": 410,
+      "summary": "Praises Narayana as the source and identity of all; expounds the eight-syllable Om Namo Narayanaya mantra.",
+      "aliases": [],
+      "tags": [
+        "Om",
+        "Yoga",
+        "Liberation",
+        "Knowledge",
+        "Prana",
+        "Shiva",
+        "Vishnu",
+        "Krishna",
+        "Meditation",
+        "Creation",
+        "Indra",
+        "Sun"
+      ],
+      "catalogNumber": 18,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 408,
+          "quote": "Narayana Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Krishna-Yajur-Veda",
+      "collectionEndPage": 410,
+      "vedaAffiliationPage": 410
+    },
+    {
+      "id": "u-paramahamsa-upanishad",
+      "title": "Paramahamsa Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 411,
+      "endPage": 412,
+      "summary": "Brahma answers Narada about the inward freedom, duties and outward simplicity of the Paramahamsa ascetic.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Atman",
+        "Om",
+        "Renunciation",
+        "Knowledge",
+        "Meditation",
+        "Creation",
+        "Consciousness",
+        "Mantra",
+        "Narada"
+      ],
+      "catalogNumber": 19,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 411,
+          "quote": "Paramahamsa Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Sukla-Yajur-Veda",
+      "collectionEndPage": 412,
+      "vedaAffiliationPage": 412
+    },
+    {
+      "id": "u-amrita-bindu-upanishad",
+      "title": "Amrita Bindu Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 413,
+      "endPage": 414,
+      "summary": "Explains how desire binds the mind and how the mind freed from sense objects becomes a means of liberation.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Atman",
+        "Om",
+        "Liberation",
+        "Knowledge",
+        "Krishna",
+        "Meditation",
+        "Consciousness"
+      ],
+      "catalogNumber": 20,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 413,
+          "quote": "Amrita Bindu Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Krishna-Yajur-Veda",
+      "collectionEndPage": 414,
+      "vedaAffiliationPage": 414
+    },
+    {
+      "id": "u-amrita-nada-upanishad",
+      "title": "Amrita-Nada Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 415,
+      "endPage": 417,
+      "summary": "Uses the chariot of Om as an image for contemplation and sets out disciplines of yoga and breath.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Atman",
+        "Om",
+        "Yoga",
+        "Liberation",
+        "Prana",
+        "Shiva",
+        "Vishnu",
+        "Krishna",
+        "Meditation",
+        "Mantra",
+        "Agni"
+      ],
+      "catalogNumber": 21,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 415,
+          "quote": "Amrita-Nada Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Krishna-Yajur-Veda",
+      "collectionEndPage": 417,
+      "vedaAffiliationPage": 417
+    },
+    {
+      "id": "u-atharvasiras-upanishad",
+      "title": "Atharvasiras Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 418,
+      "endPage": 421,
+      "summary": "Identifies Rudra with the gods, cosmic regions and Om; explains the one principle through many divine names.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Om",
+        "Yoga",
+        "Liberation",
+        "Knowledge",
+        "Shiva",
+        "Vishnu",
+        "Creation",
+        "Indra",
+        "Sun",
+        "Sacred ash"
+      ],
+      "catalogNumber": 22,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 418,
+          "quote": "Atharvasiras Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Atharva-Veda",
+      "collectionEndPage": 421,
+      "vedaAffiliationPage": 421
+    },
+    {
+      "id": "u-atharvasikha-upanishad",
+      "title": "Atharvasikha Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 422,
+      "endPage": 424,
+      "summary": "Atharva answers sages about meditation on Om and its four aspects, deities and Vedic correspondences.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Om",
+        "Liberation",
+        "Knowledge",
+        "Shiva",
+        "Vishnu",
+        "Meditation",
+        "Creation",
+        "Consciousness",
+        "Ritual",
+        "Mantra",
+        "Pippalada",
+        "Indra",
+        "Sun"
+      ],
+      "catalogNumber": 23,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 422,
+          "quote": "Atharvasikha Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Atharva-Veda",
+      "collectionEndPage": 424,
+      "vedaAffiliationPage": 424
+    },
+    {
+      "id": "u-maitrayani-upanishad",
+      "title": "Maitrayani Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 425,
+      "endPage": 428,
+      "summary": "King Brihadratha renounces his throne and asks the sage Sakayana for self-knowledge beyond decaying embodiment.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Atman",
+        "Om",
+        "Liberation",
+        "Knowledge",
+        "Prana",
+        "Shiva",
+        "Vishnu",
+        "Krishna",
+        "Creation",
+        "Consciousness",
+        "Indra",
+        "Agni",
+        "Sun"
+      ],
+      "catalogNumber": 24,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 425,
+          "quote": "Maitrayani Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Sama-Veda",
+      "collectionEndPage": 428,
+      "vedaAffiliationPage": 428
+    },
+    {
+      "id": "u-kaushitaki-brahmana-upanishad",
+      "title": "Kaushitaki Brahmana Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 429,
+      "endPage": 440,
+      "summary": "Contains dialogues about rebirth, life-breath and consciousness, including Indra-Pratardana and Balaki-Ajatasatru.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Atman",
+        "Om",
+        "Knowledge",
+        "Prana",
+        "Krishna",
+        "Meditation",
+        "Creation",
+        "Ritual",
+        "Indra",
+        "Sun"
+      ],
+      "catalogNumber": 25,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 429,
+          "quote": "Kaushitaki Brahmana Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Rig-Veda",
+      "collectionEndPage": 440,
+      "vedaAffiliationPage": 440
+    },
+    {
+      "id": "u-brihad-jabala-upanishad",
+      "title": "Brihad Jabala Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 441,
+      "endPage": 445,
+      "summary": "Busunda questions Kalagni Rudra about sacred ash, Rudraksha and Shaiva observance as a path to liberation.",
+      "aliases": [],
+      "tags": [
+        "Om",
+        "Yoga",
+        "Liberation",
+        "Knowledge",
+        "Shiva",
+        "Vishnu",
+        "Meditation",
+        "Ritual",
+        "Mantra",
+        "Indra",
+        "Agni",
+        "Sun",
+        "Sacred ash",
+        "Rudraksha"
+      ],
+      "catalogNumber": 26,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 441,
+          "quote": "Brihad Jabala Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Atharva-Veda",
+      "collectionEndPage": 445,
+      "vedaAffiliationPage": 445
+    },
+    {
+      "id": "u-nrisimhatapini-upanishad",
+      "title": "Nrisimhatapini Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 446,
+      "endPage": 456,
+      "summary": "Presents Poorva and Uttara Narasimha Tapaniya translations on Narasimha, mantra, Om and the supreme self.",
+      "aliases": [
+        "Nrisimha Tapaniya",
+        "Nrisimha Poorva Tapaniya",
+        "Nrisimha Uttara Tapaniya",
+        "Narasimha"
+      ],
+      "tags": [
+        "Atman",
+        "Om",
+        "Yoga",
+        "Liberation",
+        "Knowledge",
+        "Shiva",
+        "Vishnu",
+        "Goddess",
+        "Meditation",
+        "Creation",
+        "Consciousness",
+        "Ritual",
+        "Mantra",
+        "Indra",
+        "Agni",
+        "Sun"
+      ],
+      "catalogNumber": 27,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 446,
+          "quote": "Nrisimha Poorva Tapaniya Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Atharva-Veda",
+      "collectionEndPage": 456,
+      "vedaAffiliationPage": 456
+    },
+    {
+      "id": "u-kalagni-rudra-upanishad",
+      "title": "Kalagni Rudra Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 457,
+      "endPage": 458,
+      "summary": "Kalagnirudra explains the three ash marks of Tripundra and their ritual and contemplative correspondences.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Atman",
+        "Om",
+        "Liberation",
+        "Shiva",
+        "Krishna",
+        "Meditation",
+        "Sacred ash"
+      ],
+      "catalogNumber": 28,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 457,
+          "quote": "Kalagni Rudra Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Krishna-Yajur-Veda",
+      "collectionEndPage": 458,
+      "vedaAffiliationPage": 458
+    },
+    {
+      "id": "u-maitreya-upanishad",
+      "title": "Maitreya Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 459,
+      "endPage": 463,
+      "summary": "Retells Brihadratha's disenchantment with embodied life and sets out self-knowledge and the renunciant's discipline.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Atman",
+        "Om",
+        "Renunciation",
+        "Liberation",
+        "Knowledge",
+        "Prana",
+        "Shiva",
+        "Meditation",
+        "Creation",
+        "Consciousness",
+        "Sun"
+      ],
+      "catalogNumber": 29,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 459,
+          "quote": "Maitreya Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Sama-Veda",
+      "collectionEndPage": 463,
+      "vedaAffiliationPage": 463
+    },
+    {
+      "id": "u-subala-upanishad",
+      "title": "Subala Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 464,
+      "endPage": 469,
+      "summary": "Describes cosmic emergence and dissolution, the inner self and Narayana as the basis of beings.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Atman",
+        "Om",
+        "Yoga",
+        "Liberation",
+        "Knowledge",
+        "Prana",
+        "Shiva",
+        "Vishnu",
+        "Rama",
+        "Krishna",
+        "Meditation",
+        "Creation",
+        "Consciousness",
+        "Ritual",
+        "Indra",
+        "Agni",
+        "Sun"
+      ],
+      "catalogNumber": 30,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 464,
+          "quote": "Subala Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Sukla-Yajur-Veda",
+      "collectionEndPage": 469,
+      "vedaAffiliationPage": 469
+    },
+    {
+      "id": "u-kshurika-upanishad",
+      "title": "Kshurika Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 470,
+      "endPage": 471,
+      "summary": "Uses a sharp knife of wisdom and inward yoga as imagery for cutting attachment; this version marks verses 2–9 unavailable.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Om",
+        "Yoga",
+        "Renunciation",
+        "Liberation",
+        "Krishna",
+        "Meditation",
+        "Indra"
+      ],
+      "catalogNumber": 31,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 470,
+          "quote": "Kshurika Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Krishna-Yajur-Veda",
+      "collectionEndPage": 471,
+      "vedaAffiliationPage": 471
+    },
+    {
+      "id": "u-mantrika-upanishad",
+      "title": "Mantrika Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 472,
+      "endPage": 473,
+      "summary": "Presents the subtle, imperishable reality through swan imagery and the relation of knowledge, nature and the absolute.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Om",
+        "Knowledge",
+        "Shiva",
+        "Krishna",
+        "Creation",
+        "Ritual",
+        "Sun"
+      ],
+      "catalogNumber": 32,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 472,
+          "quote": "Mantrika Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Sukla-Yajur-Veda",
+      "collectionEndPage": 473,
+      "vedaAffiliationPage": 473
+    },
+    {
+      "id": "u-sarva-sara-upanishad",
+      "title": "Sarva Sara Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 474,
+      "endPage": 476,
+      "summary": "Defines bondage, liberation, ignorance, knowledge, consciousness states, sheaths, individual self and the absolute.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Atman",
+        "Om",
+        "Liberation",
+        "Knowledge",
+        "Prana",
+        "Krishna",
+        "Creation",
+        "Consciousness",
+        "Sun"
+      ],
+      "catalogNumber": 33,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 474,
+          "quote": "Sarva Sara Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Krishna-Yajur-Veda",
+      "collectionEndPage": 476,
+      "vedaAffiliationPage": 476
+    },
+    {
+      "id": "u-niralamba-upanishad",
+      "title": "Niralamba Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 477,
+      "endPage": 480,
+      "summary": "Uses a sequence of questions and answers to define Brahman, God, the individual, nature, knowledge and liberation.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Atman",
+        "Om",
+        "Yoga",
+        "Renunciation",
+        "Liberation",
+        "Knowledge",
+        "Shiva",
+        "Vishnu",
+        "Krishna",
+        "Meditation",
+        "Creation",
+        "Ritual",
+        "Indra",
+        "Sun"
+      ],
+      "catalogNumber": 34,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 477,
+          "quote": "Niralamba Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Sukla-Yajur-Veda",
+      "collectionEndPage": 480,
+      "vedaAffiliationPage": 480
+    },
+    {
+      "id": "u-suka-rahasya-upanishad",
+      "title": "Suka Rahasya Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 481,
+      "endPage": 483,
+      "summary": "Shiva teaches Suka the inner meaning of great Upanishadic sayings, including That Thou Art.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Om",
+        "Liberation",
+        "Knowledge",
+        "Shiva",
+        "Vishnu",
+        "Krishna",
+        "Meditation",
+        "Creation",
+        "Consciousness",
+        "Mantra",
+        "Indra",
+        "Sun"
+      ],
+      "catalogNumber": 35,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 481,
+          "quote": "Suka Rahasya Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Krishna-Yajur-Veda",
+      "collectionEndPage": 483,
+      "vedaAffiliationPage": 483
+    },
+    {
+      "id": "u-vajrasuchika-upanishad",
+      "title": "Vajrasuchika Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 484,
+      "endPage": 485,
+      "summary": "Examines what makes a Brahmana and rejects body, birth and mere social designation as sufficient criteria.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Atman",
+        "Om",
+        "Knowledge",
+        "Prana",
+        "Krishna",
+        "Creation",
+        "Karma"
+      ],
+      "catalogNumber": 36,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 484,
+          "quote": "Vajrasuchika Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Sama-Veda",
+      "collectionEndPage": 485,
+      "vedaAffiliationPage": 485
+    },
+    {
+      "id": "u-tejo-bindu-upanishad",
+      "title": "Tejo-Bindu Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 486,
+      "endPage": 501,
+      "summary": "Teaches meditation on the seed of spiritual light and develops knowledge of the nondual self.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Atman",
+        "Om",
+        "Yoga",
+        "Renunciation",
+        "Liberation",
+        "Knowledge",
+        "Prana",
+        "Shiva",
+        "Vishnu",
+        "Krishna",
+        "Meditation",
+        "Creation",
+        "Consciousness",
+        "Ritual",
+        "Mantra",
+        "Karma",
+        "Indra",
+        "Agni",
+        "Sun"
+      ],
+      "catalogNumber": 37,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 486,
+          "quote": "Tejo-Bindu Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Krishna-Yajur-Veda",
+      "collectionEndPage": 501,
+      "vedaAffiliationPage": 501
+    },
+    {
+      "id": "u-nada-bindu-upanishad",
+      "title": "Nada Bindu Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 502,
+      "endPage": 505,
+      "summary": "Interprets Om as a bird and develops contemplation on inner sound as a means of freeing the mind.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Atman",
+        "Om",
+        "Yoga",
+        "Knowledge",
+        "Prana",
+        "Shiva",
+        "Vishnu",
+        "Creation",
+        "Mantra",
+        "Karma",
+        "Indra",
+        "Agni",
+        "Sun"
+      ],
+      "catalogNumber": 38,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 502,
+          "quote": "Nada Bindu Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Rig-Veda",
+      "collectionEndPage": 505,
+      "vedaAffiliationPage": 505
+    },
+    {
+      "id": "u-dhyana-bindu-upanishad",
+      "title": "Dhyana-Bindu Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 506,
+      "endPage": 511,
+      "summary": "Connects seed-syllable, spiritual sound, contemplation and yogic processes with the supreme state beyond sound.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Atman",
+        "Om",
+        "Yoga",
+        "Liberation",
+        "Prana",
+        "Shiva",
+        "Vishnu",
+        "Goddess",
+        "Krishna",
+        "Meditation",
+        "Creation",
+        "Ritual",
+        "Mantra",
+        "Karma",
+        "Agni",
+        "Sun"
+      ],
+      "catalogNumber": 39,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 506,
+          "quote": "Dhyana-Bindu Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Krishna-Yajur-Veda",
+      "collectionEndPage": 511,
+      "vedaAffiliationPage": 511
+    },
+    {
+      "id": "u-brahma-vidya-upanishad",
+      "title": "Brahma Vidya Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 512,
+      "endPage": 513,
+      "summary": "Explains Om through its syllables, their Vedic and divine correspondences, inner location and dissolution.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Om",
+        "Knowledge",
+        "Vishnu",
+        "Krishna",
+        "Creation",
+        "Sun"
+      ],
+      "catalogNumber": 40,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 512,
+          "quote": "Brahma Vidya Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Krishna-Yajur-Veda",
+      "collectionEndPage": 513,
+      "vedaAffiliationPage": 513
+    },
+    {
+      "id": "u-yoga-tattva-upanishad",
+      "title": "Yoga Tattva Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 514,
+      "endPage": 519,
+      "summary": "Vishnu teaches Brahma the relation of yoga and knowledge and describes yogic disciplines leading to liberation.",
+      "aliases": [],
+      "tags": [
+        "Atman",
+        "Om",
+        "Yoga",
+        "Liberation",
+        "Knowledge",
+        "Prana",
+        "Shiva",
+        "Vishnu",
+        "Goddess",
+        "Krishna",
+        "Meditation",
+        "Creation",
+        "Mantra",
+        "Agni",
+        "Sun"
+      ],
+      "catalogNumber": 41,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 514,
+          "quote": "Yoga Tattva Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Krishna-Yajur-Veda",
+      "collectionEndPage": 519,
+      "vedaAffiliationPage": 519
+    },
+    {
+      "id": "u-atma-bodha-upanishad",
+      "title": "Atma-Bodha Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 520,
+      "endPage": 521,
+      "summary": "Contemplates Narayana and Om as inner Brahman and develops assertions of the self's freedom and consciousness.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Atman",
+        "Om",
+        "Liberation",
+        "Knowledge",
+        "Vishnu",
+        "Krishna",
+        "Meditation",
+        "Creation",
+        "Consciousness",
+        "Sun"
+      ],
+      "catalogNumber": 42,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 520,
+          "quote": "Atma-Bodha Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Rig-Veda",
+      "collectionEndPage": 521,
+      "vedaAffiliationPage": 521
+    },
+    {
+      "id": "u-narada-parivrajaka-upanishad",
+      "title": "Narada Parivrajaka Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 522,
+      "endPage": 548,
+      "summary": "Narada asks Brahma about renunciation; treats eligibility, conduct, classifications and inner knowledge of ascetics.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Atman",
+        "Om",
+        "Yoga",
+        "Renunciation",
+        "Liberation",
+        "Knowledge",
+        "Prana",
+        "Shiva",
+        "Vishnu",
+        "Meditation",
+        "Creation",
+        "Consciousness",
+        "Ritual",
+        "Mantra",
+        "Ethics",
+        "Yajnavalkya",
+        "Narada",
+        "Indra",
+        "Agni",
+        "Sun"
+      ],
+      "catalogNumber": 43,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 522,
+          "quote": "Narada Parivrajaka Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Atharva-Veda",
+      "collectionEndPage": 548,
+      "vedaAffiliationPage": 548
+    },
+    {
+      "id": "u-trisikhi-brahmana-upanishad",
+      "title": "Trisikhi Brahmana Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 549,
+      "endPage": 552,
+      "summary": "A Brahmana questions the Sun about body, self and cause; the reply links cosmology, inner faculties and yoga.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Atman",
+        "Om",
+        "Yoga",
+        "Liberation",
+        "Knowledge",
+        "Prana",
+        "Shiva",
+        "Vishnu",
+        "Meditation",
+        "Creation",
+        "Consciousness",
+        "Indra",
+        "Sun"
+      ],
+      "catalogNumber": 44,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 549,
+          "quote": "Trisikhi Brahmana Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Sukla-Yajur-Veda",
+      "collectionEndPage": 552,
+      "vedaAffiliationPage": 552
+    },
+    {
+      "id": "u-sita-upanishad",
+      "title": "Sita Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 553,
+      "endPage": 556,
+      "summary": "Prajapati explains Sita as primordial nature and divine power, relating her to sound, knowledge and manifestation.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Om",
+        "Yoga",
+        "Liberation",
+        "Knowledge",
+        "Shiva",
+        "Vishnu",
+        "Goddess",
+        "Rama",
+        "Krishna",
+        "Meditation",
+        "Creation",
+        "Ritual",
+        "Narada",
+        "Indra",
+        "Sun"
+      ],
+      "catalogNumber": 45,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 553,
+          "quote": "Sita Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Atharva-Veda",
+      "collectionEndPage": 556,
+      "vedaAffiliationPage": 556
+    },
+    {
+      "id": "u-yoga-chudamani-upanishad",
+      "title": "Yoga Chudamani Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 557,
+      "endPage": 561,
+      "summary": "Teaches breath, Hamsa and yogic ascent; this supplied translation explicitly omits verses 2–29.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Atman",
+        "Om",
+        "Yoga",
+        "Liberation",
+        "Knowledge",
+        "Prana",
+        "Shiva",
+        "Vishnu",
+        "Goddess",
+        "Meditation",
+        "Creation",
+        "Mantra",
+        "Sun"
+      ],
+      "catalogNumber": 46,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 557,
+          "quote": "Yoga Chudamani Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Sama-Veda",
+      "collectionEndPage": 561,
+      "vedaAffiliationPage": 561
+    },
+    {
+      "id": "u-nirvana-upanishad",
+      "title": "Nirvana Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 562,
+      "endPage": 564,
+      "summary": "Describes the Paramahamsa through inward renunciation and symbolic identifications of the ascetic life.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Om",
+        "Yoga",
+        "Renunciation",
+        "Liberation",
+        "Knowledge",
+        "Shiva",
+        "Vishnu",
+        "Meditation",
+        "Creation",
+        "Consciousness",
+        "Mantra"
+      ],
+      "catalogNumber": 47,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 562,
+          "quote": "Nirvana Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Rig-Veda",
+      "collectionEndPage": 564,
+      "vedaAffiliationPage": 564
+    },
+    {
+      "id": "u-mandala-brahmana-upanishad",
+      "title": "Mandala Brahmana Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 565,
+      "endPage": 570,
+      "summary": "The solar Narayana teaches Yajnavalkya eightfold yoga, knowledge and inward contemplation of light.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Atman",
+        "Om",
+        "Yoga",
+        "Liberation",
+        "Prana",
+        "Shiva",
+        "Vishnu",
+        "Meditation",
+        "Creation",
+        "Consciousness",
+        "Ritual",
+        "Karma",
+        "Yajnavalkya",
+        "Indra",
+        "Agni",
+        "Sun"
+      ],
+      "catalogNumber": 48,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 565,
+          "quote": "Mandala Brahmana Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Sukla-Yajur-Veda",
+      "collectionEndPage": 570,
+      "vedaAffiliationPage": 570
+    },
+    {
+      "id": "u-dakshinamurti-upanishad",
+      "title": "Dakshinamurti Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 571,
+      "endPage": 572,
+      "summary": "Sages ask Markandeya about his enduring life and joy; he teaches the secret knowledge and mantra of Dakshinamurti.",
+      "aliases": [],
+      "tags": [
+        "Om",
+        "Renunciation",
+        "Liberation",
+        "Knowledge",
+        "Shiva",
+        "Rama",
+        "Krishna",
+        "Meditation",
+        "Creation",
+        "Ritual",
+        "Mantra",
+        "Sacred ash"
+      ],
+      "catalogNumber": 49,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 571,
+          "quote": "Dakshinamurti Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Krishna-Yajur-Veda",
+      "collectionEndPage": 572,
+      "vedaAffiliationPage": 572
+    },
+    {
+      "id": "u-sarabha-upanishad",
+      "title": "Sarabha Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 573,
+      "endPage": 574,
+      "summary": "Praises Shiva as supreme and narrates Sarabha's subduing of Narasimha within this text's Shaiva presentation.",
+      "aliases": [],
+      "tags": [
+        "Atman",
+        "Om",
+        "Liberation",
+        "Shiva",
+        "Vishnu",
+        "Meditation",
+        "Creation",
+        "Indra",
+        "Sun"
+      ],
+      "catalogNumber": 50,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 573,
+          "quote": "Sarabha Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Atharva-Veda",
+      "collectionEndPage": 574,
+      "vedaAffiliationPage": 574
+    },
+    {
+      "id": "u-skanda-upanishad",
+      "title": "Skanda Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 575,
+      "endPage": 576,
+      "summary": "Presents the identity of Shiva and Vishnu and teaches the nonseparation of the individual self and the divine.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Om",
+        "Liberation",
+        "Knowledge",
+        "Shiva",
+        "Vishnu",
+        "Krishna",
+        "Meditation",
+        "Consciousness",
+        "Karma"
+      ],
+      "catalogNumber": 51,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 575,
+          "quote": "Skanda Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Krishna-Yajur-Veda",
+      "collectionEndPage": 576,
+      "vedaAffiliationPage": 576
+    },
+    {
+      "id": "u-tripadvibhuti-mahanarayana-upanishad",
+      "title": "Tripadvibhuti Mahanarayana Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 577,
+      "endPage": 578,
+      "summary": "Presents Narayana as the source of all beings and cosmic forces; expounds Om Namo Narayanaya through eight-syllable mantra and inward realization.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Om",
+        "Liberation",
+        "Knowledge",
+        "Prana",
+        "Shiva",
+        "Vishnu",
+        "Creation",
+        "Mantra",
+        "Indra",
+        "Sun"
+      ],
+      "catalogNumber": 52,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 577,
+          "quote": "Tripadvibhuti Mahanarayana Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Atharva-Veda",
+      "collectionEndPage": 578,
+      "vedaAffiliationPage": 578
+    },
+    {
+      "id": "u-advaya-taraka-upanishad",
+      "title": "Advaya Taraka Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 579,
+      "endPage": 580,
+      "summary": "Teaches nondual reality through neti-neti, inner light, Taraka yoga and guidance by a qualified teacher.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Om",
+        "Yoga",
+        "Liberation",
+        "Vishnu",
+        "Sun"
+      ],
+      "catalogNumber": 53,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 579,
+          "quote": "Advaya Taraka Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Sukla-Yajur-Veda",
+      "collectionEndPage": 580,
+      "vedaAffiliationPage": 580
+    },
+    {
+      "id": "u-rama-rahasya-upanishad",
+      "title": "Rama Rahasya Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 581,
+      "endPage": 595,
+      "summary": "Hanuman explains Rama's sacred formulae, their ritual arrangements and their liberating significance.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Om",
+        "Liberation",
+        "Knowledge",
+        "Prana",
+        "Shiva",
+        "Vishnu",
+        "Goddess",
+        "Rama",
+        "Meditation",
+        "Consciousness",
+        "Ritual",
+        "Mantra",
+        "Narada",
+        "Indra",
+        "Sun",
+        "Sacred ash",
+        "Rudraksha"
+      ],
+      "catalogNumber": 54,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 581,
+          "quote": "Rama Rahasya Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Atharva-Veda",
+      "collectionEndPage": 595,
+      "vedaAffiliationPage": 595
+    },
+    {
+      "id": "u-rama-tapaniya-upanishad",
+      "title": "Rama Tapaniya Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 596,
+      "endPage": 601,
+      "summary": "Contains Poorva and Uttara parts on Rama, Sita, devotional visualization and the saving Rama mantra.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Om",
+        "Renunciation",
+        "Liberation",
+        "Knowledge",
+        "Shiva",
+        "Vishnu",
+        "Goddess",
+        "Rama",
+        "Meditation",
+        "Consciousness",
+        "Mantra",
+        "Indra",
+        "Agni",
+        "Sun"
+      ],
+      "catalogNumber": 55,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 596,
+          "quote": "Rama Tapaniya Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Atharva-Veda",
+      "collectionEndPage": 601,
+      "vedaAffiliationPage": 601
+    },
+    {
+      "id": "u-vasudeva-upanishad",
+      "title": "Vasudeva Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 602,
+      "endPage": 603,
+      "summary": "Vasudeva teaches Narada the rules and significance of the upward Vaishnava forehead mark.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Atman",
+        "Om",
+        "Yoga",
+        "Liberation",
+        "Knowledge",
+        "Prana",
+        "Shiva",
+        "Vishnu",
+        "Narada"
+      ],
+      "catalogNumber": 56,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 602,
+          "quote": "Vasudeva Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Sama-Veda",
+      "collectionEndPage": 603,
+      "vedaAffiliationPage": 603
+    },
+    {
+      "id": "u-mudgala-upanishad",
+      "title": "Mudgala Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 604,
+      "endPage": 606,
+      "summary": "Interprets the Purusha Sukta in terms of Vishnu's pervasion, the fourfold Purusha and liberation.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Om",
+        "Yoga",
+        "Liberation",
+        "Knowledge",
+        "Vishnu",
+        "Krishna",
+        "Meditation",
+        "Creation",
+        "Ritual",
+        "Indra",
+        "Agni",
+        "Sun"
+      ],
+      "catalogNumber": 57,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 604,
+          "quote": "Mudgala Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Rig-Veda",
+      "collectionEndPage": 606,
+      "vedaAffiliationPage": 606
+    },
+    {
+      "id": "u-sandilya-upanishad",
+      "title": "Sandilya Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 607,
+      "endPage": 617,
+      "summary": "Atharvan answers Sandilya on eightfold yoga, including ethical disciplines, postures, breath and meditation.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Atman",
+        "Om",
+        "Yoga",
+        "Renunciation",
+        "Liberation",
+        "Knowledge",
+        "Prana",
+        "Shiva",
+        "Vishnu",
+        "Goddess",
+        "Meditation",
+        "Creation",
+        "Consciousness",
+        "Karma",
+        "Indra",
+        "Agni",
+        "Sun"
+      ],
+      "catalogNumber": 58,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 607,
+          "quote": "Sandilya Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Atharva-Veda",
+      "collectionEndPage": 617,
+      "vedaAffiliationPage": 617
+    },
+    {
+      "id": "u-paingala-upanishad",
+      "title": "Paingala Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 618,
+      "endPage": 623,
+      "summary": "Yajnavalkya teaches Paingala about secondless Brahman, creation, inner faculties and liberating knowledge.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Om",
+        "Yoga",
+        "Liberation",
+        "Knowledge",
+        "Prana",
+        "Shiva",
+        "Vishnu",
+        "Krishna",
+        "Meditation",
+        "Creation",
+        "Consciousness",
+        "Ritual",
+        "Karma",
+        "Yajnavalkya",
+        "Indra",
+        "Sun"
+      ],
+      "catalogNumber": 59,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 618,
+          "quote": "Paingala Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Sukla-Yajur-Veda",
+      "collectionEndPage": 623,
+      "vedaAffiliationPage": 623
+    },
+    {
+      "id": "u-bhikshuka-upanishad",
+      "title": "Bhikshuka Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 624,
+      "endPage": 625,
+      "summary": "Classifies four forms of mendicant ascetic and describes their differing modes of life.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Atman",
+        "Om",
+        "Yoga",
+        "Renunciation",
+        "Liberation",
+        "Meditation",
+        "Consciousness",
+        "Ritual",
+        "Yajnavalkya"
+      ],
+      "catalogNumber": 60,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 624,
+          "quote": "Bhikshuka Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Sukla-Yajur-Veda",
+      "collectionEndPage": 625,
+      "vedaAffiliationPage": 625
+    },
+    {
+      "id": "u-maha-upanishad",
+      "title": "Maha Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 626,
+      "endPage": 646,
+      "summary": "Begins with Narayana and creation, then develops teachings about mind, detachment and liberation.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Atman",
+        "Om",
+        "Yoga",
+        "Renunciation",
+        "Liberation",
+        "Knowledge",
+        "Prana",
+        "Shiva",
+        "Vishnu",
+        "Krishna",
+        "Meditation",
+        "Creation",
+        "Consciousness",
+        "Ritual",
+        "Karma",
+        "Indra",
+        "Agni",
+        "Sun"
+      ],
+      "catalogNumber": 61,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 626,
+          "quote": "Maha Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Sama-Veda",
+      "collectionEndPage": 646,
+      "vedaAffiliationPage": 646
+    },
+    {
+      "id": "u-sariraka-upanishad",
+      "title": "Sariraka Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 647,
+      "endPage": 648,
+      "summary": "Describes bodily elements, sense and action organs, inner faculties, qualities and related correspondences.",
+      "aliases": [],
+      "tags": [
+        "Om",
+        "Knowledge",
+        "Krishna",
+        "Consciousness",
+        "Ritual",
+        "Ethics"
+      ],
+      "catalogNumber": 62,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 647,
+          "quote": "Sariraka Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Krishna-Yajur-Veda",
+      "collectionEndPage": 648,
+      "vedaAffiliationPage": 648
+    },
+    {
+      "id": "u-yoga-sikha-upanishad",
+      "title": "Yoga Sikha Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 649,
+      "endPage": 652,
+      "summary": "Sets out yoga centered on Om, concentration and the relation of yogic realization to knowledge.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Atman",
+        "Om",
+        "Yoga",
+        "Liberation",
+        "Knowledge",
+        "Prana",
+        "Shiva",
+        "Vishnu",
+        "Goddess",
+        "Krishna",
+        "Meditation",
+        "Creation",
+        "Mantra",
+        "Sun"
+      ],
+      "catalogNumber": 63,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 649,
+          "quote": "Yoga Sikha Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Krishna-Yajur-Veda",
+      "collectionEndPage": 652,
+      "vedaAffiliationPage": 652
+    },
+    {
+      "id": "u-turiyatita-avadhuta-upanishad",
+      "title": "Turiyatita Avadhuta Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 653,
+      "endPage": 654,
+      "summary": "Narayana explains the rare Avadhuta who has passed beyond ordinary distinctions and lives in the supreme self.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Atman",
+        "Om",
+        "Renunciation",
+        "Knowledge",
+        "Vishnu",
+        "Meditation",
+        "Ritual"
+      ],
+      "catalogNumber": 64,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 653,
+          "quote": "Turiyatita Avadhuta Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Sukla-Yajur-Veda",
+      "collectionEndPage": 654,
+      "vedaAffiliationPage": 654
+    },
+    {
+      "id": "u-sannyasa-upanishad",
+      "title": "Sannyasa Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 655,
+      "endPage": 662,
+      "summary": "Describes the transition to renunciation, including rites, qualifications and conduct of the ascetic.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Atman",
+        "Om",
+        "Yoga",
+        "Renunciation",
+        "Liberation",
+        "Knowledge",
+        "Prana",
+        "Shiva",
+        "Meditation",
+        "Consciousness",
+        "Ritual",
+        "Mantra",
+        "Sun",
+        "Sacred ash"
+      ],
+      "catalogNumber": 65,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 655,
+          "quote": "Sannyasa Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Sama-Veda",
+      "collectionEndPage": 662,
+      "vedaAffiliationPage": 662
+    },
+    {
+      "id": "u-paramahamsa-parivrajaka-upanishad",
+      "title": "Paramahamsa-Parivrajaka Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 663,
+      "endPage": 666,
+      "summary": "Narayana answers Brahma about qualifications and conduct of the Paramahamsa wandering monk.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Atman",
+        "Om",
+        "Renunciation",
+        "Liberation",
+        "Knowledge",
+        "Prana",
+        "Vishnu",
+        "Meditation",
+        "Consciousness",
+        "Ritual",
+        "Mantra",
+        "Ethics",
+        "Indra",
+        "Agni",
+        "Sun"
+      ],
+      "catalogNumber": 66,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 663,
+          "quote": "Paramahamsa-Parivrajaka Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Atharva-Veda",
+      "collectionEndPage": 666,
+      "vedaAffiliationPage": 666
+    },
+    {
+      "id": "u-aksha-malika-upanishad",
+      "title": "Aksha Malika Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 667,
+      "endPage": 670,
+      "summary": "Guha answers Prajapati about the materials, construction, consecration and use of a rosary.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Om",
+        "Liberation",
+        "Knowledge",
+        "Shiva",
+        "Vishnu",
+        "Goddess",
+        "Meditation",
+        "Creation",
+        "Mantra"
+      ],
+      "catalogNumber": 67,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 667,
+          "quote": "Aksha Malika Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Rig-Veda",
+      "collectionEndPage": 670,
+      "vedaAffiliationPage": 670
+    },
+    {
+      "id": "u-avyakta-upanishad",
+      "title": "Avyakta Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 671,
+      "endPage": 673,
+      "summary": "This supplied item presents transliterated Nasadiya, Hiranyagarbha and Purusha Suktas under stages of cosmic emergence.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Atman",
+        "Om",
+        "Prana",
+        "Creation"
+      ],
+      "catalogNumber": 68,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 671,
+          "quote": "Avyakta Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Sama-Veda",
+      "collectionEndPage": 673,
+      "vedaAffiliationPage": 673
+    },
+    {
+      "id": "u-ekakshara-upanishad",
+      "title": "Ekakshara Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 674,
+      "endPage": 675,
+      "summary": "Praises the one imperishable reality as the source, indweller and sustainer of the world.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Om",
+        "Shiva",
+        "Vishnu",
+        "Krishna",
+        "Creation",
+        "Ritual",
+        "Indra",
+        "Sun"
+      ],
+      "catalogNumber": 69,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 674,
+          "quote": "Ekakshara Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Krishna-Yajur-Veda",
+      "collectionEndPage": 675,
+      "vedaAffiliationPage": 675
+    },
+    {
+      "id": "u-annapurna-upanishad",
+      "title": "Annapurna Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 676,
+      "endPage": 690,
+      "summary": "Ribhu instructs Nidagha on self-knowledge, mental freedom and liberation, in a teaching connected with Annapurna.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Om",
+        "Yoga",
+        "Renunciation",
+        "Liberation",
+        "Knowledge",
+        "Shiva",
+        "Krishna",
+        "Meditation",
+        "Creation",
+        "Consciousness",
+        "Mantra",
+        "Karma",
+        "Indra",
+        "Sun"
+      ],
+      "catalogNumber": 70,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 676,
+          "quote": "Annapurna Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Atharva-Veda",
+      "collectionEndPage": 690,
+      "vedaAffiliationPage": 690
+    },
+    {
+      "id": "u-surya-upanishad",
+      "title": "Surya Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 691,
+      "endPage": 692,
+      "summary": "Identifies the Sun with the world-self, Brahman and the sources of gods, elements, Vedas and life.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Om",
+        "Knowledge",
+        "Prana",
+        "Shiva",
+        "Vishnu",
+        "Krishna",
+        "Meditation",
+        "Creation",
+        "Mantra",
+        "Indra",
+        "Agni",
+        "Sun"
+      ],
+      "catalogNumber": 71,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 691,
+          "quote": "Surya Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Atharva-Veda",
+      "collectionEndPage": 692,
+      "vedaAffiliationPage": 692
+    },
+    {
+      "id": "u-akshi-upanishad",
+      "title": "Akshi Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 693,
+      "endPage": 696,
+      "summary": "Samkriti praises the Sun and receives teachings on knowledge and yoga beyond ordinary embodiment.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Om",
+        "Yoga",
+        "Renunciation",
+        "Liberation",
+        "Knowledge",
+        "Krishna",
+        "Meditation",
+        "Sun"
+      ],
+      "catalogNumber": 72,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 693,
+          "quote": "Akshi Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Krishna-Yajur-Veda",
+      "collectionEndPage": 696,
+      "vedaAffiliationPage": 696
+    },
+    {
+      "id": "u-adhyatma-upanishad",
+      "title": "Adhyatma Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 697,
+      "endPage": 702,
+      "summary": "Explains superimposition of body and possessions on the self and teaches discrimination and realization of Brahman.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Atman",
+        "Om",
+        "Yoga",
+        "Renunciation",
+        "Liberation",
+        "Knowledge",
+        "Shiva",
+        "Vishnu",
+        "Rama",
+        "Krishna",
+        "Meditation",
+        "Creation",
+        "Consciousness",
+        "Indra"
+      ],
+      "catalogNumber": 73,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 697,
+          "quote": "Adhyatma Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Sukla-Yajur-Veda",
+      "collectionEndPage": 702,
+      "vedaAffiliationPage": 702
+    },
+    {
+      "id": "u-kundika-upanishad",
+      "title": "Kundika Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 703,
+      "endPage": 705,
+      "summary": "Describes the stages and inward requirements of renunciation after studentship and household life.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Atman",
+        "Om",
+        "Yoga",
+        "Renunciation",
+        "Liberation",
+        "Knowledge",
+        "Prana",
+        "Shiva",
+        "Vishnu",
+        "Meditation",
+        "Consciousness",
+        "Ritual",
+        "Mantra",
+        "Sun"
+      ],
+      "catalogNumber": 74,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 703,
+          "quote": "Kundika Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Sama-Veda",
+      "collectionEndPage": 705,
+      "vedaAffiliationPage": 705
+    },
+    {
+      "id": "u-savitri-upanishad",
+      "title": "Savitri Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 706,
+      "endPage": 707,
+      "summary": "Pairs Savitar and Savitri across cosmic and human correspondences and expounds the Savitri formula.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Atman",
+        "Om",
+        "Prana",
+        "Goddess",
+        "Krishna",
+        "Meditation",
+        "Ritual",
+        "Agni",
+        "Sun"
+      ],
+      "catalogNumber": 75,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 706,
+          "quote": "Savitri Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Sama-Veda",
+      "collectionEndPage": 707,
+      "vedaAffiliationPage": 707
+    },
+    {
+      "id": "u-atma-upanishad",
+      "title": "Atma Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 708,
+      "endPage": 710,
+      "summary": "Distinguishes the bodily self, inner self and supreme self in an account attributed to Angiras.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Atman",
+        "Om",
+        "Yoga",
+        "Liberation",
+        "Knowledge",
+        "Shiva",
+        "Krishna",
+        "Meditation",
+        "Indra",
+        "Sun"
+      ],
+      "catalogNumber": 76,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 708,
+          "quote": "Atma Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Atharva-Veda",
+      "collectionEndPage": 710,
+      "vedaAffiliationPage": 710
+    },
+    {
+      "id": "u-pasupata-brahmana-upanishad",
+      "title": "Pasupata Brahmana Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 711,
+      "endPage": 712,
+      "summary": "Describes Pasupati as the power behind mind and senses and as the self-shining witness of beings.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Om",
+        "Knowledge",
+        "Shiva",
+        "Indra",
+        "Sun"
+      ],
+      "catalogNumber": 77,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 711,
+          "quote": "Pasupata Brahmana Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Atharva-Veda",
+      "collectionEndPage": 712,
+      "vedaAffiliationPage": 712
+    },
+    {
+      "id": "u-para-brahma-upanishad",
+      "title": "Para-Brahma Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 713,
+      "endPage": 716,
+      "summary": "Pippalada teaches Saunaka about Brahman, creation and the inward significance of the sacred thread.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Atman",
+        "Om",
+        "Yoga",
+        "Renunciation",
+        "Liberation",
+        "Knowledge",
+        "Prana",
+        "Shiva",
+        "Vishnu",
+        "Rama",
+        "Meditation",
+        "Creation",
+        "Consciousness",
+        "Ritual",
+        "Pippalada",
+        "Indra",
+        "Sun"
+      ],
+      "catalogNumber": 78,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 713,
+          "quote": "Para-Brahma Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Atharva-Veda",
+      "collectionEndPage": 716,
+      "vedaAffiliationPage": 716
+    },
+    {
+      "id": "u-avadhuta-upanishad",
+      "title": "Avadhuta Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 717,
+      "endPage": 719,
+      "summary": "Dattatreya explains to Samkriti the Avadhuta's freedom from worldly bonds and conventions.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Om",
+        "Yoga",
+        "Renunciation",
+        "Liberation",
+        "Knowledge",
+        "Vishnu",
+        "Krishna",
+        "Meditation",
+        "Ritual",
+        "Mantra",
+        "Sun"
+      ],
+      "catalogNumber": 79,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 717,
+          "quote": "Avadhuta Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Krishna-Yajur-Veda",
+      "collectionEndPage": 719,
+      "vedaAffiliationPage": 719
+    },
+    {
+      "id": "u-tripura-tapini-upanishad",
+      "title": "Tripura Tapini Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 720,
+      "endPage": 731,
+      "summary": "Presents Tripura as divine power and supreme reality and expounds her mantra through Vedic correspondences.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Om",
+        "Yoga",
+        "Renunciation",
+        "Liberation",
+        "Knowledge",
+        "Prana",
+        "Shiva",
+        "Vishnu",
+        "Goddess",
+        "Krishna",
+        "Meditation",
+        "Creation",
+        "Consciousness",
+        "Ritual",
+        "Mantra",
+        "Karma",
+        "Indra",
+        "Sun",
+        "Sacred ash"
+      ],
+      "catalogNumber": 80,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 720,
+          "quote": "Tripura Tapini Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Atharva-Veda",
+      "collectionEndPage": 731,
+      "vedaAffiliationPage": 731
+    },
+    {
+      "id": "u-devi-upanishad",
+      "title": "Devi Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 732,
+      "endPage": 735,
+      "summary": "The Goddess answers the gods by declaring herself Brahman, nature, consciousness and the forms of the universe.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Om",
+        "Knowledge",
+        "Shiva",
+        "Vishnu",
+        "Goddess",
+        "Krishna",
+        "Meditation",
+        "Consciousness",
+        "Ritual",
+        "Mantra",
+        "Indra",
+        "Agni",
+        "Sun"
+      ],
+      "catalogNumber": 81,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 732,
+          "quote": "Devi Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Atharva-Veda",
+      "collectionEndPage": 735,
+      "vedaAffiliationPage": 735
+    },
+    {
+      "id": "u-tripura-upanishad",
+      "title": "Tripura Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 736,
+      "endPage": 738,
+      "summary": "Uses symbolic verse to describe the Goddess Tripura, her abodes, powers and mantra.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Om",
+        "Knowledge",
+        "Goddess",
+        "Krishna",
+        "Creation",
+        "Consciousness",
+        "Sun"
+      ],
+      "catalogNumber": 82,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 736,
+          "quote": "Tripura Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Rig-Veda",
+      "collectionEndPage": 738,
+      "vedaAffiliationPage": 738
+    },
+    {
+      "id": "u-katharudra-upanishad",
+      "title": "Katharudra Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 739,
+      "endPage": 742,
+      "summary": "Brahma answers the gods with instructions on renunciation and knowledge of the supreme self.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Om",
+        "Renunciation",
+        "Liberation",
+        "Knowledge",
+        "Prana",
+        "Vishnu",
+        "Krishna",
+        "Meditation",
+        "Creation",
+        "Consciousness",
+        "Ritual",
+        "Mantra",
+        "Agni"
+      ],
+      "catalogNumber": 83,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 739,
+          "quote": "Katharudra Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Krishna-Yajur-Veda",
+      "collectionEndPage": 742,
+      "vedaAffiliationPage": 742
+    },
+    {
+      "id": "u-bhavana-upanishad",
+      "title": "Bhavana Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 743,
+      "endPage": 744,
+      "summary": "Maps the body and its constituents onto the Sri Chakra and the inward worship of divine power.",
+      "aliases": [],
+      "tags": [
+        "Om",
+        "Yoga",
+        "Liberation",
+        "Knowledge",
+        "Shiva",
+        "Goddess",
+        "Krishna",
+        "Meditation",
+        "Ritual",
+        "Indra"
+      ],
+      "catalogNumber": 84,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 743,
+          "quote": "Bhavana Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Atharva-Veda",
+      "collectionEndPage": 744,
+      "vedaAffiliationPage": 744
+    },
+    {
+      "id": "u-rudra-hridaya-upanishad",
+      "title": "Rudra Hridaya Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 745,
+      "endPage": 747,
+      "summary": "Vyasa answers Suka by teaching the unity of Rudra, Vishnu, Uma and the other divine forms.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Atman",
+        "Om",
+        "Liberation",
+        "Knowledge",
+        "Shiva",
+        "Vishnu",
+        "Goddess",
+        "Krishna",
+        "Meditation",
+        "Creation",
+        "Mantra",
+        "Karma",
+        "Agni",
+        "Sun",
+        "Sacred ash",
+        "Rudraksha"
+      ],
+      "catalogNumber": 85,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 745,
+          "quote": "Rudra Hridaya Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Krishna-Yajur-Veda",
+      "collectionEndPage": 747,
+      "vedaAffiliationPage": 747
+    },
+    {
+      "id": "u-yoga-kundalini-upanishad",
+      "title": "Yoga-Kundalini Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 748,
+      "endPage": 755,
+      "summary": "Relates control of mental impressions and life-breath to diet, posture and Kundalini-oriented yoga.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Atman",
+        "Om",
+        "Yoga",
+        "Prana",
+        "Shiva",
+        "Vishnu",
+        "Goddess",
+        "Krishna",
+        "Creation",
+        "Consciousness",
+        "Ritual",
+        "Mantra",
+        "Karma",
+        "Agni",
+        "Sun"
+      ],
+      "catalogNumber": 86,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 748,
+          "quote": "Yoga-Kundalini Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Krishna-Yajur-Veda",
+      "collectionEndPage": 755,
+      "vedaAffiliationPage": 755
+    },
+    {
+      "id": "u-bhasma-jabala-upanishad",
+      "title": "Bhasma Jabala Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 756,
+      "endPage": 758,
+      "summary": "Shiva teaches Bhusunda the preparation, application and sacred significance of ash.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Atman",
+        "Om",
+        "Liberation",
+        "Knowledge",
+        "Shiva",
+        "Vishnu",
+        "Meditation",
+        "Creation",
+        "Mantra",
+        "Indra",
+        "Agni",
+        "Sun",
+        "Sacred ash",
+        "Rudraksha"
+      ],
+      "catalogNumber": 87,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 756,
+          "quote": "Bhasma Jabala Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Atharva-Veda",
+      "collectionEndPage": 758,
+      "vedaAffiliationPage": 758
+    },
+    {
+      "id": "u-rudraksha-jabala-upanishad",
+      "title": "Rudraksha Jabala Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 759,
+      "endPage": 761,
+      "summary": "Kalagnirudra tells Bhusunda the origin of Rudraksha beads from his tears and their traditional uses.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Atman",
+        "Om",
+        "Yoga",
+        "Liberation",
+        "Prana",
+        "Shiva",
+        "Vishnu",
+        "Goddess",
+        "Mantra",
+        "Pippalada",
+        "Agni",
+        "Rudraksha"
+      ],
+      "catalogNumber": 88,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 759,
+          "quote": "Rudraksha Jabala Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Sama-Veda",
+      "collectionEndPage": 761,
+      "vedaAffiliationPage": 761
+    },
+    {
+      "id": "u-ganapati-upanishad",
+      "title": "Ganapati Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 762,
+      "endPage": 763,
+      "summary": "Addresses Ganapati as the manifest principle and Brahman, with praise, mantra and a meditation form.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Om",
+        "Yoga",
+        "Knowledge",
+        "Shiva",
+        "Meditation",
+        "Creation",
+        "Consciousness",
+        "Mantra",
+        "Indra",
+        "Agni",
+        "Sun"
+      ],
+      "catalogNumber": 89,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 762,
+          "quote": "Ganapati Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Atharva-Veda",
+      "collectionEndPage": 763,
+      "vedaAffiliationPage": 763
+    },
+    {
+      "id": "u-jabala-darsana-upanishad",
+      "title": "Jabala Darsana Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 764,
+      "endPage": 766,
+      "summary": "Dattatreya teaches Samkriti the eight branches of yoga and their ethical and bodily disciplines.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Atman",
+        "Om",
+        "Yoga",
+        "Liberation",
+        "Knowledge",
+        "Prana",
+        "Shiva",
+        "Vishnu",
+        "Meditation",
+        "Ethics",
+        "Agni"
+      ],
+      "catalogNumber": 90,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 764,
+          "quote": "Jabala Darsana Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Sama-Veda",
+      "collectionEndPage": 766,
+      "vedaAffiliationPage": 766
+    },
+    {
+      "id": "u-tara-sara-upanishad",
+      "title": "Tara Sara Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 767,
+      "endPage": 769,
+      "summary": "Yajnavalkya answers Brihaspati about Avimukta and the saving significance of sacred formulae.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Atman",
+        "Om",
+        "Liberation",
+        "Prana",
+        "Shiva",
+        "Vishnu",
+        "Goddess",
+        "Rama",
+        "Creation",
+        "Ritual",
+        "Mantra",
+        "Yajnavalkya",
+        "Agni",
+        "Sun"
+      ],
+      "catalogNumber": 91,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 767,
+          "quote": "Tara Sara Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Sukla-Yajur-Veda",
+      "collectionEndPage": 769,
+      "vedaAffiliationPage": 769
+    },
+    {
+      "id": "u-maha-vakya-upanishad",
+      "title": "Maha Vakya Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 770,
+      "endPage": 771,
+      "summary": "Brahma explains inward realization through Hamsa-Soham, breath control and contemplation of the solar Brahman.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Atman",
+        "Om",
+        "Yoga",
+        "Liberation",
+        "Knowledge",
+        "Prana",
+        "Shiva",
+        "Vishnu",
+        "Indra",
+        "Sun"
+      ],
+      "catalogNumber": 92,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 770,
+          "quote": "Maha Vakya Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Atharva-Veda",
+      "collectionEndPage": 771,
+      "vedaAffiliationPage": 771
+    },
+    {
+      "id": "u-pancha-brahma-upanishad",
+      "title": "Pancha Brahma Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 772,
+      "endPage": 773,
+      "summary": "Explains five aspects of Shiva through cosmic, ritual, Vedic and bodily correspondences.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Om",
+        "Liberation",
+        "Knowledge",
+        "Shiva",
+        "Vishnu",
+        "Goddess",
+        "Krishna",
+        "Creation",
+        "Consciousness",
+        "Mantra",
+        "Pippalada",
+        "Sun"
+      ],
+      "catalogNumber": 93,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 772,
+          "quote": "Pancha Brahma Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Krishna-Yajur-Veda",
+      "collectionEndPage": 773,
+      "vedaAffiliationPage": 773
+    },
+    {
+      "id": "u-pranagnihotra-upanishad",
+      "title": "Pranagnihotra Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 774,
+      "endPage": 776,
+      "summary": "Interprets eating and the life-breaths as an inward sacrifice, with the body as a sacrificial field.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Om",
+        "Renunciation",
+        "Liberation",
+        "Knowledge",
+        "Prana",
+        "Shiva",
+        "Vishnu",
+        "Krishna",
+        "Meditation",
+        "Ritual",
+        "Ethics",
+        "Agni"
+      ],
+      "catalogNumber": 94,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 774,
+          "quote": "Pranagnihotra Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Krishna-Yajur-Veda",
+      "collectionEndPage": 776,
+      "vedaAffiliationPage": 776
+    },
+    {
+      "id": "u-gopala-tapaniya-upanishad",
+      "title": "Gopala-Tapaniya Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 777,
+      "endPage": 785,
+      "summary": "Brahma answers sages about Krishna as supreme reality, with the Gopala mantra and devotional contemplation.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Om",
+        "Liberation",
+        "Knowledge",
+        "Prana",
+        "Shiva",
+        "Vishnu",
+        "Goddess",
+        "Rama",
+        "Krishna",
+        "Meditation",
+        "Creation",
+        "Consciousness",
+        "Mantra",
+        "Karma",
+        "Narada",
+        "Indra",
+        "Agni",
+        "Sun"
+      ],
+      "catalogNumber": 95,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 777,
+          "quote": "Gopala-Tapaniya Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Atharva-Veda",
+      "collectionEndPage": 785,
+      "vedaAffiliationPage": 785
+    },
+    {
+      "id": "u-krishna-upanishad",
+      "title": "Krishna Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 786,
+      "endPage": 787,
+      "summary": "Connects Rama's forest sages with Krishna's Gopis and interprets Krishna's companions as personified qualities.",
+      "aliases": [],
+      "tags": [
+        "Om",
+        "Liberation",
+        "Krishna",
+        "Indra",
+        "Sun"
+      ],
+      "catalogNumber": 96,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 786,
+          "quote": "Krishna Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Atharva-Veda",
+      "collectionEndPage": 787,
+      "vedaAffiliationPage": 787
+    },
+    {
+      "id": "u-yajnavalkya-upanishad",
+      "title": "Yajnavalkya Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 788,
+      "endPage": 791,
+      "summary": "Yajnavalkya teaches Janaka about the transition into renunciation and the conduct of the monk.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Atman",
+        "Om",
+        "Yoga",
+        "Renunciation",
+        "Liberation",
+        "Knowledge",
+        "Prana",
+        "Consciousness",
+        "Ritual",
+        "Mantra",
+        "Yajnavalkya",
+        "Indra",
+        "Agni"
+      ],
+      "catalogNumber": 97,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 788,
+          "quote": "Yajnavalkya Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Sukla-Yajur-Veda",
+      "collectionEndPage": 791,
+      "vedaAffiliationPage": 791
+    },
+    {
+      "id": "u-varaha-upanishad",
+      "title": "Varaha Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 792,
+      "endPage": 804,
+      "summary": "Varaha teaches Ribhu about reality, bodily principles, self-knowledge and yogic discipline.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Atman",
+        "Om",
+        "Yoga",
+        "Liberation",
+        "Knowledge",
+        "Prana",
+        "Shiva",
+        "Vishnu",
+        "Goddess",
+        "Krishna",
+        "Meditation",
+        "Creation",
+        "Consciousness",
+        "Ritual",
+        "Mantra",
+        "Karma",
+        "Indra",
+        "Agni",
+        "Sun"
+      ],
+      "catalogNumber": 98,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 792,
+          "quote": "Varaha Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Krishna-Yajur-Veda",
+      "collectionEndPage": 804,
+      "vedaAffiliationPage": 804
+    },
+    {
+      "id": "u-satyayaniya-upanishad",
+      "title": "Satyayaniya Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 805,
+      "endPage": 808,
+      "summary": "Treats the mind as the cause of bondage or liberation and develops renunciation and devotion toward Brahman.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Atman",
+        "Om",
+        "Yoga",
+        "Renunciation",
+        "Liberation",
+        "Knowledge",
+        "Vishnu",
+        "Meditation",
+        "Creation",
+        "Consciousness",
+        "Ritual"
+      ],
+      "catalogNumber": 99,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 805,
+          "quote": "Satyayaniya Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Sukla-Yajur-Veda",
+      "collectionEndPage": 808,
+      "vedaAffiliationPage": 808
+    },
+    {
+      "id": "u-hayagriva-upanishad",
+      "title": "Hayagriva Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 809,
+      "endPage": 811,
+      "summary": "Brahma teaches Narada mantras of horse-headed Hayagriva as lord of knowledge and Vedic learning.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Atman",
+        "Om",
+        "Liberation",
+        "Knowledge",
+        "Meditation",
+        "Mantra",
+        "Narada",
+        "Indra",
+        "Sun"
+      ],
+      "catalogNumber": 100,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 809,
+          "quote": "Hayagriva Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Atharva-Veda",
+      "collectionEndPage": 811,
+      "vedaAffiliationPage": 811
+    },
+    {
+      "id": "u-dattatreya-upanishad",
+      "title": "Dattatreya Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 812,
+      "endPage": 814,
+      "summary": "Narayana teaches Brahma contemplation and mantra of Dattatreya as the infinite Brahman.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Om",
+        "Yoga",
+        "Knowledge",
+        "Shiva",
+        "Vishnu",
+        "Krishna",
+        "Meditation",
+        "Creation",
+        "Mantra",
+        "Indra",
+        "Sun"
+      ],
+      "catalogNumber": 101,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 812,
+          "quote": "Dattatreya Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Atharva-Veda",
+      "collectionEndPage": 814,
+      "vedaAffiliationPage": 814
+    },
+    {
+      "id": "u-garuda-upanishad",
+      "title": "Garuda Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 815,
+      "endPage": 816,
+      "summary": "Presents a traditional Garuda-associated mantra transmission for protection against poison.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Om",
+        "Creation",
+        "Narada",
+        "Indra",
+        "Sun"
+      ],
+      "catalogNumber": 102,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 815,
+          "quote": "Garuda Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Atharva-Veda",
+      "collectionEndPage": 816,
+      "vedaAffiliationPage": 816
+    },
+    {
+      "id": "u-kali-santarana-upanishad",
+      "title": "Kali Santarana Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 817,
+      "endPage": 818,
+      "summary": "Brahma gives Narada the sixteen-name Hare Rama and Hare Krishna formula as the means of crossing Kali.",
+      "aliases": [],
+      "tags": [
+        "Om",
+        "Vishnu",
+        "Rama",
+        "Krishna",
+        "Mantra",
+        "Narada",
+        "Sun"
+      ],
+      "catalogNumber": 103,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 817,
+          "quote": "Kali Santarana Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Krishna-Yajur-Veda",
+      "collectionEndPage": 818,
+      "vedaAffiliationPage": 818
+    },
+    {
+      "id": "u-jabali-upanishad",
+      "title": "Jabali Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 819,
+      "endPage": 820,
+      "summary": "Jabali answers Pippalada about the being, Pasupati, bondage and liberation through knowledge and sacred ash.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Atman",
+        "Om",
+        "Liberation",
+        "Knowledge",
+        "Prana",
+        "Shiva",
+        "Vishnu",
+        "Creation",
+        "Mantra",
+        "Pippalada",
+        "Agni",
+        "Sun",
+        "Sacred ash"
+      ],
+      "catalogNumber": 104,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 819,
+          "quote": "Jabali Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Sama-Veda",
+      "collectionEndPage": 820,
+      "vedaAffiliationPage": 820
+    },
+    {
+      "id": "u-saubhagya-lakshmi-upanishad",
+      "title": "Saubhagya Lakshmi Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 821,
+      "endPage": 825,
+      "summary": "Narayana teaches the gods the knowledge and worship of Sri, followed by yogic instruction.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Om",
+        "Yoga",
+        "Renunciation",
+        "Knowledge",
+        "Shiva",
+        "Vishnu",
+        "Goddess",
+        "Rama",
+        "Krishna",
+        "Meditation",
+        "Creation",
+        "Indra",
+        "Sun"
+      ],
+      "catalogNumber": 105,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 821,
+          "quote": "Saubhagya Lakshmi Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Rig-Veda",
+      "collectionEndPage": 825,
+      "vedaAffiliationPage": 825
+    },
+    {
+      "id": "u-sarasvati-rahasya-upanishad",
+      "title": "Sarasvati-Rahasya Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 826,
+      "endPage": 832,
+      "summary": "Asvalayana explains praise and contemplation of Sarasvati and develops knowledge of the supreme self.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Om",
+        "Knowledge",
+        "Shiva",
+        "Goddess",
+        "Krishna",
+        "Meditation",
+        "Creation",
+        "Consciousness",
+        "Ritual",
+        "Mantra",
+        "Sun"
+      ],
+      "catalogNumber": 106,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 826,
+          "quote": "Sarasvati-Rahasya Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Krishna-Yajur-Veda",
+      "collectionEndPage": 832,
+      "vedaAffiliationPage": 832
+    },
+    {
+      "id": "u-bahvricha-upanishad",
+      "title": "Bahvricha Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 833,
+      "endPage": 834,
+      "summary": "Declares the Goddess the original reality from whom the gods and the universe arise, and identifies her with consciousness.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Atman",
+        "Om",
+        "Shiva",
+        "Vishnu",
+        "Goddess",
+        "Krishna",
+        "Consciousness"
+      ],
+      "catalogNumber": 107,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 833,
+          "quote": "Bahvricha Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Rig-Veda",
+      "collectionEndPage": 834,
+      "vedaAffiliationPage": 834
+    },
+    {
+      "id": "u-muktika-upanishad",
+      "title": "Muktika Upanishad",
+      "type": "text",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 835,
+      "endPage": 843,
+      "summary": "Rama teaches Hanuman a 108-Upanishad curriculum, Vedic affiliations, liberation and the dissolution of mental impressions.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Atman",
+        "Om",
+        "Yoga",
+        "Renunciation",
+        "Liberation",
+        "Knowledge",
+        "Prana",
+        "Vishnu",
+        "Goddess",
+        "Rama",
+        "Krishna",
+        "Meditation",
+        "Creation",
+        "Consciousness",
+        "Ritual",
+        "Mantra",
+        "Karma",
+        "Yajnavalkya",
+        "Sun",
+        "Sacred ash",
+        "Rudraksha"
+      ],
+      "catalogNumber": 108,
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 835,
+          "quote": "Muktika Upanishad"
+        }
+      ],
+      "method": "Body heading and end colophon; summary of supplied translation.",
+      "vedaAffiliation": "Sukla-Yajur-Veda",
+      "collectionEndPage": 843,
+      "vedaAffiliationPage": 843
+    },
+    {
+      "id": "u-gaudapada-s-mandukya-karika",
+      "title": "Gaudapada’s Mandukya Karika",
+      "type": "commentary",
+      "parent": "u-mandukya-upanishad",
+      "doc": "108upanishads-compiled",
+      "page": 182,
+      "endPage": 193,
+      "summary": "Four chapters of metrical philosophical exposition follow the twelve verses of the Mandukya; the Karika is a separate composition.",
+      "tags": [
+        "Om",
+        "Brahman"
+      ],
+      "aliases": [],
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 182,
+          "quote": "MANDUKYA KARIKA OF GAUDAPADA"
+        }
+      ]
+    },
+    {
+      "id": "u-nrisimha-poorva-tapaniya",
+      "title": "Nrisimha Poorva Tapaniya",
+      "type": "section",
+      "parent": "u-nrisimhatapini-upanishad",
+      "doc": "108upanishads-compiled",
+      "page": 446,
+      "endPage": 450,
+      "summary": "First of the two Narasimha Tapaniya translations supplied under catalog item 27.",
+      "tags": [
+        "Mantra",
+        "Vishnu"
+      ],
+      "aliases": [],
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 446,
+          "quote": "Nrisimha Poorva Tapaniya Upanishad"
+        }
+      ]
+    },
+    {
+      "id": "u-nrisimha-uttara-tapaniya",
+      "title": "Nrisimha Uttara Tapaniya",
+      "type": "section",
+      "parent": "u-nrisimhatapini-upanishad",
+      "doc": "108upanishads-compiled",
+      "page": 451,
+      "endPage": 456,
+      "summary": "Second Narasimha Tapaniya translation; includes Om, the four consciousness aspects and the supreme self.",
+      "tags": [
+        "Mantra",
+        "Vishnu"
+      ],
+      "aliases": [],
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 451,
+          "quote": "Nrisimha Uttara Tapaniya Upanishad"
+        }
+      ]
+    },
+    {
+      "id": "u-rama-poorva-tapaniya",
+      "title": "Rama Poorva Tapaniya",
+      "type": "section",
+      "parent": "u-rama-tapaniya-upanishad",
+      "doc": "108upanishads-compiled",
+      "page": 596,
+      "endPage": 598,
+      "summary": "First part of the Rama Tapaniya item, with mantra and devotional visualization.",
+      "tags": [
+        "Mantra",
+        "Vishnu"
+      ],
+      "aliases": [],
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 596,
+          "quote": "I. Rama Poorva Tapaniya Upanishad"
+        }
+      ]
+    },
+    {
+      "id": "u-rama-uttara-tapaniya",
+      "title": "Rama Uttara Tapaniya",
+      "type": "section",
+      "parent": "u-rama-tapaniya-upanishad",
+      "doc": "108upanishads-compiled",
+      "page": 598,
+      "endPage": 600,
+      "summary": "Second part, including Shiva’s Rama mantra and repeated identification of Rama with supreme reality.",
+      "tags": [
+        "Mantra",
+        "Vishnu"
+      ],
+      "aliases": [],
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 598,
+          "quote": "II. Rama Uttara Tapaniya Upanishad"
+        }
+      ]
+    },
+    {
+      "id": "u-story-nachiketas-and-death",
+      "title": "Nachiketas and Death",
+      "type": "story",
+      "parent": "u-katha-upanishad",
+      "doc": "108upanishads-compiled",
+      "page": 45,
+      "endPage": 51,
+      "summary": "Nachiketas refuses transient rewards and asks Death to resolve what remains after a person dies. Death teaches self-knowledge and immortality.",
+      "aliases": [],
+      "tags": [
+        "Death",
+        "Atman",
+        "Knowledge",
+        "Liberation"
+      ],
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 45,
+          "quote": "named Nachiketas."
+        }
+      ]
+    },
+    {
+      "id": "u-story-the-chariot-of-the-self",
+      "title": "The chariot of the self",
+      "type": "story",
+      "parent": "u-katha-upanishad",
+      "doc": "108upanishads-compiled",
+      "page": 48,
+      "endPage": 48,
+      "summary": "The self is the rider, body the chariot, intellect the charioteer, mind the reins and senses the horses; disciplined discrimination directs the journey.",
+      "aliases": [],
+      "tags": [
+        "Atman",
+        "Yoga",
+        "Ethics"
+      ],
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 48,
+          "quote": "1-III-3. Know the Self to be the master of the chariot, and the body to be the chariot. Know the intellect"
+        }
+      ]
+    },
+    {
+      "id": "u-story-the-good-and-the-pleasant",
+      "title": "The good and the pleasant",
+      "type": "story",
+      "parent": "u-katha-upanishad",
+      "doc": "108upanishads-compiled",
+      "page": 46,
+      "endPage": 47,
+      "summary": "Death distinguishes the good from the pleasant and commends Nachiketas for choosing lasting understanding.",
+      "aliases": [],
+      "tags": [
+        "Ethics",
+        "Knowledge",
+        "Liberation"
+      ],
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 46,
+          "quote": "serving different purposes, blind man. Good accrues to him who, of these two, chooses the preferable."
+        }
+      ]
+    },
+    {
+      "id": "u-story-the-yaksha-the-gods-and-uma",
+      "title": "The Yaksha, the gods and Uma",
+      "type": "story",
+      "parent": "u-kena-upanishad",
+      "doc": "108upanishads-compiled",
+      "page": 34,
+      "endPage": 35,
+      "summary": "Agni and Vayu fail to master a mysterious Yaksha. Uma explains to Indra that their victory depended on Brahman.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Agni",
+        "Indra",
+        "Goddess"
+      ],
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 34,
+          "quote": "and appeared before them, but they knew not who this Yaksha (worshipful Being) was."
+        }
+      ]
+    },
+    {
+      "id": "u-story-six-seekers-question-pippalada",
+      "title": "Six seekers question Pippalada",
+      "type": "story",
+      "parent": "u-prasna-upanishad",
+      "doc": "108upanishads-compiled",
+      "page": 129,
+      "endPage": 134,
+      "summary": "Six students approach Pippalada, live a year in discipline, then ask about origins, life-breath, sleep, Om and the sixteenfold person.",
+      "aliases": [],
+      "tags": [
+        "Pippalada",
+        "Prana",
+        "Om",
+        "Creation"
+      ],
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 129,
+          "quote": "the venerable Pippalada with the belief, “This one will certainly tell us all about It.”"
+        }
+      ]
+    },
+    {
+      "id": "u-story-the-faculties-and-the-primacy-of-prana",
+      "title": "The faculties and the primacy of Prana",
+      "type": "story",
+      "parent": "u-prasna-upanishad",
+      "doc": "108upanishads-compiled",
+      "page": 130,
+      "endPage": 131,
+      "summary": "The faculties dispute who sustains the body; Prana demonstrates its central role when its apparent departure draws the others with it.",
+      "aliases": [],
+      "tags": [
+        "Prana",
+        "Consciousness"
+      ],
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 130,
+          "quote": "I-7: That very one rises up who is Prana and fire, who is identified with all creatures, and who is"
+        }
+      ]
+    },
+    {
+      "id": "u-story-saunaka-asks-how-to-know-all",
+      "title": "Saunaka asks how to know all",
+      "type": "story",
+      "parent": "u-mundaka-upanishad",
+      "doc": "108upanishads-compiled",
+      "page": 153,
+      "endPage": 154,
+      "summary": "The householder Saunaka asks Angiras what knowledge makes everything known; the reply distinguishes higher knowledge from lower learning.",
+      "aliases": [],
+      "tags": [
+        "Knowledge",
+        "Brahman"
+      ],
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 153,
+          "quote": "I-i-3: Saunaka, well known as a great householder, having approached Angiras duly, asked, ‘O adorable"
+        }
+      ]
+    },
+    {
+      "id": "u-story-two-birds-on-one-tree",
+      "title": "Two birds on one tree",
+      "type": "story",
+      "parent": "u-mundaka-upanishad",
+      "doc": "108upanishads-compiled",
+      "page": 156,
+      "endPage": 157,
+      "summary": "Two companion birds inhabit one tree; one eats its fruit while the other watches, an image through which the text teaches the self and its realization.",
+      "aliases": [],
+      "tags": [
+        "Atman",
+        "Knowledge",
+        "Consciousness"
+      ],
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 156,
+          "quote": "III-i-1: Two birds that are ever associated and have similar names, cling to the same tree. Of these, one"
+        }
+      ]
+    },
+    {
+      "id": "u-story-bhrigu-learns-from-varuna",
+      "title": "Bhrigu learns from Varuna",
+      "type": "story",
+      "parent": "u-taittiriya-upanishad",
+      "doc": "108upanishads-compiled",
+      "page": 203,
+      "endPage": 205,
+      "summary": "Bhrigu repeatedly investigates Brahman through concentration, moving through food, life-breath, mind and knowledge to bliss.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Prana",
+        "Meditation",
+        "Knowledge"
+      ],
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 203,
+          "quote": "Bhrigu Valli"
+        }
+      ]
+    },
+    {
+      "id": "u-story-janashruti-and-raikva",
+      "title": "Janashruti and Raikva",
+      "type": "story",
+      "parent": "u-chandogya-upanishad",
+      "doc": "108upanishads-compiled",
+      "page": 250,
+      "endPage": 251,
+      "summary": "King Janashruti seeks instruction from Raikva with the cart after hearing his knowledge praised; Raikva teaches the absorbing principle.",
+      "aliases": [],
+      "tags": [
+        "Knowledge",
+        "Prana"
+      ],
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 250,
+          "quote": "IV-i-3: Bhallaksa replied to him, ‘lo, how could you so describe him as if he were Raikva with the"
+        }
+      ]
+    },
+    {
+      "id": "u-story-satyakama-jabala-s-truthfulness",
+      "title": "Satyakama Jabala’s truthfulness",
+      "type": "story",
+      "parent": "u-chandogya-upanishad",
+      "doc": "108upanishads-compiled",
+      "page": 251,
+      "endPage": 252,
+      "summary": "Satyakama honestly reports his uncertain parentage, is accepted as a student, and receives teachings through the bull, fire and birds.",
+      "aliases": [],
+      "tags": [
+        "Ethics",
+        "Knowledge",
+        "Brahman"
+      ],
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 251,
+          "quote": "IV-iv-1: Once upon a time Satyakama Jabala addressed his mother Jabala, ‘Mother, I desire to live the"
+        }
+      ]
+    },
+    {
+      "id": "u-story-upakosala-and-the-teaching-fires",
+      "title": "Upakosala and the teaching fires",
+      "type": "story",
+      "parent": "u-chandogya-upanishad",
+      "doc": "108upanishads-compiled",
+      "page": 252,
+      "endPage": 254,
+      "summary": "While Upakosala tends his teacher’s fires, the fires instruct him; Satyakama later completes the instruction.",
+      "aliases": [],
+      "tags": [
+        "Agni",
+        "Knowledge",
+        "Brahman"
+      ],
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 252,
+          "quote": "IV-x-1: Once upon a time Upakosala Kamalayana lived with Satyakama Jabala the life of a"
+        }
+      ]
+    },
+    {
+      "id": "u-story-asvapati-and-the-cosmic-self",
+      "title": "Asvapati and the cosmic self",
+      "type": "story",
+      "parent": "u-chandogya-upanishad",
+      "doc": "108upanishads-compiled",
+      "page": 258,
+      "endPage": 260,
+      "summary": "Seekers who contemplate different parts of the cosmic person are taught by King Asvapati to understand the whole Vaisvanara self.",
+      "aliases": [],
+      "tags": [
+        "Atman",
+        "Knowledge",
+        "Creation"
+      ],
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 258,
+          "quote": "V-xi-4: Uddalaka said to the, ‘Revered sirs, at present, Asvapati, the son of Kekaya, is studying this"
+        }
+      ]
+    },
+    {
+      "id": "u-story-uddalaka-teaches-svetaketu",
+      "title": "Uddalaka teaches Svetaketu",
+      "type": "story",
+      "parent": "u-chandogya-upanishad",
+      "doc": "108upanishads-compiled",
+      "page": 260,
+      "endPage": 265,
+      "summary": "Uddalaka uses ordinary substances and processes to guide Svetaketu toward the subtle ground of all beings and the repeated teaching That Thou Art.",
+      "aliases": [],
+      "tags": [
+        "Atman",
+        "Brahman",
+        "Knowledge"
+      ],
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 260,
+          "quote": "VI-i-1: Om. Once upon a time there was one Svetaketu, the grandson of Aruna. His father said to him,"
+        }
+      ]
+    },
+    {
+      "id": "u-story-the-seed-and-the-salt-water",
+      "title": "The seed and the salt water",
+      "type": "story",
+      "parent": "u-chandogya-upanishad",
+      "doc": "108upanishads-compiled",
+      "page": 264,
+      "endPage": 265,
+      "summary": "Uddalaka uses the unseen essence in a small seed and dissolved salt to illustrate a subtle reality present throughout existence.",
+      "aliases": [],
+      "tags": [
+        "Atman",
+        "Brahman",
+        "Knowledge"
+      ],
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 264,
+          "quote": "VI-xiii-1-2: ‘Put this salt into water and then come to me in the morning’. He did so. The father said to"
+        }
+      ]
+    },
+    {
+      "id": "u-story-narada-and-sanatkumara-beyond-learning",
+      "title": "Narada and Sanatkumara: beyond learning",
+      "type": "story",
+      "parent": "u-chandogya-upanishad",
+      "doc": "108upanishads-compiled",
+      "page": 265,
+      "endPage": 270,
+      "summary": "Narada knows many branches of learning but seeks freedom from sorrow; Sanatkumara leads him from names and lesser supports toward the infinite.",
+      "aliases": [],
+      "tags": [
+        "Narada",
+        "Knowledge",
+        "Liberation"
+      ],
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 265,
+          "quote": "VII-i-1: Om. ‘Revered sir, teach me,’ thus saying Narada approached Sanatkumara. Sanatkumara said"
+        }
+      ]
+    },
+    {
+      "id": "u-story-indra-and-virochana-seek-the-self",
+      "title": "Indra and Virochana seek the self",
+      "type": "story",
+      "parent": "u-chandogya-upanishad",
+      "doc": "108upanishads-compiled",
+      "page": 272,
+      "endPage": 274,
+      "summary": "Indra and Virochana ask Prajapati about the self; Indra repeatedly returns after finding flaws in identification with reflection, dream and sleep.",
+      "aliases": [],
+      "tags": [
+        "Indra",
+        "Atman",
+        "Consciousness"
+      ],
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 272,
+          "quote": "and so did Virochana from among the demons. Then without communicating with each other, they both"
+        }
+      ]
+    },
+    {
+      "id": "u-story-balaki-and-ajatasatru",
+      "title": "Balaki and Ajatasatru",
+      "type": "story",
+      "parent": "u-brihadaranyaka-upanishad",
+      "doc": "108upanishads-compiled",
+      "page": 320,
+      "endPage": 322,
+      "summary": "Balaki offers successive cosmic identifications of Brahman; King Ajatasatru leads him to the person associated with consciousness beyond those partial accounts.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Consciousness",
+        "Knowledge"
+      ],
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 320,
+          "quote": "Ajatasatru, the king of Benares, ‘I will tell you about Brahman’. Ajatasatru said, ‘For this proposal I"
+        }
+      ]
+    },
+    {
+      "id": "u-story-yajnavalkya-and-maitreyi",
+      "title": "Yajnavalkya and Maitreyi",
+      "type": "story",
+      "parent": "u-brihadaranyaka-upanishad",
+      "doc": "108upanishads-compiled",
+      "page": 322,
+      "endPage": 324,
+      "summary": "Maitreyi asks whether wealth can grant immortality. Yajnavalkya teaches that the self should be heard, reflected on and realized.",
+      "aliases": [],
+      "tags": [
+        "Yajnavalkya",
+        "Atman",
+        "Knowledge",
+        "Liberation"
+      ],
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 322,
+          "quote": "II-iv-1: ‘Maitreyi, my dear’, said Yajnavalkya, ‘I am going to renounce this life. Allow me to finish"
+        }
+      ]
+    },
+    {
+      "id": "u-story-janaka-s-assembly-and-yajnavalkya",
+      "title": "Janaka’s assembly and Yajnavalkya",
+      "type": "story",
+      "parent": "u-brihadaranyaka-upanishad",
+      "doc": "108upanishads-compiled",
+      "page": 326,
+      "endPage": 333,
+      "summary": "At King Janaka’s sacrificial assembly, scholars question Yajnavalkya on ritual, self and ultimate reality.",
+      "aliases": [],
+      "tags": [
+        "Yajnavalkya",
+        "Ritual",
+        "Knowledge"
+      ],
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 326,
+          "quote": "III-i-1: Om. Janaka, Emperor of Videha, performed a sacrifice in which gifts were freely distributed."
+        }
+      ]
+    },
+    {
+      "id": "u-story-gargi-questions-yajnavalkya",
+      "title": "Gargi questions Yajnavalkya",
+      "type": "story",
+      "parent": "u-brihadaranyaka-upanishad",
+      "doc": "108upanishads-compiled",
+      "page": 328,
+      "endPage": 331,
+      "summary": "Gargi asks what supports the world and what supports its support; the exchange culminates in the imperishable.",
+      "aliases": [],
+      "tags": [
+        "Yajnavalkya",
+        "Brahman",
+        "Creation"
+      ],
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 328,
+          "quote": "iii-vi-1: Then Gargi, the daughter of Vacaknu, asked him, ‘Yajnavalkya’, she said, ‘if all this is"
+        }
+      ]
+    },
+    {
+      "id": "u-story-uddalaka-asks-about-the-inner-controller",
+      "title": "Uddalaka asks about the inner controller",
+      "type": "story",
+      "parent": "u-brihadaranyaka-upanishad",
+      "doc": "108upanishads-compiled",
+      "page": 329,
+      "endPage": 330,
+      "summary": "Yajnavalkya answers Uddalaka’s question by describing the unseen controller within earth, elements, beings and the self.",
+      "aliases": [],
+      "tags": [
+        "Yajnavalkya",
+        "Atman",
+        "Creation"
+      ],
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 329,
+          "quote": "not know it, sir\". The Gandharva said to him and the students, \"Kapya, do you know that Internal Ruler"
+        }
+      ]
+    },
+    {
+      "id": "u-story-janaka-asks-about-the-light-of-a-person",
+      "title": "Janaka asks about the light of a person",
+      "type": "story",
+      "parent": "u-brihadaranyaka-upanishad",
+      "doc": "108upanishads-compiled",
+      "page": 336,
+      "endPage": 341,
+      "summary": "The discussion moves from external sources of light to the self and examines dream, sleep, death and liberation.",
+      "aliases": [],
+      "tags": [
+        "Yajnavalkya",
+        "Consciousness",
+        "Atman",
+        "Liberation"
+      ],
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 336,
+          "quote": "IV-iii-2: ‘Yajnavalkya, what serves as the light for a man ?’ ‘The light of the sun, O Emperor’, said"
+        }
+      ]
+    },
+    {
+      "id": "u-story-indra-and-pratardana",
+      "title": "Indra and Pratardana",
+      "type": "story",
+      "parent": "u-kaushitaki-brahmana-upanishad",
+      "doc": "108upanishads-compiled",
+      "page": 435,
+      "endPage": 437,
+      "summary": "Pratardana reaches Indra, who directs him toward understanding life-breath and consciousness as the central teaching.",
+      "aliases": [],
+      "tags": [
+        "Indra",
+        "Prana",
+        "Consciousness"
+      ],
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 435,
+          "quote": "III-1. Pratardana, the son of Divodasa, by means of fighting and virility, verily reached the beloved"
+        }
+      ]
+    },
+    {
+      "id": "u-story-balaki-and-ajatasatru-the-kaushitaki-version",
+      "title": "Balaki and Ajatasatru: the Kaushitaki version",
+      "type": "story",
+      "parent": "u-kaushitaki-brahmana-upanishad",
+      "doc": "108upanishads-compiled",
+      "page": 437,
+      "endPage": 440,
+      "summary": "A second version of Balaki’s instruction by Ajatasatru turns from cosmic persons to the self and consciousness.",
+      "aliases": [],
+      "tags": [
+        "Brahman",
+        "Consciousness",
+        "Knowledge"
+      ],
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 437,
+          "quote": "Having come to Ajatasatru of Kashi, he said, ‘Let me declare Brahman to you’. To him then Ajatasatru"
+        }
+      ]
+    },
+    {
+      "id": "u-story-brihadratha-seeks-self-knowledge",
+      "title": "Brihadratha seeks self-knowledge",
+      "type": "story",
+      "parent": "u-maitrayani-upanishad",
+      "doc": "108upanishads-compiled",
+      "page": 425,
+      "endPage": 428,
+      "summary": "Brihadratha leaves kingship and presses the sage Sakayana to teach the self rather than grant transient pleasures.",
+      "aliases": [],
+      "tags": [
+        "Renunciation",
+        "Atman",
+        "Knowledge"
+      ],
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 425,
+          "quote": "The King Brihadratha, setting up his eldest son as king, deeming the body to be impermanent, getting"
+        }
+      ]
+    },
+    {
+      "id": "u-story-shiva-teaches-suka-the-great-sayings",
+      "title": "Shiva teaches Suka the great sayings",
+      "type": "story",
+      "parent": "u-suka-rahasya-upanishad",
+      "doc": "108upanishads-compiled",
+      "page": 481,
+      "endPage": 483,
+      "summary": "At Vyasa’s request, Shiva instructs Suka in Brahman and the intended meaning of the Upanishadic great sayings.",
+      "aliases": [],
+      "tags": [
+        "Shiva",
+        "Atman",
+        "Brahman",
+        "Knowledge"
+      ],
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 481,
+          "quote": "Suka Rahasya Upanishad"
+        }
+      ]
+    },
+    {
+      "id": "u-story-sarabha-and-narasimha",
+      "title": "Sarabha and Narasimha",
+      "type": "story",
+      "parent": "u-sarabha-upanishad",
+      "doc": "108upanishads-compiled",
+      "page": 573,
+      "endPage": 574,
+      "summary": "This Shaiva text narrates Mahesvara taking Sarabha form and subduing Narasimha; it should be read as the account of this particular text.",
+      "aliases": [],
+      "tags": [
+        "Shiva",
+        "Vishnu"
+      ],
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 573,
+          "quote": "Sarabha Upanishad"
+        }
+      ]
+    },
+    {
+      "id": "u-story-rama-s-sages-become-krishna-s-gopis",
+      "title": "Rama’s sages become Krishna’s Gopis",
+      "type": "story",
+      "parent": "u-krishna-upanishad",
+      "doc": "108upanishads-compiled",
+      "page": 786,
+      "endPage": 787,
+      "summary": "The text links sages who wish to embrace Rama with Gopis in Krishna’s manifestation and interprets companions as personified qualities.",
+      "aliases": [],
+      "tags": [
+        "Rama",
+        "Krishna",
+        "Vishnu"
+      ],
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 786,
+          "quote": "Gopis and then you can embrace me.”[Their wish was fulfilled in Krishnavatara.] 1"
+        }
+      ]
+    },
+    {
+      "id": "u-story-the-origin-of-rudraksha-beads",
+      "title": "The origin of Rudraksha beads",
+      "type": "story",
+      "parent": "u-rudraksha-jabala-upanishad",
+      "doc": "108upanishads-compiled",
+      "page": 759,
+      "endPage": 761,
+      "summary": "Kalagnirudra tells Bhusunda that tears shed from his eyes became Rudraksha beads and explains their sacred uses.",
+      "aliases": [],
+      "tags": [
+        "Shiva",
+        "Rudraksha",
+        "Mantra"
+      ],
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 759,
+          "quote": "From my eyes thus closed, drops of water fell on the earth. These drops of tears turned into"
+        }
+      ]
+    },
+    {
+      "id": "u-story-rama-and-hanuman-s-curriculum",
+      "title": "Rama and Hanuman’s curriculum",
+      "type": "story",
+      "parent": "u-muktika-upanishad",
+      "doc": "108upanishads-compiled",
+      "page": 835,
+      "endPage": 840,
+      "summary": "Hanuman asks Rama about liberation; Rama supplies a graded course culminating in the 108 Upanishads and groups them by Veda.",
+      "aliases": [],
+      "tags": [
+        "Rama",
+        "Knowledge",
+        "Liberation"
+      ],
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 835,
+          "quote": "intellect, delighted in contemplating his own form. At the end of this Samadhi, Hanuman asked with"
+        }
+      ]
+    },
+    {
+      "id": "u-collection-index",
+      "title": "108-Upanishad contents and compiler’s note",
+      "type": "section",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 1,
+      "endPage": 2,
+      "summary": "The compiler follows the order given in the Muktika and notes commentary on the first ten texts.",
+      "aliases": [],
+      "tags": [
+        "Knowledge"
+      ],
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 1,
+          "quote": "The order as given in the Muktika Upanishad"
+        }
+      ]
+    },
+    {
+      "id": "u-sanskrit-glossary",
+      "title": "A Brief Sanskrit Glossary",
+      "type": "reference",
+      "parent": "family-upanishads",
+      "doc": "108upanishads-compiled",
+      "page": 844,
+      "endPage": 908,
+      "summary": "Modern explanatory glossary appended after the Upanishads and commentaries; useful for terminology, distinct from the scripture translations.",
+      "aliases": [],
+      "tags": [
+        "Knowledge"
+      ],
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 844,
+          "quote": "A Brief Sanskrit Glossary"
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "source": "u-isavasya-upanishad-commentary",
+      "target": "u-isavasya-upanishad",
+      "type": "commentary-on",
+      "summary": "Modern interpretive commentary on this translation.",
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 4,
+          "quote": "Commentary on the Isavasya Upanishad–by Swami Nirmalananda Giri"
+        }
+      ]
+    },
+    {
+      "source": "u-kena-upanishad-commentary",
+      "target": "u-kena-upanishad",
+      "type": "commentary-on",
+      "summary": "Modern interpretive commentary on this translation.",
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 36,
+          "quote": "Commentary on the Kena Upanishad–by Swami Nirmalananda Giri"
+        }
+      ]
+    },
+    {
+      "source": "u-katha-upanishad-commentary",
+      "target": "u-katha-upanishad",
+      "type": "commentary-on",
+      "summary": "Modern interpretive commentary on this translation.",
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 51,
+          "quote": "Commentary on the Katha Upanishad–by Swami Nirmalananda Giri"
+        }
+      ]
+    },
+    {
+      "source": "u-prasna-upanishad-commentary",
+      "target": "u-prasna-upanishad",
+      "type": "commentary-on",
+      "summary": "Modern interpretive commentary on this translation.",
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 134,
+          "quote": "Commentary on the Prashna Upanishad–by Swami Nirmalananda Giri"
+        }
+      ]
+    },
+    {
+      "source": "u-mundaka-upanishad-commentary",
+      "target": "u-mundaka-upanishad",
+      "type": "commentary-on",
+      "summary": "Modern interpretive commentary on this translation.",
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 158,
+          "quote": "Commentary on the Mundaka Upanishad–by Swami Nirmalananda Giri"
+        }
+      ]
+    },
+    {
+      "source": "u-mandukya-upanishad-commentary",
+      "target": "u-mandukya-upanishad",
+      "type": "commentary-on",
+      "summary": "Modern interpretive commentary on this translation.",
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 193,
+          "quote": "Commentary on the Mandukya Upanishad–by Swami Nirmalananda Giri"
+        }
+      ]
+    },
+    {
+      "source": "u-taittiriya-upanishad-commentary",
+      "target": "u-taittiriya-upanishad",
+      "type": "commentary-on",
+      "summary": "Modern interpretive commentary on this translation.",
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 205,
+          "quote": "Commentary on the Taittiriya Upanishad–by Swami Nirmalananda Giri"
+        }
+      ]
+    },
+    {
+      "source": "u-aitareya-upanishad-commentary",
+      "target": "u-aitareya-upanishad",
+      "type": "commentary-on",
+      "summary": "Modern interpretive commentary on this translation.",
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 230,
+          "quote": "Commentary on the Aitereya Upanishad–by Swami Nirmalananda Giri"
+        }
+      ]
+    },
+    {
+      "source": "u-chandogya-upanishad-commentary",
+      "target": "u-chandogya-upanishad",
+      "type": "commentary-on",
+      "summary": "Modern interpretive commentary on this translation.",
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 275,
+          "quote": "Commentary on the Chandogya Upanishad–by Swami Nirmalananda Giri"
+        }
+      ]
+    },
+    {
+      "source": "u-brihadaranyaka-upanishad-commentary",
+      "target": "u-brihadaranyaka-upanishad",
+      "type": "commentary-on",
+      "summary": "Modern interpretive commentary on this translation.",
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 352,
+          "quote": "Commentary on the Brihadaranyaka Upanishad–by Swami Nirmalananda Giri"
+        }
+      ]
+    },
+    {
+      "source": "u-story-balaki-and-ajatasatru",
+      "target": "u-story-balaki-and-ajatasatru-the-kaushitaki-version",
+      "type": "parallel-account",
+      "summary": "Two supplied Upanishads contain Balaki–Ajatasatru dialogues; wording and setting should be compared rather than merged.",
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 320,
+          "quote": "Ajatasatru, the king of Benares, ‘I will tell you about Brahman’. Ajatasatru said, ‘For this proposal I"
+        },
+        {
+          "doc": "108upanishads-compiled",
+          "page": 437,
+          "quote": "Having come to Ajatasatru of Kashi, he said, ‘Let me declare Brahman to you’. To him then Ajatasatru"
+        }
+      ],
+      "basis": "Editorial comparison of supplied passages; no historical influence inferred."
+    },
+    {
+      "source": "u-maitrayani-upanishad",
+      "target": "u-maitreya-upanishad",
+      "type": "parallel-account",
+      "summary": "Both supplied texts open with King Brihadratha leaving kingship and seeking self-knowledge.",
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 425,
+          "quote": "The King Brihadratha, setting up his eldest son as king, deeming the body to be impermanent, getting"
+        },
+        {
+          "doc": "108upanishads-compiled",
+          "page": 459,
+          "quote": "I-1. The King, Brihadratha by name, had his eldest son installed on the throne and considering the body"
+        }
+      ],
+      "basis": "Editorial comparison of supplied passages; no historical influence inferred."
+    },
+    {
+      "source": "u-story-uddalaka-teaches-svetaketu",
+      "target": "u-suka-rahasya-upanishad",
+      "type": "shared-teaching",
+      "summary": "The Chandogya teaching That Thou Art is explicitly interpreted among the great sayings in Suka Rahasya.",
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 263,
+          "quote": "is the true. That is the Atman. That thou art, O Svetaketu.’ ‘Revered sir, please explain it further to me’."
+        },
+        {
+          "doc": "108upanishads-compiled",
+          "page": 481,
+          "quote": "imparted; the special sense 'That Thou Art' etc., with the six limbs, I desire to hear’."
+        }
+      ],
+      "basis": "Editorial comparison of supplied passages; no historical influence inferred."
+    },
+    {
+      "source": "u-story-the-faculties-and-the-primacy-of-prana",
+      "target": "u-kaushitaki-brahmana-upanishad",
+      "type": "thematic-comparison",
+      "summary": "Both passages make life-breath central to the discussion of faculties and consciousness.",
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 130,
+          "quote": "I-7: That very one rises up who is Prana and fire, who is identified with all creatures, and who is"
+        },
+        {
+          "doc": "108upanishads-compiled",
+          "page": 432,
+          "quote": "II-5. Now, next, self-restraint according to Pratardana or the Inner Agnihotra as they call it. Verily as"
+        }
+      ],
+      "basis": "Editorial comparison of supplied passages; no historical influence inferred."
+    },
+    {
+      "source": "u-mandukya-upanishad",
+      "target": "u-nrisimha-uttara-tapaniya",
+      "type": "thematic-comparison",
+      "summary": "Both supplied translations discuss Om and four aspects of the self including waking, dream, deep sleep and the fourth.",
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 181,
+          "quote": "7. The Fourth is thought of as that which is not conscious of the internal world, nor conscious of the"
+        },
+        {
+          "doc": "108upanishads-compiled",
+          "page": 452,
+          "quote": "The fourth feet (aspect) of this four fold soul is Thureeya. It is something which make all others act,"
+        }
+      ],
+      "basis": "Editorial comparison of supplied passages; no historical influence inferred."
+    },
+    {
+      "source": "u-rudra-hridaya-upanishad",
+      "target": "u-skanda-upanishad",
+      "type": "shared-teaching",
+      "summary": "Both supplied translations explicitly teach the unity of Shiva and Vishnu.",
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 745,
+          "quote": "worship Lord Vishnu, worship Siva Himself. And those who worship Siva, worship Lord Vishnu in"
+        },
+        {
+          "doc": "108upanishads-compiled",
+          "page": 575,
+          "quote": "8-9. (I bow) to Shiva of the form of Vishnu and Vishnu who is Shiva; Vishnu is Shiva’s heart and"
+        }
+      ],
+      "basis": "Editorial comparison of supplied passages; no historical influence inferred."
+    },
+    {
+      "source": "u-sarabha-upanishad",
+      "target": "u-nrisimhatapini-upanishad",
+      "type": "different-presentations",
+      "summary": "These texts present Narasimha in distinct Shaiva and Narasimha-centered devotional settings; the graph preserves both.",
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 573,
+          "quote": "Sarabha Upanishad"
+        },
+        {
+          "doc": "108upanishads-compiled",
+          "page": 446,
+          "quote": "Bhagawan Narasimha who is partly human and partly lion shines as Parabrahma with Rutha (discipline"
+        }
+      ],
+      "basis": "Editorial comparison of supplied passages; no historical influence inferred."
+    },
+    {
+      "source": "u-kali-santarana-upanishad",
+      "target": "u-muktika-upanishad",
+      "type": "thematic-comparison",
+      "summary": "Both place Rama in a teaching about liberation, through the divine name in one and an Upanishadic curriculum in the other.",
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 817,
+          "quote": "1. Hare Rama Hare Rama Rama Rama Hare Hare"
+        },
+        {
+          "doc": "108upanishads-compiled",
+          "page": 835,
+          "quote": "intellect, delighted in contemplating his own form. At the end of this Samadhi, Hanuman asked with"
+        }
+      ],
+      "basis": "Editorial comparison of supplied passages; no historical influence inferred."
+    },
+    {
+      "source": "u-satyayaniya-upanishad",
+      "target": "u-amrita-bindu-upanishad",
+      "type": "shared-teaching",
+      "summary": "Both open with the mind as the cause of bondage when attached to objects and liberation when freed from them.",
+      "evidence": [
+        {
+          "doc": "108upanishads-compiled",
+          "page": 805,
+          "quote": "1. The mind alone is the cause of bondage and liberation of the people; (the mind) attached to the"
+        },
+        {
+          "doc": "108upanishads-compiled",
+          "page": 413,
+          "quote": "2. It is indeed the mind that is the cause of men’s bondage and liberation. The mind that is attached to"
+        }
+      ],
+      "basis": "Editorial comparison of supplied passages; no historical influence inferred."
+    }
+  ],
+  "notes": [
+    "All 108 numbered Muktika catalog entries were found in the supplied compilation. Catalog numbers are navigation identifiers, not composition dates.",
+    "PDF page numbers are one-based physical pages, not printed page numbers. Ten modern commentaries sometimes begin on the same PDF page as the end of the translation; both nodes therefore legitimately share a boundary page.",
+    "The Mandukya translation proper occupies pages 181–182; Gaudapada’s separately titled Karika occupies pages 182–193, followed by Nirmalananda Giri’s modern commentary on pages 193–197.",
+    "Nrisimhatapini is catalog item 27; the compilation supplies separate Poorva and Uttara translations and explicitly notes the alternate counting. They are child sections, not two extra entries in the 108.",
+    "Rama Tapaniya also contains Poorva and Uttara sections; both remain children of the one catalog entry.",
+    "Kshurika explicitly marks verses 2–9 unavailable; Yoga Chudamani marks verses 2–29 unavailable. These gaps belong to the supplied edition and are not silently filled.",
+    "Avyakta as supplied presents transliterated Nasadiya, Hiranyagarbha and Purusha Suktas with a compiler-style introduction; it is indexed as supplied, without asserting textual-critical completeness.",
+    "All summaries and episodes refer to the supplied translations. Extra anecdotes and interpretations inside modern commentaries are not labeled as original Upanishadic stories.",
+    "Vedic affiliations, where recorded, follow the compilation’s traditional colophons and Muktika grouping; affiliation is not proof that the supplied independent Samhita PDF contains that Upanishad.",
+    "Thematic comparisons are editorial navigation links. They do not establish chronology, textual derivation or uniform doctrine. Sectarian differences are retained.",
+    "Tags record terms attested in the primary translation, including recurring invocations; they are discovery aids rather than proof of an episode-level or doctrinal relationship. Curated edges carry their own passage evidence."
+  ]
+}

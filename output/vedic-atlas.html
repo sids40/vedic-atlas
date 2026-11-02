@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Vedic Atlas · A connected reading library</title>
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="atlas.css">
+</head>
+<body>
+<header><a class="brand" href="#root"><span class="brandmark">✳</span><span>VEDIC ATLAS<small>A connected reading library</small></span></a><div class="topnote">30 source files · <span id="totalPages">7,984</span> pages</div><button id="helpButton" class="quiet">How to explore</button></header>
+<div class="app">
+<aside class="sidebar">
+<div class="searchbox"><span>⌕</span><input id="search" type="search" aria-label="Search the library" placeholder="Find a text, story, or idea…"><kbd>/</kbd></div>
+<nav class="tabs" aria-label="Explore modes"><button data-tab="library" class="active">Library</button><button data-tab="themes">Connections</button><button data-tab="passages">Passages</button><button data-tab="coverage">Coverage</button></nav>
+<div id="navContent" class="navcontent"></div>
+<footer><span class="live-dot"></span>Built from your supplied PDFs<br><a href="atlas.graphml" download>Complete graph</a> <span>·</span> <a href="atlas.json" download>Source data</a> <span>·</span> <a href="../analysis/REPORT.md">Analysis</a></footer>
+</aside>
+<main>
+<div class="workspace-head"><div><div id="eyebrow" class="eyebrow">YOUR SOURCE COLLECTION</div><h1 id="heading">A library of connected worlds.</h1><p id="subheading">Start with a tradition, follow a story, or explore an idea across texts.</p></div><div class="map-actions"><button id="back" title="Go back" aria-label="Go back">←</button><button id="home" title="Collection overview">Overview</button><button id="zoomOut" title="Zoom out" aria-label="Zoom out">−</button><button id="zoomIn" title="Zoom in" aria-label="Zoom in">+</button><button id="fit" title="Fit map">Fit</button><button id="export" title="Save this map">↓ SVG</button></div></div>
+<div class="workspace-body">
+<section class="maparea" aria-label="Interactive mind map"><div class="map-key"><span class="keyline"></span>Contains <span class="keyline related"></span>Related entry</div><svg id="map" role="img" aria-label="Mind map of the selected text and its connections"><g id="scene"></g></svg><div id="mapPager" class="mappager"></div><div class="map-caption"><span id="mapCount"></span><span>Click a node to explore · Drag to pan · + / − to zoom</span></div></section>
+<aside class="detail" id="detail" aria-live="polite"></aside>
+</div>
+</main>
+</div>
+<dialog id="help"><button class="close" id="closeHelp" aria-label="Close help">×</button><p class="eyebrow">READ THE MAP</p><h2>Follow a thread.</h2><p>Select a family, book, hymn, story, or concept. The map shows its immediate connections; the full collection remains available in the library.</p><ol><li><b>Library</b> follows the supplied texts and their indexed contents.</li><li><b>Connections</b> brings together passages that share names or ideas. A shared theme does not establish literary borrowing.</li><li><b>Passages</b> searches the extracted text of all PDFs. Search spelling variants separately.</li><li><b>Coverage</b> records partial editions, OCR, commentary, duplicates, and gaps.</li></ol><p>Page numbers always mean PDF pages, starting at 1. Use “Open source PDF” to check the original. Extracted and recognized text may contain errors. Indexed headings are navigation aids; they are not a claim that every embedded story has received a separate scholarly analysis.</p><p class="fine">The library runs entirely in your browser. No external APIs, accounts, or analytics are required.</p></dialog>
+<script src="atlas-data.js"></script><script src="atlas-pages.js"></script><script src="atlas.js"></script>
+</body></html>

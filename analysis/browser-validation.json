@@ -1,0 +1,82 @@
+{
+  "date": "2026-11-02",
+  "result": "PASS",
+  "browser": "Chromium via Playwright",
+  "checks": [
+    {
+      "check": "Collection loads all source and graph data",
+      "result": "PASS",
+      "nodes": 12722,
+      "edges": 25501,
+      "pdfPages": 7984
+    },
+    {
+      "check": "Library family navigation",
+      "result": "PASS",
+      "observed": "Vedas family exposes four works and supplementary source editions"
+    },
+    {
+      "check": "Story title search",
+      "result": "PASS",
+      "query": "Nachiketa",
+      "matches": 5
+    },
+    {
+      "check": "Story source reader",
+      "result": "PASS",
+      "observed": "Katha Nachiketas story opens PDF45; Next source page advances to46"
+    },
+    {
+      "check": "Full-text passage search",
+      "result": "PASS",
+      "query": "Nachiketa",
+      "matchingPages": 40
+    },
+    {
+      "check": "Concept source-page shortcut",
+      "result": "PASS",
+      "observed": "Agni hub source shortcut opens Agni Purana PDF7"
+    },
+    {
+      "check": "Related graph pagination",
+      "result": "PASS",
+      "observed": "Agni hub Next advances from1-6 to7-12 of719 related entries"
+    },
+    {
+      "check": "Additional related entries accessible",
+      "result": "PASS",
+      "observed": "Show more connected entries available"
+    },
+    {
+      "check": "Responsive layout",
+      "result": "PASS",
+      "widths": [
+        1280,
+        390
+      ],
+      "horizontalOverflow": false
+    },
+    {
+      "check": "Visual inspection",
+      "result": "PASS",
+      "screenshots": [
+        "output/overview.png",
+        "output/mobile.png"
+      ]
+    },
+    {
+      "check": "Final runtime",
+      "result": "PASS",
+      "observed": "No script errors; favicon404 corrected in final revision"
+    },
+    {
+      "check": "Map zoom controls",
+      "result": "PASS",
+      "observed": "Zoom in reduces viewBox from719.526x620 to575.621x496; Fit restores the overview."
+    }
+  ],
+  "limits": [
+    "Original PDF launch page fragments depend on browser PDF-viewer support.",
+    "All source files are preserved; semantic annotations remain selective."
+  ]
+}

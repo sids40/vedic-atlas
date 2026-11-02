@@ -1,0 +1,12 @@
+.DS_Store
+.playwright-cli/
+tmp/
+__pycache__/
+*.py[cod]
+scripts/ocr_pdf
+analysis/qa/
+corpus/*
+!corpus/manifest.json
+.env
+.env.*
+!.env.example

@@ -1,0 +1,2760 @@
+{
+  "nodes": [
+    {
+      "id": "b-ayurveda",
+      "title": "Ayurvedic Home Remedies",
+      "type": "text",
+      "parent": "family-bonus",
+      "doc": "ayurvedic-home-remediesenglishebook",
+      "page": 1,
+      "endPage": 30,
+      "summary": "A supplied practical booklet with an index and 25 ingredient entries. This map catalogs the subjects and page locations; the traditional treatment claims are not evaluated here.",
+      "aliases": [],
+      "tags": [
+        "Ayurveda"
+      ],
+      "method": "curated source-topic metadata",
+      "evidence": [
+        {
+          "doc": "ayurvedic-home-remediesenglishebook",
+          "page": 1,
+          "quote": "INDEX S.NO. Page Forew ord i Instructions ii 1. Adrak/Scnth 1 2. Ajvain 2 3. Anar 3 4. Amla 4 5. Dalchini 5 6. Dhania 6 7. Elaichi 7 8. Ghee 8 9. Haldi 9 10. Hing 10 11. Jayphal 11 12. Jeer a 12 13. Kalimirach 13 14. Kar"
+        }
+      ]
+    },
+    {
+      "id": "b-vastu",
+      "title": "Practical Vastu for Homes and Businesses",
+      "type": "text",
+      "parent": "family-bonus",
+      "doc": "practical-vastu-professional-guide-1",
+      "page": 1,
+      "endPage": 44,
+      "summary": "A supplied modern advisory guide to existing homes, shops and offices, presented separately from scripture. Its 44 pages cover spatial principles, direction readings, layouts and correction checklists.",
+      "aliases": [],
+      "tags": [
+        "Vastu"
+      ],
+      "method": "curated source-topic metadata",
+      "evidence": [
+        {
+          "doc": "practical-vastu-professional-guide-1",
+          "page": 1,
+          "quote": "Practical Vastu for Existing Homes, Shops and Offices Practical Vastu for Homes & Businesses Ancient Principles, Modern Fixes and Simple Remedies for Daily Life A practical Vastu guide for homes, shops and offices rooted"
+        }
+      ]
+    },
+    {
+      "id": "b-yoga",
+      "title": "Common Yoga Protocol",
+      "type": "text",
+      "parent": "family-bonus",
+      "doc": "common-yoga-aasana-englishebook",
+      "page": 1,
+      "endPage": 51,
+      "summary": "A supplied illustrated Ministry of Ayush yoga guide. The 51-page scan includes introductory material, loosening practices, postures, breathing practices and the beginning of Dhyana. Topics listed later in its contents are not present at the end of this supplied file.",
+      "aliases": [],
+      "tags": [
+        "Yoga"
+      ],
+      "method": "source identification from OCR; scan has no original text layer",
+      "evidence": [
+        {
+          "doc": "common-yoga-aasana-englishebook",
+          "page": 5,
+          "quote": "COMMON YOGA PROTOCOL Ministry of Ayush, Government of India What is Yoga?"
+        }
+      ]
+    },
+    {
+      "id": "b-ayurveda-topic-1",
+      "title": "Adrak / Sonth (ginger)",
+      "type": "section",
+      "parent": "b-ayurveda",
+      "doc": "ayurvedic-home-remediesenglishebook",
+      "page": 5,
+      "endPage": 5,
+      "summary": "Ingredient entry 1 in the supplied home-remedies booklet: Adrak / Sonth (ginger).",
+      "aliases": [
+        "Adrak",
+        "Sonth",
+        "Ardraka",
+        "Sunthi"
+      ],
+      "tags": [
+        "Ayurveda"
+      ],
+      "method": "curated source-topic metadata",
+      "evidence": [
+        {
+          "doc": "ayurvedic-home-remediesenglishebook",
+          "page": 5,
+          "quote": "A drak/ Sonth ( Zingiber officinale Rose., A rdraka/Sunthi)"
+        }
+      ]
+    },
+    {
+      "id": "b-ayurveda-topic-2",
+      "title": "Ajvain",
+      "type": "section",
+      "parent": "b-ayurveda",
+      "doc": "ayurvedic-home-remediesenglishebook",
+      "page": 6,
+      "endPage": 6,
+      "summary": "Ingredient entry 2 in the supplied home-remedies booklet: Ajvain.",
+      "aliases": [
+        "Ajwain",
+        "Yavani"
+      ],
+      "tags": [
+        "Ayurveda"
+      ],
+      "method": "curated source-topic metadata",
+      "evidence": [
+        {
+          "doc": "ayurvedic-home-remediesenglishebook",
+          "page": 6,
+          "quote": "ATYAIN (Trachyspremum amrni Spragne, Yavani)"
+        }
+      ]
+    },
+    {
+      "id": "b-ayurveda-topic-3",
+      "title": "Anar (pomegranate)",
+      "type": "section",
+      "parent": "b-ayurveda",
+      "doc": "ayurvedic-home-remediesenglishebook",
+      "page": 7,
+      "endPage": 7,
+      "summary": "Ingredient entry 3 in the supplied home-remedies booklet: Anar (pomegranate).",
+      "aliases": [
+        "Dadima"
+      ],
+      "tags": [
+        "Ayurveda"
+      ],
+      "method": "curated source-topic metadata",
+      "evidence": [
+        {
+          "doc": "ayurvedic-home-remediesenglishebook",
+          "page": 7,
+          "quote": "ANAR ( Punica granntum Linn., Dadima)"
+        }
+      ]
+    },
+    {
+      "id": "b-ayurveda-topic-4",
+      "title": "Amla",
+      "type": "section",
+      "parent": "b-ayurveda",
+      "doc": "ayurvedic-home-remediesenglishebook",
+      "page": 8,
+      "endPage": 8,
+      "summary": "Ingredient entry 4 in the supplied home-remedies booklet: Amla.",
+      "aliases": [
+        "Amalaki"
+      ],
+      "tags": [
+        "Ayurveda"
+      ],
+      "method": "curated source-topic metadata",
+      "evidence": [
+        {
+          "doc": "ayurvedic-home-remediesenglishebook",
+          "page": 8,
+          "quote": "AMLA (Emblica officinalis Gaertn., Amalaki)"
+        }
+      ]
+    },
+    {
+      "id": "b-ayurveda-topic-5",
+      "title": "Dalchini (cinnamon)",
+      "type": "section",
+      "parent": "b-ayurveda",
+      "doc": "ayurvedic-home-remediesenglishebook",
+      "page": 9,
+      "endPage": 9,
+      "summary": "Ingredient entry 5 in the supplied home-remedies booklet: Dalchini (cinnamon).",
+      "aliases": [
+        "Tvak"
+      ],
+      "tags": [
+        "Ayurveda"
+      ],
+      "method": "curated source-topic metadata",
+      "evidence": [
+        {
+          "doc": "ayurvedic-home-remediesenglishebook",
+          "page": 9,
+          "quote": "DALCHINI ( Cinnamomum zeylam cum Blume ,Tvak)"
+        }
+      ]
+    },
+    {
+      "id": "b-ayurveda-topic-6",
+      "title": "Dhania (coriander)",
+      "type": "section",
+      "parent": "b-ayurveda",
+      "doc": "ayurvedic-home-remediesenglishebook",
+      "page": 10,
+      "endPage": 10,
+      "summary": "Ingredient entry 6 in the supplied home-remedies booklet: Dhania (coriander).",
+      "aliases": [
+        "Dhanyaka"
+      ],
+      "tags": [
+        "Ayurveda"
+      ],
+      "method": "curated source-topic metadata",
+      "evidence": [
+        {
+          "doc": "ayurvedic-home-remediesenglishebook",
+          "page": 10,
+          "quote": "DHANIA ( Conundrum sativum L in n ., Dhanyaka)"
+        }
+      ]
+    },
+    {
+      "id": "b-ayurveda-topic-7",
+      "title": "Elaichi (cardamom)",
+      "type": "section",
+      "parent": "b-ayurveda",
+      "doc": "ayurvedic-home-remediesenglishebook",
+      "page": 11,
+      "endPage": 11,
+      "summary": "Ingredient entry 7 in the supplied home-remedies booklet: Elaichi (cardamom).",
+      "aliases": [
+        "Ela"
+      ],
+      "tags": [
+        "Ayurveda"
+      ],
+      "method": "curated source-topic metadata",
+      "evidence": [
+        {
+          "doc": "ayurvedic-home-remediesenglishebook",
+          "page": 11,
+          "quote": "ELAICHI ( Elettarin cnrdnmomum Maton, Ela)"
+        }
+      ]
+    },
+    {
+      "id": "b-ayurveda-topic-8",
+      "title": "Ghee (clarified butter)",
+      "type": "section",
+      "parent": "b-ayurveda",
+      "doc": "ayurvedic-home-remediesenglishebook",
+      "page": 12,
+      "endPage": 12,
+      "summary": "Ingredient entry 8 in the supplied home-remedies booklet: Ghee (clarified butter).",
+      "aliases": [],
+      "tags": [
+        "Ayurveda"
+      ],
+      "method": "curated source-topic metadata",
+      "evidence": [
+        {
+          "doc": "ayurvedic-home-remediesenglishebook",
+          "page": 12,
+          "quote": "GHEE (Clarified Butter)"
+        }
+      ]
+    },
+    {
+      "id": "b-ayurveda-topic-9",
+      "title": "Haldi (turmeric)",
+      "type": "section",
+      "parent": "b-ayurveda",
+      "doc": "ayurvedic-home-remediesenglishebook",
+      "page": 13,
+      "endPage": 13,
+      "summary": "Ingredient entry 9 in the supplied home-remedies booklet: Haldi (turmeric).",
+      "aliases": [
+        "Haridra"
+      ],
+      "tags": [
+        "Ayurveda"
+      ],
+      "method": "curated source-topic metadata",
+      "evidence": [
+        {
+          "doc": "ayurvedic-home-remediesenglishebook",
+          "page": 13,
+          "quote": "HALDI {Curcuma longa Linn., Haridra)"
+        }
+      ]
+    },
+    {
+      "id": "b-ayurveda-topic-10",
+      "title": "Hing (asafoetida)",
+      "type": "section",
+      "parent": "b-ayurveda",
+      "doc": "ayurvedic-home-remediesenglishebook",
+      "page": 14,
+      "endPage": 14,
+      "summary": "Ingredient entry 10 in the supplied home-remedies booklet: Hing (asafoetida).",
+      "aliases": [
+        "Hingu"
+      ],
+      "tags": [
+        "Ayurveda"
+      ],
+      "method": "curated source-topic metadata",
+      "evidence": [
+        {
+          "doc": "ayurvedic-home-remediesenglishebook",
+          "page": 14,
+          "quote": "HING (Ferula narthex Boiss., Hingu)"
+        }
+      ]
+    },
+    {
+      "id": "b-ayurveda-topic-11",
+      "title": "Jayphal (nutmeg)",
+      "type": "section",
+      "parent": "b-ayurveda",
+      "doc": "ayurvedic-home-remediesenglishebook",
+      "page": 15,
+      "endPage": 15,
+      "summary": "Ingredient entry 11 in the supplied home-remedies booklet: Jayphal (nutmeg).",
+      "aliases": [
+        "Jatiphala"
+      ],
+      "tags": [
+        "Ayurveda"
+      ],
+      "method": "curated source-topic metadata",
+      "evidence": [
+        {
+          "doc": "ayurvedic-home-remediesenglishebook",
+          "page": 15,
+          "quote": "TAYPHAL (Myristica fragm ns Houtt., Jatiphala)"
+        }
+      ]
+    },
+    {
+      "id": "b-ayurveda-topic-12",
+      "title": "Jeera (cumin)",
+      "type": "section",
+      "parent": "b-ayurveda",
+      "doc": "ayurvedic-home-remediesenglishebook",
+      "page": 16,
+      "endPage": 16,
+      "summary": "Ingredient entry 12 in the supplied home-remedies booklet: Jeera (cumin).",
+      "aliases": [
+        "Jiraka"
+      ],
+      "tags": [
+        "Ayurveda"
+      ],
+      "method": "curated source-topic metadata",
+      "evidence": [
+        {
+          "doc": "ayurvedic-home-remediesenglishebook",
+          "page": 16,
+          "quote": "1EERA ( Cuminum cyminum Linn., jiraka)"
+        }
+      ]
+    },
+    {
+      "id": "b-ayurveda-topic-13",
+      "title": "Kalimirach (black pepper)",
+      "type": "section",
+      "parent": "b-ayurveda",
+      "doc": "ayurvedic-home-remediesenglishebook",
+      "page": 17,
+      "endPage": 17,
+      "summary": "Ingredient entry 13 in the supplied home-remedies booklet: Kalimirach (black pepper).",
+      "aliases": [
+        "Maricha"
+      ],
+      "tags": [
+        "Ayurveda"
+      ],
+      "method": "curated source-topic metadata",
+      "evidence": [
+        {
+          "doc": "ayurvedic-home-remediesenglishebook",
+          "page": 17,
+          "quote": "KALIM IRACH ( Piper nigrum Linn., M aricha)"
+        }
+      ]
+    },
+    {
+      "id": "b-ayurveda-topic-14",
+      "title": "Karela (bitter gourd)",
+      "type": "section",
+      "parent": "b-ayurveda",
+      "doc": "ayurvedic-home-remediesenglishebook",
+      "page": 18,
+      "endPage": 18,
+      "summary": "Ingredient entry 14 in the supplied home-remedies booklet: Karela (bitter gourd).",
+      "aliases": [
+        "Karavellaka"
+      ],
+      "tags": [
+        "Ayurveda"
+      ],
+      "method": "curated source-topic metadata",
+      "evidence": [
+        {
+          "doc": "ayurvedic-home-remediesenglishebook",
+          "page": 18,
+          "quote": "KARELA (M omordica charantin Linn., Karavellaka)"
+        }
+      ]
+    },
+    {
+      "id": "b-ayurveda-topic-15",
+      "title": "Lahsun (garlic)",
+      "type": "section",
+      "parent": "b-ayurveda",
+      "doc": "ayurvedic-home-remediesenglishebook",
+      "page": 19,
+      "endPage": 19,
+      "summary": "Ingredient entry 15 in the supplied home-remedies booklet: Lahsun (garlic).",
+      "aliases": [
+        "Rasona"
+      ],
+      "tags": [
+        "Ayurveda"
+      ],
+      "method": "curated source-topic metadata",
+      "evidence": [
+        {
+          "doc": "ayurvedic-home-remediesenglishebook",
+          "page": 19,
+          "quote": "LAHSUN (.Allium sativum Linn., Rasona)"
+        }
+      ]
+    },
+    {
+      "id": "b-ayurveda-topic-16",
+      "title": "Laung (clove)",
+      "type": "section",
+      "parent": "b-ayurveda",
+      "doc": "ayurvedic-home-remediesenglishebook",
+      "page": 20,
+      "endPage": 20,
+      "summary": "Ingredient entry 16 in the supplied home-remedies booklet: Laung (clove).",
+      "aliases": [
+        "Lavanga"
+      ],
+      "tags": [
+        "Ayurveda"
+      ],
+      "method": "curated source-topic metadata",
+      "evidence": [
+        {
+          "doc": "ayurvedic-home-remediesenglishebook",
+          "page": 20,
+          "quote": "LAUNG ( Syzygium aromaticum (L.) Merr & Perry, Lavanga)"
+        }
+      ]
+    },
+    {
+      "id": "b-ayurveda-topic-17",
+      "title": "Madhu (honey)",
+      "type": "section",
+      "parent": "b-ayurveda",
+      "doc": "ayurvedic-home-remediesenglishebook",
+      "page": 21,
+      "endPage": 21,
+      "summary": "Ingredient entry 17 in the supplied home-remedies booklet: Madhu (honey).",
+      "aliases": [
+        "Honey"
+      ],
+      "tags": [
+        "Ayurveda"
+      ],
+      "method": "curated source-topic metadata",
+      "evidence": [
+        {
+          "doc": "ayurvedic-home-remediesenglishebook",
+          "page": 21,
+          "quote": "M A PH U f Honey)"
+        }
+      ]
+    },
+    {
+      "id": "b-ayurveda-topic-18",
+      "title": "Methi (fenugreek)",
+      "type": "section",
+      "parent": "b-ayurveda",
+      "doc": "ayurvedic-home-remediesenglishebook",
+      "page": 22,
+      "endPage": 22,
+      "summary": "Ingredient entry 18 in the supplied home-remedies booklet: Methi (fenugreek).",
+      "aliases": [
+        "Methika"
+      ],
+      "tags": [
+        "Ayurveda"
+      ],
+      "method": "curated source-topic metadata",
+      "evidence": [
+        {
+          "doc": "ayurvedic-home-remediesenglishebook",
+          "page": 22,
+          "quote": "METHI ( Trigonellafoenum -graecum Linn., Methika)"
+        }
+      ]
+    },
+    {
+      "id": "b-ayurveda-topic-19",
+      "title": "Nariyal (coconut)",
+      "type": "section",
+      "parent": "b-ayurveda",
+      "doc": "ayurvedic-home-remediesenglishebook",
+      "page": 23,
+      "endPage": 23,
+      "summary": "Ingredient entry 19 in the supplied home-remedies booklet: Nariyal (coconut).",
+      "aliases": [
+        "Narikela"
+      ],
+      "tags": [
+        "Ayurveda"
+      ],
+      "method": "curated source-topic metadata",
+      "evidence": [
+        {
+          "doc": "ayurvedic-home-remediesenglishebook",
+          "page": 23,
+          "quote": "NARIYAL ( Cocos nucifern Linn., Narikela)"
+        }
+      ]
+    },
+    {
+      "id": "b-ayurveda-topic-20",
+      "title": "Neem",
+      "type": "section",
+      "parent": "b-ayurveda",
+      "doc": "ayurvedic-home-remediesenglishebook",
+      "page": 24,
+      "endPage": 24,
+      "summary": "Ingredient entry 20 in the supplied home-remedies booklet: Neem.",
+      "aliases": [
+        "Nimba"
+      ],
+      "tags": [
+        "Ayurveda"
+      ],
+      "method": "curated source-topic metadata",
+      "evidence": [
+        {
+          "doc": "ayurvedic-home-remediesenglishebook",
+          "page": 24,
+          "quote": "NEEM ( Azadirachtn indica A. juss., Nimba)"
+        }
+      ]
+    },
+    {
+      "id": "b-ayurveda-topic-21",
+      "title": "Nimbu (lemon)",
+      "type": "section",
+      "parent": "b-ayurveda",
+      "doc": "ayurvedic-home-remediesenglishebook",
+      "page": 25,
+      "endPage": 25,
+      "summary": "Ingredient entry 21 in the supplied home-remedies booklet: Nimbu (lemon).",
+      "aliases": [],
+      "tags": [
+        "Ayurveda"
+      ],
+      "method": "curated source-topic metadata",
+      "evidence": [
+        {
+          "doc": "ayurvedic-home-remediesenglishebook",
+          "page": 25,
+          "quote": "NIM BU (Citrus limon Linn., Nimbu)"
+        }
+      ]
+    },
+    {
+      "id": "b-ayurveda-topic-22",
+      "title": "Pyaj (onion)",
+      "type": "section",
+      "parent": "b-ayurveda",
+      "doc": "ayurvedic-home-remediesenglishebook",
+      "page": 26,
+      "endPage": 26,
+      "summary": "Ingredient entry 22 in the supplied home-remedies booklet: Pyaj (onion).",
+      "aliases": [
+        "Palandu"
+      ],
+      "tags": [
+        "Ayurveda"
+      ],
+      "method": "curated source-topic metadata",
+      "evidence": [
+        {
+          "doc": "ayurvedic-home-remediesenglishebook",
+          "page": 26,
+          "quote": "PYAT ( Allium cepa Linn., Palandu)"
+        }
+      ]
+    },
+    {
+      "id": "b-ayurveda-topic-23",
+      "title": "Pippali (long pepper)",
+      "type": "section",
+      "parent": "b-ayurveda",
+      "doc": "ayurvedic-home-remediesenglishebook",
+      "page": 27,
+      "endPage": 27,
+      "summary": "Ingredient entry 23 in the supplied home-remedies booklet: Pippali (long pepper).",
+      "aliases": [],
+      "tags": [
+        "Ayurveda"
+      ],
+      "method": "curated source-topic metadata",
+      "evidence": [
+        {
+          "doc": "ayurvedic-home-remediesenglishebook",
+          "page": 27,
+          "quote": "PIPPALI (Piper longum Linn., Pippali)"
+        }
+      ]
+    },
+    {
+      "id": "b-ayurveda-topic-24",
+      "title": "Saunf (fennel)",
+      "type": "section",
+      "parent": "b-ayurveda",
+      "doc": "ayurvedic-home-remediesenglishebook",
+      "page": 28,
+      "endPage": 28,
+      "summary": "Ingredient entry 24 in the supplied home-remedies booklet: Saunf (fennel).",
+      "aliases": [
+        "Shatapushpa"
+      ],
+      "tags": [
+        "Ayurveda"
+      ],
+      "method": "curated source-topic metadata",
+      "evidence": [
+        {
+          "doc": "ayurvedic-home-remediesenglishebook",
+          "page": 28,
+          "quote": "SAUNF (Foeniculum vulgare Mill., Shatapushpa)"
+        }
+      ]
+    },
+    {
+      "id": "b-ayurveda-topic-25",
+      "title": "Tulsi",
+      "type": "section",
+      "parent": "b-ayurveda",
+      "doc": "ayurvedic-home-remediesenglishebook",
+      "page": 29,
+      "endPage": 29,
+      "summary": "Ingredient entry 25 in the supplied home-remedies booklet: Tulsi.",
+      "aliases": [
+        "Tulasi"
+      ],
+      "tags": [
+        "Ayurveda"
+      ],
+      "method": "curated source-topic metadata",
+      "evidence": [
+        {
+          "doc": "ayurvedic-home-remediesenglishebook",
+          "page": 29,
+          "quote": "TULSI (Ocimum sanctum , Tulasi)"
+        }
+      ]
+    },
+    {
+      "id": "b-vastu-page-1",
+      "title": "Practical Vastu for Homes and Businesses — cover",
+      "type": "section",
+      "parent": "b-vastu",
+      "doc": "practical-vastu-professional-guide-1",
+      "page": 1,
+      "endPage": 1,
+      "summary": "Source topic: Practical Vastu for Homes and Businesses — cover.",
+      "aliases": [],
+      "tags": [
+        "Vastu"
+      ],
+      "method": "page heading extracted from supplied guide",
+      "evidence": [
+        {
+          "doc": "practical-vastu-professional-guide-1",
+          "page": 1,
+          "quote": "Practical Vastu for Existing Homes, Shops and Offices Practical Vastu for Homes & Businesses"
+        }
+      ]
+    },
+    {
+      "id": "b-vastu-page-2",
+      "title": "Important Note and How to Use This Guide",
+      "type": "section",
+      "parent": "b-vastu",
+      "doc": "practical-vastu-professional-guide-1",
+      "page": 2,
+      "endPage": 2,
+      "summary": "Source topic: Important Note and How to Use This Guide.",
+      "aliases": [],
+      "tags": [
+        "Vastu"
+      ],
+      "method": "page heading extracted from supplied guide",
+      "evidence": [
+        {
+          "doc": "practical-vastu-professional-guide-1",
+          "page": 2,
+          "quote": "Practical Vastu for Existing Homes, Shops and Offices Important Note and How to Use This Guide Read this before applying any recommendation."
+        }
+      ]
+    },
+    {
+      "id": "b-vastu-page-3",
+      "title": "Path Through This Guide",
+      "type": "section",
+      "parent": "b-vastu",
+      "doc": "practical-vastu-professional-guide-1",
+      "page": 3,
+      "endPage": 3,
+      "summary": "Source topic: Path Through This Guide.",
+      "aliases": [],
+      "tags": [
+        "Vastu"
+      ],
+      "method": "page heading extracted from supplied guide",
+      "evidence": [
+        {
+          "doc": "practical-vastu-professional-guide-1",
+          "page": 3,
+          "quote": "Practical Vastu for Existing Homes, Shops and Offices Path Through This Guide Begin with the spiritual foundation, then move into practical corrections."
+        }
+      ]
+    },
+    {
+      "id": "b-vastu-page-4",
+      "title": "Vastu and the Hindu Way of Living",
+      "type": "section",
+      "parent": "b-vastu",
+      "doc": "practical-vastu-professional-guide-1",
+      "page": 4,
+      "endPage": 4,
+      "summary": "Source topic: Vastu and the Hindu Way of Living.",
+      "aliases": [],
+      "tags": [
+        "Vastu"
+      ],
+      "method": "page heading extracted from supplied guide",
+      "evidence": [
+        {
+          "doc": "practical-vastu-professional-guide-1",
+          "page": 4,
+          "quote": "Practical Vastu for Existing Homes, Shops and Offices Vastu and the Hindu Way of Living Why many Hindu families feel emotionally connected to Vastu."
+        }
+      ]
+    },
+    {
+      "id": "b-vastu-page-5",
+      "title": "Ancient Vastu Principles in Simple Language",
+      "type": "section",
+      "parent": "b-vastu",
+      "doc": "practical-vastu-professional-guide-1",
+      "page": 5,
+      "endPage": 5,
+      "summary": "Source topic: Ancient Vastu Principles in Simple Language.",
+      "aliases": [],
+      "tags": [
+        "Vastu"
+      ],
+      "method": "page heading extracted from supplied guide",
+      "evidence": [
+        {
+          "doc": "practical-vastu-professional-guide-1",
+          "page": 5,
+          "quote": "Practical Vastu for Existing Homes, Shops and Offices Ancient Vastu Principles in Simple Language The knowledge system behind the rules."
+        }
+      ]
+    },
+    {
+      "id": "b-vastu-page-6",
+      "title": "Quick Start: Compass Reading for Existing Properties",
+      "type": "section",
+      "parent": "b-vastu",
+      "doc": "practical-vastu-professional-guide-1",
+      "page": 6,
+      "endPage": 6,
+      "summary": "Source topic: Quick Start: Compass Reading for Existing Properties.",
+      "aliases": [],
+      "tags": [
+        "Vastu"
+      ],
+      "method": "page heading extracted from supplied guide",
+      "evidence": [
+        {
+          "doc": "practical-vastu-professional-guide-1",
+          "page": 6,
+          "quote": "Practical Vastu for Existing Homes, Shops and Offices Quick Start: Compass Reading for Existing Properties A simple repeatable method for non-experts."
+        }
+      ]
+    },
+    {
+      "id": "b-vastu-page-7",
+      "title": "Vastu Zones in Plain English",
+      "type": "section",
+      "parent": "b-vastu",
+      "doc": "practical-vastu-professional-guide-1",
+      "page": 7,
+      "endPage": 7,
+      "summary": "Source topic: Vastu Zones in Plain English.",
+      "aliases": [],
+      "tags": [
+        "Vastu"
+      ],
+      "method": "page heading extracted from supplied guide",
+      "evidence": [
+        {
+          "doc": "practical-vastu-professional-guide-1",
+          "page": 7,
+          "quote": "Practical Vastu for Existing Homes, Shops and Offices Vastu Zones in Plain English Translate traditional zones into daily use decisions."
+        }
+      ]
+    },
+    {
+      "id": "b-vastu-page-8",
+      "title": "The Existing-Property Approach",
+      "type": "section",
+      "parent": "b-vastu",
+      "doc": "practical-vastu-professional-guide-1",
+      "page": 8,
+      "endPage": 8,
+      "summary": "Source topic: The Existing-Property Approach.",
+      "aliases": [],
+      "tags": [
+        "Vastu"
+      ],
+      "method": "page heading extracted from supplied guide",
+      "evidence": [
+        {
+          "doc": "practical-vastu-professional-guide-1",
+          "page": 8,
+          "quote": "Practical Vastu for Existing Homes, Shops and Offices The Existing-Property Approach Fix what you can without demolition first."
+        }
+      ]
+    },
+    {
+      "id": "b-vastu-page-9",
+      "title": "Toilet Direction Explained Clearly",
+      "type": "section",
+      "parent": "b-vastu",
+      "doc": "practical-vastu-professional-guide-1",
+      "page": 9,
+      "endPage": 9,
+      "summary": "Source topic: Toilet Direction Explained Clearly.",
+      "aliases": [],
+      "tags": [
+        "Vastu"
+      ],
+      "method": "page heading extracted from supplied guide",
+      "evidence": [
+        {
+          "doc": "practical-vastu-professional-guide-1",
+          "page": 9,
+          "quote": "Practical Vastu for Existing Homes, Shops and Offices Toilet Direction Explained Clearly Why northeast toilets are avoided and what better placement means."
+        }
+      ]
+    },
+    {
+      "id": "b-vastu-page-10",
+      "title": "Priorities for Homes, Shops and Offices",
+      "type": "section",
+      "parent": "b-vastu",
+      "doc": "practical-vastu-professional-guide-1",
+      "page": 10,
+      "endPage": 10,
+      "summary": "Source topic: Priorities for Homes, Shops and Offices.",
+      "aliases": [],
+      "tags": [
+        "Vastu"
+      ],
+      "method": "page heading extracted from supplied guide",
+      "evidence": [
+        {
+          "doc": "practical-vastu-professional-guide-1",
+          "page": 10,
+          "quote": "Practical Vastu for Existing Homes, Shops and Offices Priorities for Homes, Shops and Offices Where to begin when everything looks important."
+        }
+      ]
+    },
+    {
+      "id": "b-vastu-page-11",
+      "title": "Mistake 1: Toilet in the Northeast",
+      "type": "section",
+      "parent": "b-vastu",
+      "doc": "practical-vastu-professional-guide-1",
+      "page": 11,
+      "endPage": 11,
+      "summary": "Source topic: Mistake 1: Toilet in the Northeast.",
+      "aliases": [],
+      "tags": [
+        "Vastu"
+      ],
+      "method": "page heading extracted from supplied guide",
+      "evidence": [
+        {
+          "doc": "practical-vastu-professional-guide-1",
+          "page": 11,
+          "quote": "Practical Vastu for Existing Homes, Shops and Offices Mistake 1: Toilet in the Northeast Understand the concern, the principle behind it and the practical correction."
+        }
+      ]
+    },
+    {
+      "id": "b-vastu-page-12",
+      "title": "Fix Plan: Toilet in the Northeast",
+      "type": "section",
+      "parent": "b-vastu",
+      "doc": "practical-vastu-professional-guide-1",
+      "page": 12,
+      "endPage": 12,
+      "summary": "Source topic: Fix Plan: Toilet in the Northeast.",
+      "aliases": [],
+      "tags": [
+        "Vastu"
+      ],
+      "method": "page heading extracted from supplied guide",
+      "evidence": [
+        {
+          "doc": "practical-vastu-professional-guide-1",
+          "page": 12,
+          "quote": "Practical Vastu for Existing Homes, Shops and Offices Fix Plan: Toilet in the Northeast Step-by-step actions for an existing home, shop or office."
+        }
+      ]
+    },
+    {
+      "id": "b-vastu-page-13",
+      "title": "Mistake 2: Sitting South-Facing",
+      "type": "section",
+      "parent": "b-vastu",
+      "doc": "practical-vastu-professional-guide-1",
+      "page": 13,
+      "endPage": 13,
+      "summary": "Source topic: Mistake 2: Sitting South-Facing.",
+      "aliases": [],
+      "tags": [
+        "Vastu"
+      ],
+      "method": "page heading extracted from supplied guide",
+      "evidence": [
+        {
+          "doc": "practical-vastu-professional-guide-1",
+          "page": 13,
+          "quote": "Practical Vastu for Existing Homes, Shops and Offices Mistake 2: Sitting South-Facing Understand the concern, the principle behind it and the practical correction."
+        }
+      ]
+    },
+    {
+      "id": "b-vastu-page-14",
+      "title": "Fix Plan: Sitting South-Facing",
+      "type": "section",
+      "parent": "b-vastu",
+      "doc": "practical-vastu-professional-guide-1",
+      "page": 14,
+      "endPage": 14,
+      "summary": "Source topic: Fix Plan: Sitting South-Facing.",
+      "aliases": [],
+      "tags": [
+        "Vastu"
+      ],
+      "method": "page heading extracted from supplied guide",
+      "evidence": [
+        {
+          "doc": "practical-vastu-professional-guide-1",
+          "page": 14,
+          "quote": "Practical Vastu for Existing Homes, Shops and Offices Fix Plan: Sitting South-Facing Step-by-step actions for an existing home, shop or office."
+        }
+      ]
+    },
+    {
+      "id": "b-vastu-page-15",
+      "title": "Mistake 3: Cluttered Entrances",
+      "type": "section",
+      "parent": "b-vastu",
+      "doc": "practical-vastu-professional-guide-1",
+      "page": 15,
+      "endPage": 15,
+      "summary": "Source topic: Mistake 3: Cluttered Entrances.",
+      "aliases": [],
+      "tags": [
+        "Vastu"
+      ],
+      "method": "page heading extracted from supplied guide",
+      "evidence": [
+        {
+          "doc": "practical-vastu-professional-guide-1",
+          "page": 15,
+          "quote": "Practical Vastu for Existing Homes, Shops and Offices Mistake 3: Cluttered Entrances Understand the concern, the principle behind it and the practical correction."
+        }
+      ]
+    },
+    {
+      "id": "b-vastu-page-16",
+      "title": "Fix Plan: Cluttered Entrances",
+      "type": "section",
+      "parent": "b-vastu",
+      "doc": "practical-vastu-professional-guide-1",
+      "page": 16,
+      "endPage": 16,
+      "summary": "Source topic: Fix Plan: Cluttered Entrances.",
+      "aliases": [],
+      "tags": [
+        "Vastu"
+      ],
+      "method": "page heading extracted from supplied guide",
+      "evidence": [
+        {
+          "doc": "practical-vastu-professional-guide-1",
+          "page": 16,
+          "quote": "Practical Vastu for Existing Homes, Shops and Offices Fix Plan: Cluttered Entrances Step-by-step actions for an existing home, shop or office."
+        }
+      ]
+    },
+    {
+      "id": "b-vastu-page-17",
+      "title": "Mistake 4: Mirrors Opposite Beds",
+      "type": "section",
+      "parent": "b-vastu",
+      "doc": "practical-vastu-professional-guide-1",
+      "page": 17,
+      "endPage": 17,
+      "summary": "Source topic: Mistake 4: Mirrors Opposite Beds.",
+      "aliases": [],
+      "tags": [
+        "Vastu"
+      ],
+      "method": "page heading extracted from supplied guide",
+      "evidence": [
+        {
+          "doc": "practical-vastu-professional-guide-1",
+          "page": 17,
+          "quote": "Practical Vastu for Existing Homes, Shops and Offices Mistake 4: Mirrors Opposite Beds Understand the concern, the principle behind it and the practical correction."
+        }
+      ]
+    },
+    {
+      "id": "b-vastu-page-18",
+      "title": "Fix Plan: Mirrors Opposite Beds",
+      "type": "section",
+      "parent": "b-vastu",
+      "doc": "practical-vastu-professional-guide-1",
+      "page": 18,
+      "endPage": 18,
+      "summary": "Source topic: Fix Plan: Mirrors Opposite Beds.",
+      "aliases": [],
+      "tags": [
+        "Vastu"
+      ],
+      "method": "page heading extracted from supplied guide",
+      "evidence": [
+        {
+          "doc": "practical-vastu-professional-guide-1",
+          "page": 18,
+          "quote": "Practical Vastu for Existing Homes, Shops and Offices Fix Plan: Mirrors Opposite Beds Step-by-step actions for an existing home, shop or office."
+        }
+      ]
+    },
+    {
+      "id": "b-vastu-page-19",
+      "title": "Mistake 5: Northeast Electronics",
+      "type": "section",
+      "parent": "b-vastu",
+      "doc": "practical-vastu-professional-guide-1",
+      "page": 19,
+      "endPage": 19,
+      "summary": "Source topic: Mistake 5: Northeast Electronics.",
+      "aliases": [],
+      "tags": [
+        "Vastu"
+      ],
+      "method": "page heading extracted from supplied guide",
+      "evidence": [
+        {
+          "doc": "practical-vastu-professional-guide-1",
+          "page": 19,
+          "quote": "Practical Vastu for Existing Homes, Shops and Offices Mistake 5: Northeast Electronics Understand the concern, the principle behind it and the practical correction."
+        }
+      ]
+    },
+    {
+      "id": "b-vastu-page-20",
+      "title": "Fix Plan: Northeast Electronics",
+      "type": "section",
+      "parent": "b-vastu",
+      "doc": "practical-vastu-professional-guide-1",
+      "page": 20,
+      "endPage": 20,
+      "summary": "Source topic: Fix Plan: Northeast Electronics.",
+      "aliases": [],
+      "tags": [
+        "Vastu"
+      ],
+      "method": "page heading extracted from supplied guide",
+      "evidence": [
+        {
+          "doc": "practical-vastu-professional-guide-1",
+          "page": 20,
+          "quote": "Practical Vastu for Existing Homes, Shops and Offices Fix Plan: Northeast Electronics Step-by-step actions for an existing home, shop or office."
+        }
+      ]
+    },
+    {
+      "id": "b-vastu-page-21",
+      "title": "Mistake 6: Owner Not in the Southwest",
+      "type": "section",
+      "parent": "b-vastu",
+      "doc": "practical-vastu-professional-guide-1",
+      "page": 21,
+      "endPage": 21,
+      "summary": "Source topic: Mistake 6: Owner Not in the Southwest.",
+      "aliases": [],
+      "tags": [
+        "Vastu"
+      ],
+      "method": "page heading extracted from supplied guide",
+      "evidence": [
+        {
+          "doc": "practical-vastu-professional-guide-1",
+          "page": 21,
+          "quote": "Practical Vastu for Existing Homes, Shops and Offices Mistake 6: Owner Not in the Southwest Understand the concern, the principle behind it and the practical correction."
+        }
+      ]
+    },
+    {
+      "id": "b-vastu-page-22",
+      "title": "Fix Plan: Owner Not in the Southwest",
+      "type": "section",
+      "parent": "b-vastu",
+      "doc": "practical-vastu-professional-guide-1",
+      "page": 22,
+      "endPage": 22,
+      "summary": "Source topic: Fix Plan: Owner Not in the Southwest.",
+      "aliases": [],
+      "tags": [
+        "Vastu"
+      ],
+      "method": "page heading extracted from supplied guide",
+      "evidence": [
+        {
+          "doc": "practical-vastu-professional-guide-1",
+          "page": 22,
+          "quote": "Practical Vastu for Existing Homes, Shops and Offices Fix Plan: Owner Not in the Southwest Step-by-step actions for an existing home, shop or office."
+        }
+      ]
+    },
+    {
+      "id": "b-vastu-page-23",
+      "title": "Mistake 7: Head Sleeping North",
+      "type": "section",
+      "parent": "b-vastu",
+      "doc": "practical-vastu-professional-guide-1",
+      "page": 23,
+      "endPage": 23,
+      "summary": "Source topic: Mistake 7: Head Sleeping North.",
+      "aliases": [],
+      "tags": [
+        "Vastu"
+      ],
+      "method": "page heading extracted from supplied guide",
+      "evidence": [
+        {
+          "doc": "practical-vastu-professional-guide-1",
+          "page": 23,
+          "quote": "Practical Vastu for Existing Homes, Shops and Offices Mistake 7: Head Sleeping North Understand the concern, the principle behind it and the practical correction."
+        }
+      ]
+    },
+    {
+      "id": "b-vastu-page-24",
+      "title": "Fix Plan: Head Sleeping North",
+      "type": "section",
+      "parent": "b-vastu",
+      "doc": "practical-vastu-professional-guide-1",
+      "page": 24,
+      "endPage": 24,
+      "summary": "Source topic: Fix Plan: Head Sleeping North.",
+      "aliases": [],
+      "tags": [
+        "Vastu"
+      ],
+      "method": "page heading extracted from supplied guide",
+      "evidence": [
+        {
+          "doc": "practical-vastu-professional-guide-1",
+          "page": 24,
+          "quote": "Practical Vastu for Existing Homes, Shops and Offices Fix Plan: Head Sleeping North Step-by-step actions for an existing home, shop or office."
+        }
+      ]
+    },
+    {
+      "id": "b-vastu-page-25",
+      "title": "Mistake 8: Irregular Shop Shapes",
+      "type": "section",
+      "parent": "b-vastu",
+      "doc": "practical-vastu-professional-guide-1",
+      "page": 25,
+      "endPage": 25,
+      "summary": "Source topic: Mistake 8: Irregular Shop Shapes.",
+      "aliases": [],
+      "tags": [
+        "Vastu"
+      ],
+      "method": "page heading extracted from supplied guide",
+      "evidence": [
+        {
+          "doc": "practical-vastu-professional-guide-1",
+          "page": 25,
+          "quote": "Practical Vastu for Existing Homes, Shops and Offices Mistake 8: Irregular Shop Shapes Understand the concern, the principle behind it and the practical correction."
+        }
+      ]
+    },
+    {
+      "id": "b-vastu-page-26",
+      "title": "Fix Plan: Irregular Shop Shapes",
+      "type": "section",
+      "parent": "b-vastu",
+      "doc": "practical-vastu-professional-guide-1",
+      "page": 26,
+      "endPage": 26,
+      "summary": "Source topic: Fix Plan: Irregular Shop Shapes.",
+      "aliases": [],
+      "tags": [
+        "Vastu"
+      ],
+      "method": "page heading extracted from supplied guide",
+      "evidence": [
+        {
+          "doc": "practical-vastu-professional-guide-1",
+          "page": 26,
+          "quote": "Practical Vastu for Existing Homes, Shops and Offices Fix Plan: Irregular Shop Shapes Step-by-step actions for an existing home, shop or office."
+        }
+      ]
+    },
+    {
+      "id": "b-vastu-page-27",
+      "title": "Mistake 9: Heavy Furniture in the Center",
+      "type": "section",
+      "parent": "b-vastu",
+      "doc": "practical-vastu-professional-guide-1",
+      "page": 27,
+      "endPage": 27,
+      "summary": "Source topic: Mistake 9: Heavy Furniture in the Center.",
+      "aliases": [],
+      "tags": [
+        "Vastu"
+      ],
+      "method": "page heading extracted from supplied guide",
+      "evidence": [
+        {
+          "doc": "practical-vastu-professional-guide-1",
+          "page": 27,
+          "quote": "Practical Vastu for Existing Homes, Shops and Offices Mistake 9: Heavy Furniture in the Center Understand the concern, the principle behind it and the practical correction."
+        }
+      ]
+    },
+    {
+      "id": "b-vastu-page-28",
+      "title": "Fix Plan: Heavy Furniture in the Center",
+      "type": "section",
+      "parent": "b-vastu",
+      "doc": "practical-vastu-professional-guide-1",
+      "page": 28,
+      "endPage": 28,
+      "summary": "Source topic: Fix Plan: Heavy Furniture in the Center.",
+      "aliases": [],
+      "tags": [
+        "Vastu"
+      ],
+      "method": "page heading extracted from supplied guide",
+      "evidence": [
+        {
+          "doc": "practical-vastu-professional-guide-1",
+          "page": 28,
+          "quote": "Practical Vastu for Existing Homes, Shops and Offices Fix Plan: Heavy Furniture in the Center Step-by-step actions for an existing home, shop or office."
+        }
+      ]
+    },
+    {
+      "id": "b-vastu-page-29",
+      "title": "Mistake 10: Cash Desk South-Facing",
+      "type": "section",
+      "parent": "b-vastu",
+      "doc": "practical-vastu-professional-guide-1",
+      "page": 29,
+      "endPage": 29,
+      "summary": "Source topic: Mistake 10: Cash Desk South-Facing.",
+      "aliases": [],
+      "tags": [
+        "Vastu"
+      ],
+      "method": "page heading extracted from supplied guide",
+      "evidence": [
+        {
+          "doc": "practical-vastu-professional-guide-1",
+          "page": 29,
+          "quote": "Practical Vastu for Existing Homes, Shops and Offices Mistake 10: Cash Desk South-Facing Understand the concern, the principle behind it and the practical correction."
+        }
+      ]
+    },
+    {
+      "id": "b-vastu-page-30",
+      "title": "Fix Plan: Cash Desk South-Facing",
+      "type": "section",
+      "parent": "b-vastu",
+      "doc": "practical-vastu-professional-guide-1",
+      "page": 30,
+      "endPage": 30,
+      "summary": "Source topic: Fix Plan: Cash Desk South-Facing.",
+      "aliases": [],
+      "tags": [
+        "Vastu"
+      ],
+      "method": "page heading extracted from supplied guide",
+      "evidence": [
+        {
+          "doc": "practical-vastu-professional-guide-1",
+          "page": 30,
+          "quote": "Practical Vastu for Existing Homes, Shops and Offices Fix Plan: Cash Desk South-Facing Step-by-step actions for an existing home, shop or office."
+        }
+      ]
+    },
+    {
+      "id": "b-vastu-page-31",
+      "title": "Vastu Compass Guide: 32 Entrances",
+      "type": "section",
+      "parent": "b-vastu",
+      "doc": "practical-vastu-professional-guide-1",
+      "page": 31,
+      "endPage": 31,
+      "summary": "Source topic: Vastu Compass Guide: 32 Entrances.",
+      "aliases": [],
+      "tags": [
+        "Vastu"
+      ],
+      "method": "page heading extracted from supplied guide",
+      "evidence": [
+        {
+          "doc": "practical-vastu-professional-guide-1",
+          "page": 31,
+          "quote": "Practical Vastu for Existing Homes, Shops and Offices Vastu Compass Guide: 32 Entrances A practical guide to the 8 padas on each side."
+        }
+      ]
+    },
+    {
+      "id": "b-vastu-page-32",
+      "title": "32 Entrance Table: North and East",
+      "type": "section",
+      "parent": "b-vastu",
+      "doc": "practical-vastu-professional-guide-1",
+      "page": 32,
+      "endPage": 32,
+      "summary": "Source topic: 32 Entrance Table: North and East.",
+      "aliases": [],
+      "tags": [
+        "Vastu"
+      ],
+      "method": "page heading extracted from supplied guide",
+      "evidence": [
+        {
+          "doc": "practical-vastu-professional-guide-1",
+          "page": 32,
+          "quote": "Practical Vastu for Existing Homes, Shops and Offices 32 Entrance Table: North and East Use with the compass diagram and actual door centerline."
+        }
+      ]
+    },
+    {
+      "id": "b-vastu-page-33",
+      "title": "32 Entrance Table: South and West",
+      "type": "section",
+      "parent": "b-vastu",
+      "doc": "practical-vastu-professional-guide-1",
+      "page": 33,
+      "endPage": 33,
+      "summary": "Source topic: 32 Entrance Table: South and West.",
+      "aliases": [],
+      "tags": [
+        "Vastu"
+      ],
+      "method": "page heading extracted from supplied guide",
+      "evidence": [
+        {
+          "doc": "practical-vastu-professional-guide-1",
+          "page": 33,
+          "quote": "Practical Vastu for Existing Homes, Shops and Offices 32 Entrance Table: South and West South and west entrances need careful placement, not automatic rejection."
+        }
+      ]
+    },
+    {
+      "id": "b-vastu-page-34",
+      "title": "How to Measure an Entrance Correctly",
+      "type": "section",
+      "parent": "b-vastu",
+      "doc": "practical-vastu-professional-guide-1",
+      "page": 34,
+      "endPage": 34,
+      "summary": "Source topic: How to Measure an Entrance Correctly.",
+      "aliases": [],
+      "tags": [
+        "Vastu"
+      ],
+      "method": "page heading extracted from supplied guide",
+      "evidence": [
+        {
+          "doc": "practical-vastu-professional-guide-1",
+          "page": 34,
+          "quote": "Practical Vastu for Existing Homes, Shops and Offices How to Measure an Entrance Correctly Avoid common compass mistakes."
+        }
+      ]
+    },
+    {
+      "id": "b-vastu-page-35",
+      "title": "Shop Tips: Rectangular Layout and North-Friendly Counter",
+      "type": "section",
+      "parent": "b-vastu",
+      "doc": "practical-vastu-professional-guide-1",
+      "page": 35,
+      "endPage": 35,
+      "summary": "Source topic: Shop Tips: Rectangular Layout and North-Friendly Counter.",
+      "aliases": [],
+      "tags": [
+        "Vastu"
+      ],
+      "method": "page heading extracted from supplied guide",
+      "evidence": [
+        {
+          "doc": "practical-vastu-professional-guide-1",
+          "page": 35,
+          "quote": "Practical Vastu for Existing Homes, Shops and Offices Shop Tips: Rectangular Layout and North-Friendly Counter A practical retail plan for existing shops."
+        }
+      ]
+    },
+    {
+      "id": "b-vastu-page-36",
+      "title": "Shop and Business Checklist",
+      "type": "section",
+      "parent": "b-vastu",
+      "doc": "practical-vastu-professional-guide-1",
+      "page": 36,
+      "endPage": 36,
+      "summary": "Source topic: Shop and Business Checklist.",
+      "aliases": [],
+      "tags": [
+        "Vastu"
+      ],
+      "method": "page heading extracted from supplied guide",
+      "evidence": [
+        {
+          "doc": "practical-vastu-professional-guide-1",
+          "page": 36,
+          "quote": "Practical Vastu for Existing Homes, Shops and Offices Shop and Business Checklist Guidance for counters, colors, stock and customer flow."
+        }
+      ]
+    },
+    {
+      "id": "b-vastu-page-37",
+      "title": "Office Tips: Owner Seat, Team Desks and Reception",
+      "type": "section",
+      "parent": "b-vastu",
+      "doc": "practical-vastu-professional-guide-1",
+      "page": 37,
+      "endPage": 37,
+      "summary": "Source topic: Office Tips: Owner Seat, Team Desks and Reception.",
+      "aliases": [],
+      "tags": [
+        "Vastu"
+      ],
+      "method": "page heading extracted from supplied guide",
+      "evidence": [
+        {
+          "doc": "practical-vastu-professional-guide-1",
+          "page": 37,
+          "quote": "Practical Vastu for Existing Homes, Shops and Offices Office Tips: Owner Seat, Team Desks and Reception Stability for decision-makers, clarity for teams."
+        }
+      ]
+    },
+    {
+      "id": "b-vastu-page-38",
+      "title": "Office Implementation Checklist",
+      "type": "section",
+      "parent": "b-vastu",
+      "doc": "practical-vastu-professional-guide-1",
+      "page": 38,
+      "endPage": 38,
+      "summary": "Source topic: Office Implementation Checklist.",
+      "aliases": [],
+      "tags": [
+        "Vastu"
+      ],
+      "method": "page heading extracted from supplied guide",
+      "evidence": [
+        {
+          "doc": "practical-vastu-professional-guide-1",
+          "page": 38,
+          "quote": "Practical Vastu for Existing Homes, Shops and Offices Office Implementation Checklist Use for cabins, reception, records and electronics."
+        }
+      ]
+    },
+    {
+      "id": "b-vastu-page-39",
+      "title": "Remedies Overview",
+      "type": "section",
+      "parent": "b-vastu",
+      "doc": "practical-vastu-professional-guide-1",
+      "page": 39,
+      "endPage": 39,
+      "summary": "Source topic: Remedies Overview.",
+      "aliases": [],
+      "tags": [
+        "Vastu"
+      ],
+      "method": "page heading extracted from supplied guide",
+      "evidence": [
+        {
+          "doc": "practical-vastu-professional-guide-1",
+          "page": 39,
+          "quote": "Practical Vastu for Existing Homes, Shops and Offices Remedies Overview Simple remedies work best when paired with cleaning and maintenance."
+        }
+      ]
+    },
+    {
+      "id": "b-vastu-page-40",
+      "title": "Sea Salt Bowls and Other Practical Remedies",
+      "type": "section",
+      "parent": "b-vastu",
+      "doc": "practical-vastu-professional-guide-1",
+      "page": 40,
+      "endPage": 40,
+      "summary": "Source topic: Sea Salt Bowls and Other Practical Remedies.",
+      "aliases": [],
+      "tags": [
+        "Vastu"
+      ],
+      "method": "page heading extracted from supplied guide",
+      "evidence": [
+        {
+          "doc": "practical-vastu-professional-guide-1",
+          "page": 40,
+          "quote": "Practical Vastu for Existing Homes, Shops and Offices Sea Salt Bowls and Other Practical Remedies Low-cost routines for rented and existing spaces."
+        }
+      ]
+    },
+    {
+      "id": "b-vastu-page-41",
+      "title": "14-Day Correction Plan",
+      "type": "section",
+      "parent": "b-vastu",
+      "doc": "practical-vastu-professional-guide-1",
+      "page": 41,
+      "endPage": 41,
+      "summary": "Source topic: 14-Day Correction Plan.",
+      "aliases": [],
+      "tags": [
+        "Vastu"
+      ],
+      "method": "page heading extracted from supplied guide",
+      "evidence": [
+        {
+          "doc": "practical-vastu-professional-guide-1",
+          "page": 41,
+          "quote": "Practical Vastu for Existing Homes, Shops and Offices 14-Day Correction Plan A realistic schedule for existing homeowners and businesses."
+        }
+      ]
+    },
+    {
+      "id": "b-vastu-page-42",
+      "title": "Final Property Checklist",
+      "type": "section",
+      "parent": "b-vastu",
+      "doc": "practical-vastu-professional-guide-1",
+      "page": 42,
+      "endPage": 42,
+      "summary": "Source topic: Final Property Checklist.",
+      "aliases": [],
+      "tags": [
+        "Vastu"
+      ],
+      "method": "page heading extracted from supplied guide",
+      "evidence": [
+        {
+          "doc": "practical-vastu-professional-guide-1",
+          "page": 42,
+          "quote": "Practical Vastu for Existing Homes, Shops and Offices Final Property Checklist Use this page during walkthroughs."
+        }
+      ]
+    },
+    {
+      "id": "b-vastu-page-43",
+      "title": "References and Further Reading",
+      "type": "section",
+      "parent": "b-vastu",
+      "doc": "practical-vastu-professional-guide-1",
+      "page": 43,
+      "endPage": 43,
+      "summary": "Source topic: References and Further Reading.",
+      "aliases": [],
+      "tags": [
+        "Vastu"
+      ],
+      "method": "page heading extracted from supplied guide",
+      "evidence": [
+        {
+          "doc": "practical-vastu-professional-guide-1",
+          "page": 43,
+          "quote": "Practical Vastu for Existing Homes, Shops and Offices References and Further Reading Selected public references used for terminology and cross-checking."
+        }
+      ]
+    },
+    {
+      "id": "b-vastu-page-44",
+      "title": "Closing Note",
+      "type": "section",
+      "parent": "b-vastu",
+      "doc": "practical-vastu-professional-guide-1",
+      "page": 44,
+      "endPage": 44,
+      "summary": "Source topic: Closing Note.",
+      "aliases": [],
+      "tags": [
+        "Vastu"
+      ],
+      "method": "page heading extracted from supplied guide",
+      "evidence": [
+        {
+          "doc": "practical-vastu-professional-guide-1",
+          "page": 44,
+          "quote": "Practical Vastu for Existing Homes, Shops and Offices Closing Note Make the space cleaner, calmer and more intentional."
+        }
+      ]
+    },
+    {
+      "id": "b-yoga-page-1",
+      "title": "Cover — Yoga",
+      "type": "section",
+      "parent": "b-yoga",
+      "doc": "common-yoga-aasana-englishebook",
+      "page": 1,
+      "endPage": 1,
+      "summary": "Source topic in the illustrated Common Yoga Protocol: Cover — Yoga.",
+      "aliases": [],
+      "tags": [
+        "Yoga"
+      ],
+      "method": "OCR page topic; names normalized for navigation; verify against scan",
+      "evidence": [
+        {
+          "doc": "common-yoga-aasana-englishebook",
+          "page": 1,
+          "quote": "• YOGA D"
+        }
+      ]
+    },
+    {
+      "id": "b-yoga-page-2",
+      "title": "Unlettered scan page",
+      "type": "section",
+      "parent": "b-yoga",
+      "doc": "common-yoga-aasana-englishebook",
+      "page": 2,
+      "endPage": 2,
+      "summary": "Scan page 2 is included for complete file navigation; OCR provides no substantive text beyond possible running labels.",
+      "aliases": [],
+      "tags": [
+        "Yoga"
+      ],
+      "method": "OCR page topic; names normalized for navigation; verify against scan",
+      "evidence": []
+    },
+    {
+      "id": "b-yoga-page-3",
+      "title": "Contents — introduction and postures",
+      "type": "section",
+      "parent": "b-yoga",
+      "doc": "common-yoga-aasana-englishebook",
+      "page": 3,
+      "endPage": 3,
+      "summary": "Source topic in the illustrated Common Yoga Protocol: Contents — introduction and postures.",
+      "aliases": [],
+      "tags": [
+        "Yoga"
+      ],
+      "method": "OCR page topic; names normalized for navigation; verify against scan",
+      "evidence": [
+        {
+          "doc": "common-yoga-aasana-englishebook",
+          "page": 3,
+          "quote": "INTRODUCTION * What is Yoga? Brief History and Development of Yoga The Fundamentals of Yoga Traditional Schools of Yoga Yogic Practices for Health and Wellness"
+        }
+      ]
+    },
+    {
+      "id": "b-yoga-page-4",
+      "title": "Contents — postures, breathing and later sections",
+      "type": "section",
+      "parent": "b-yoga",
+      "doc": "common-yoga-aasana-englishebook",
+      "page": 4,
+      "endPage": 4,
+      "summary": "Source topic in the illustrated Common Yoga Protocol: Contents — postures, breathing and later sections.",
+      "aliases": [],
+      "tags": [
+        "Yoga"
+      ],
+      "method": "OCR page topic; names normalized for navigation; verify against scan",
+      "evidence": [
+        {
+          "doc": "common-yoga-aasana-englishebook",
+          "page": 4,
+          "quote": "Uştrásana 27 Saśakäsana 28 Uttanamandukasana 29 Vakräsana/Marichyasana"
+        }
+      ]
+    },
+    {
+      "id": "b-yoga-page-5",
+      "title": "What is Yoga?",
+      "type": "section",
+      "parent": "b-yoga",
+      "doc": "common-yoga-aasana-englishebook",
+      "page": 5,
+      "endPage": 5,
+      "summary": "Source topic in the illustrated Common Yoga Protocol: What is Yoga?.",
+      "aliases": [],
+      "tags": [
+        "Yoga"
+      ],
+      "method": "OCR page topic; names normalized for navigation; verify against scan",
+      "evidence": [
+        {
+          "doc": "common-yoga-aasana-englishebook",
+          "page": 5,
+          "quote": "COMMON YOGA PROTOCOL Ministry of Ayush, Government of India What is Yoga? oga is essentially a spiritual experiences this oneness of discipline based on an existenceis said tobe in Yoga' and extremely subtle science, is termed as a yogi who"
+        }
+      ]
+    },
+    {
+      "id": "b-yoga-page-6",
+      "title": "Brief History and Development of Yoga",
+      "type": "section",
+      "parent": "b-yoga",
+      "doc": "common-yoga-aasana-englishebook",
+      "page": 6,
+      "endPage": 6,
+      "summary": "Source topic in the illustrated Common Yoga Protocol: Brief History and Development of Yoga.",
+      "aliases": [],
+      "tags": [
+        "Yoga"
+      ],
+      "method": "OCR page topic; names normalized for navigation; verify against scan",
+      "evidence": [
+        {
+          "doc": "common-yoga-aasana-englishebook",
+          "page": 6,
+          "quote": "COMMON YOGA PROTOCOL Ministry of Ayush, Government of India Brief History and Development of Yoga he science of Yoga originated existence of Tantra Yoga. The presence of thousands of years ago, long Yoga is also found in folk traditions, Ve"
+        }
+      ]
+    },
+    {
+      "id": "b-yoga-page-7",
+      "title": "The Fundamentals of Yoga",
+      "type": "section",
+      "parent": "b-yoga",
+      "doc": "common-yoga-aasana-englishebook",
+      "page": 7,
+      "endPage": 7,
+      "summary": "Source topic in the illustrated Common Yoga Protocol: The Fundamentals of Yoga.",
+      "aliases": [],
+      "tags": [
+        "Yoga"
+      ],
+      "method": "OCR page topic; names normalized for navigation; verify against scan",
+      "evidence": [
+        {
+          "doc": "common-yoga-aasana-englishebook",
+          "page": 7,
+          "quote": "COMMON YOGA PROTOCOL Ministry of Ayush, Government of India The Fundamentals of Yoga given rise to five broad classifications of Yoga: (a) Jňäno Yoga: Yoga for knowledge (b) Bhakti Yoga: Yoga for emotions culture"
+        }
+      ]
+    },
+    {
+      "id": "b-yoga-page-8",
+      "title": "Traditional Schools of Yoga",
+      "type": "section",
+      "parent": "b-yoga",
+      "doc": "common-yoga-aasana-englishebook",
+      "page": 8,
+      "endPage": 8,
+      "summary": "Source topic in the illustrated Common Yoga Protocol: Traditional Schools of Yoga.",
+      "aliases": [],
+      "tags": [
+        "Yoga"
+      ],
+      "method": "OCR page topic; names normalized for navigation; verify against scan",
+      "evidence": [
+        {
+          "doc": "common-yoga-aasana-englishebook",
+          "page": 8,
+          "quote": "COMMON YOGA PROTOCOL Ministry of Ayush, Government of India Traditional Schools of Yoga hedifferent philosophies, traditions, lineages, and Yoga, Kundalini Yoga, Hatha Yoga, Dhyäna Yoga, Mantra T Guru-shishya paramparas of Yoga have led to"
+        }
+      ]
+    },
+    {
+      "id": "b-yoga-page-9",
+      "title": "Yogic Practices for Health and Wellness — overview",
+      "type": "section",
+      "parent": "b-yoga",
+      "doc": "common-yoga-aasana-englishebook",
+      "page": 9,
+      "endPage": 9,
+      "summary": "Source topic in the illustrated Common Yoga Protocol: Yogic Practices for Health and Wellness — overview.",
+      "aliases": [],
+      "tags": [
+        "Yoga"
+      ],
+      "method": "OCR page topic; names normalized for navigation; verify against scan",
+      "evidence": [
+        {
+          "doc": "common-yoga-aasana-englishebook",
+          "page": 9,
+          "quote": "COMMON YOGA PROTOCOL Ministry of Ayush, Government of India Yogic Practices for Health and Wellness Pranãyāma Bandh Mudra euesedox Dhyãna"
+        }
+      ]
+    },
+    {
+      "id": "b-yoga-page-10",
+      "title": "Yogic Practices — explanatory continuation",
+      "type": "section",
+      "parent": "b-yoga",
+      "doc": "common-yoga-aasana-englishebook",
+      "page": 10,
+      "endPage": 10,
+      "summary": "Source topic in the illustrated Common Yoga Protocol: Yogic Practices — explanatory continuation.",
+      "aliases": [],
+      "tags": [
+        "Yoga"
+      ],
+      "method": "OCR page topic; names normalized for navigation; verify against scan",
+      "evidence": [
+        {
+          "doc": "common-yoga-aasana-englishebook",
+          "page": 10,
+          "quote": "COMMON YOGA PROTOCOL Ministry of Ayush, Government of India hewidely practised Yoga sadhanas are Yama, Pratyahara indicates dissociation of one's consciousness (withdrawal) from the sense organs that connect with the Dhyana, Samädhi, Bandha"
+        }
+      ]
+    },
+    {
+      "id": "b-yoga-page-11",
+      "title": "General Guidelines for Yoga Practice",
+      "type": "section",
+      "parent": "b-yoga",
+      "doc": "common-yoga-aasana-englishebook",
+      "page": 11,
+      "endPage": 11,
+      "summary": "Source topic in the illustrated Common Yoga Protocol: General Guidelines for Yoga Practice.",
+      "aliases": [],
+      "tags": [
+        "Yoga"
+      ],
+      "method": "OCR page topic; names normalized for navigation; verify against scan",
+      "evidence": [
+        {
+          "doc": "common-yoga-aasana-englishebook",
+          "page": 11,
+          "quote": "COMMON YOGA PROTOCOL Ministry of Ayush, Government of India GENERAL GUIDELINES FOR YOGA PRACTICE Everyone should follow certain guiding principles while performing Yogic practices. Some of the general ones are given below.. Before the Pract"
+        }
+      ]
+    },
+    {
+      "id": "b-yoga-page-12",
+      "title": "During and after the Practice",
+      "type": "section",
+      "parent": "b-yoga",
+      "doc": "common-yoga-aasana-englishebook",
+      "page": 12,
+      "endPage": 12,
+      "summary": "Source topic in the illustrated Common Yoga Protocol: During and after the Practice.",
+      "aliases": [],
+      "tags": [
+        "Yoga"
+      ],
+      "method": "OCR page topic; names normalized for navigation; verify against scan",
+      "evidence": [
+        {
+          "doc": "common-yoga-aasana-englishebook",
+          "page": 12,
+          "quote": "COMMON YOGA PROTOCOL Ministry of Ayush, Government of India During the Practice • Practice sessions should start with a prayer or an invocation as it creates a conducive environment to relax the mind. • Yogic practices shall be performed sl"
+        }
+      ]
+    },
+    {
+      "id": "b-yoga-page-13",
+      "title": "Food for Thought / How Yoga Can Help",
+      "type": "section",
+      "parent": "b-yoga",
+      "doc": "common-yoga-aasana-englishebook",
+      "page": 13,
+      "endPage": 13,
+      "summary": "Source topic in the illustrated Common Yoga Protocol: Food for Thought / How Yoga Can Help.",
+      "aliases": [],
+      "tags": [
+        "Yoga"
+      ],
+      "method": "OCR page topic; names normalized for navigation; verify against scan",
+      "evidence": [
+        {
+          "doc": "common-yoga-aasana-englishebook",
+          "page": 13,
+          "quote": "COMMON YOGA PROTOCOL Ministry of Ayush, Government of India Food for Thought A few dietary guidelines can ensure that the body and mind are flexible and well-prepared for Yoga practice. A vegetarian diet is usually recommended, and for a pe"
+        }
+      ]
+    },
+    {
+      "id": "b-yoga-page-14",
+      "title": "Illustration page",
+      "type": "section",
+      "parent": "b-yoga",
+      "doc": "common-yoga-aasana-englishebook",
+      "page": 14,
+      "endPage": 14,
+      "summary": "Scan page 14 is included for complete file navigation; OCR provides no substantive text beyond possible running labels.",
+      "aliases": [],
+      "tags": [
+        "Yoga"
+      ],
+      "method": "OCR page topic; names normalized for navigation; verify against scan",
+      "evidence": [
+        {
+          "doc": "common-yoga-aasana-englishebook",
+          "page": 14,
+          "quote": "COMMON YOGA PROTOCOL Ministry of Ayush, Government of India"
+        }
+      ]
+    },
+    {
+      "id": "b-yoga-page-15",
+      "title": "Invocation / Prayer — section opening",
+      "type": "section",
+      "parent": "b-yoga",
+      "doc": "common-yoga-aasana-englishebook",
+      "page": 15,
+      "endPage": 15,
+      "summary": "Source topic in the illustrated Common Yoga Protocol: Invocation / Prayer — section opening.",
+      "aliases": [],
+      "tags": [
+        "Yoga"
+      ],
+      "method": "OCR page topic; names normalized for navigation; verify against scan",
+      "evidence": [
+        {
+          "doc": "common-yoga-aasana-englishebook",
+          "page": 15,
+          "quote": "COMMON YOGA PROTOCOL Ministry of Ayush, Government of India 1 Invocation/Prayer"
+        }
+      ]
+    },
+    {
+      "id": "b-yoga-page-16",
+      "title": "Invocation / Prayer — Samgacchadhvam",
+      "type": "section",
+      "parent": "b-yoga",
+      "doc": "common-yoga-aasana-englishebook",
+      "page": 16,
+      "endPage": 16,
+      "summary": "Source topic in the illustrated Common Yoga Protocol: Invocation / Prayer — Samgacchadhvam.",
+      "aliases": [],
+      "tags": [
+        "Yoga"
+      ],
+      "method": "OCR page topic; names normalized for navigation; verify against scan",
+      "evidence": [
+        {
+          "doc": "common-yoga-aasana-englishebook",
+          "page": 16,
+          "quote": "COMMON YOGA PROTOCOL Ministry of Ayush, Government of India Yogic practice shall start with a prayer or prayerful mood to enhance the benefits of practice. 30 Samgacchadhvam samvadadhvam sam vo manămsi janatăm devã bhăgam yatha pürve"
+        }
+      ]
+    },
+    {
+      "id": "b-yoga-page-17",
+      "title": "Sadilaja / Calana Kriyas — Loosening Practices",
+      "type": "section",
+      "parent": "b-yoga",
+      "doc": "common-yoga-aasana-englishebook",
+      "page": 17,
+      "endPage": 17,
+      "summary": "Source topic in the illustrated Common Yoga Protocol: Sadilaja / Calana Kriyas — Loosening Practices.",
+      "aliases": [],
+      "tags": [
+        "Yoga"
+      ],
+      "method": "OCR page topic; names normalized for navigation; verify against scan",
+      "evidence": [
+        {
+          "doc": "common-yoga-aasana-englishebook",
+          "page": 17,
+          "quote": "COMMON YOGA PROTOCOL Ministry of Ayush, Government of India 2 SADILAJA/CÂLANA KRIYÃS/ | LOOSENING PRACTICES The Cälana Kriyãs/loosening practices/Yogic Sükşma Vyäyămas help to increase microcirculation. These practices can be done while sta"
+        }
+      ]
+    },
+    {
+      "id": "b-yoga-page-18",
+      "title": "Neck Movements",
+      "type": "section",
+      "parent": "b-yoga",
+      "doc": "common-yoga-aasana-englishebook",
+      "page": 18,
+      "endPage": 18,
+      "summary": "Source topic in the illustrated Common Yoga Protocol: Neck Movements.",
+      "aliases": [],
+      "tags": [
+        "Yoga"
+      ],
+      "method": "OCR page topic; names normalized for navigation; verify against scan",
+      "evidence": [
+        {
+          "doc": "common-yoga-aasana-englishebook",
+          "page": 18,
+          "quote": "COMMON YOGA PROTOCOL Ministry of Ayush, Government of India I. NECK MOVEMENTS (Grivä Sakti Vikäsaka) Sthiti: Samasthiti (Alert Posture) TECHNIQUE STAGE-1 STAGE 2"
+        }
+      ]
+    },
+    {
+      "id": "b-yoga-page-19",
+      "title": "Shoulder Movements — illustration",
+      "type": "section",
+      "parent": "b-yoga",
+      "doc": "common-yoga-aasana-englishebook",
+      "page": 19,
+      "endPage": 19,
+      "summary": "Source topic in the illustrated Common Yoga Protocol: Shoulder Movements — illustration.",
+      "aliases": [],
+      "tags": [
+        "Yoga"
+      ],
+      "method": "OCR page topic; names normalized for navigation; verify against scan",
+      "evidence": [
+        {
+          "doc": "common-yoga-aasana-englishebook",
+          "page": 19,
+          "quote": "COMMON YOGA PROTOCOL Ministry of Ayush, Government of India -STAGE Shoulder movements —STAGE-2- 15"
+        }
+      ]
+    },
+    {
+      "id": "b-yoga-page-20",
+      "title": "Shoulder Movements — technique",
+      "type": "section",
+      "parent": "b-yoga",
+      "doc": "common-yoga-aasana-englishebook",
+      "page": 20,
+      "endPage": 20,
+      "summary": "Source topic in the illustrated Common Yoga Protocol: Shoulder Movements — technique.",
+      "aliases": [],
+      "tags": [
+        "Yoga"
+      ],
+      "method": "OCR page topic; names normalized for navigation; verify against scan",
+      "evidence": [
+        {
+          "doc": "common-yoga-aasana-englishebook",
+          "page": 20,
+          "quote": "COMMON YOGA PROTOCOL Ministry of Ayush, Government of India II. SHOULDER MOVEMENTS | Sthiti: Samasthiti (Alert posture) TECHNIQUE STAGE-1 STAGE-2"
+        }
+      ]
+    },
+    {
+      "id": "b-yoga-page-21",
+      "title": "Trunk Movement",
+      "type": "section",
+      "parent": "b-yoga",
+      "doc": "common-yoga-aasana-englishebook",
+      "page": 21,
+      "endPage": 21,
+      "summary": "Source topic in the illustrated Common Yoga Protocol: Trunk Movement.",
+      "aliases": [],
+      "tags": [
+        "Yoga"
+      ],
+      "method": "OCR page topic; names normalized for navigation; verify against scan",
+      "evidence": [
+        {
+          "doc": "common-yoga-aasana-englishebook",
+          "page": 21,
+          "quote": "COMMON YOGA PROTOCOL Ministry of Ayush, Government of India III. TRUNK MOVEMENT (Kațiśakti Vikāsaka) Sthiti: Somasthiti (Alert posture) Technique • Keep the legs about 1 foot apart."
+        }
+      ]
+    },
+    {
+      "id": "b-yoga-page-22",
+      "title": "Knee Movement",
+      "type": "section",
+      "parent": "b-yoga",
+      "doc": "common-yoga-aasana-englishebook",
+      "page": 22,
+      "endPage": 22,
+      "summary": "Source topic in the illustrated Common Yoga Protocol: Knee Movement.",
+      "aliases": [],
+      "tags": [
+        "Yoga"
+      ],
+      "method": "OCR page topic; names normalized for navigation; verify against scan",
+      "evidence": [
+        {
+          "doc": "common-yoga-aasana-englishebook",
+          "page": 22,
+          "quote": "COMMON YOGA PROTOCOL Ministry of Ayush, Government of India IV. Knee movement | Sthiti: Samasthiti (Alert posture) Technique Inhale; lift the arms up to the shoulder level, palms facing downwards."
+        }
+      ]
+    },
+    {
+      "id": "b-yoga-page-23",
+      "title": "Tadasana — Palm-tree Posture",
+      "type": "section",
+      "parent": "b-yoga",
+      "doc": "common-yoga-aasana-englishebook",
+      "page": 23,
+      "endPage": 23,
+      "summary": "Source topic in the illustrated Common Yoga Protocol: Tadasana — Palm-tree Posture.",
+      "aliases": [],
+      "tags": [
+        "Yoga"
+      ],
+      "method": "OCR page topic; names normalized for navigation; verify against scan",
+      "evidence": [
+        {
+          "doc": "common-yoga-aasana-englishebook",
+          "page": 23,
+          "quote": "COMMON YOGA PROTOCOL Ministry of Ayush, Government of India A. STANDING POSTURES 3 YOGASANAS TADẶSANA (Palm-tree Posture) Tada means palm tree or mountain."
+        }
+      ]
+    },
+    {
+      "id": "b-yoga-page-24",
+      "title": "Vrksasana — Tree Posture",
+      "type": "section",
+      "parent": "b-yoga",
+      "doc": "common-yoga-aasana-englishebook",
+      "page": 24,
+      "endPage": 24,
+      "summary": "Source topic in the illustrated Common Yoga Protocol: Vrksasana — Tree Posture.",
+      "aliases": [],
+      "tags": [
+        "Yoga"
+      ],
+      "method": "OCR page topic; names normalized for navigation; verify against scan",
+      "evidence": [
+        {
+          "doc": "common-yoga-aasana-englishebook",
+          "page": 24,
+          "quote": "COMMON YOGA PROTOCOL Ministry of Ayush, Government of India VRKSĂSANA (The Tree Posture) Vrksa means tree. The final position of this asana resembles the shape of a tree, hence the name."
+        }
+      ]
+    },
+    {
+      "id": "b-yoga-page-25",
+      "title": "Ardhacakrasana — Half-Wheel Posture",
+      "type": "section",
+      "parent": "b-yoga",
+      "doc": "common-yoga-aasana-englishebook",
+      "page": 25,
+      "endPage": 25,
+      "summary": "Source topic in the illustrated Common Yoga Protocol: Ardhacakrasana — Half-Wheel Posture.",
+      "aliases": [],
+      "tags": [
+        "Yoga"
+      ],
+      "method": "OCR page topic; names normalized for navigation; verify against scan",
+      "evidence": [
+        {
+          "doc": "common-yoga-aasana-englishebook",
+          "page": 25,
+          "quote": "COMMON YOGA PROTOCOL Ministry of Ayush, Government of India ARDHACAKRĂSANA (The Half-Wheel Posture) Ardha means half. Cakra means wheel. As the body takes the shape of a half wheel in this posture, it is"
+        }
+      ]
+    },
+    {
+      "id": "b-yoga-page-26",
+      "title": "Pada-Hastasana — Hands-to-Feet Posture",
+      "type": "section",
+      "parent": "b-yoga",
+      "doc": "common-yoga-aasana-englishebook",
+      "page": 26,
+      "endPage": 26,
+      "summary": "Source topic in the illustrated Common Yoga Protocol: Pada-Hastasana — Hands-to-Feet Posture.",
+      "aliases": [],
+      "tags": [
+        "Yoga"
+      ],
+      "method": "OCR page topic; names normalized for navigation; verify against scan",
+      "evidence": [
+        {
+          "doc": "common-yoga-aasana-englishebook",
+          "page": 26,
+          "quote": "COMMON YOGA PROTOCOL Ministry of Ayush, Government of India PADA-HASTÃSANA (The Hands-to-Feet Posture) Pãda means feet, hasta means hands. Therefore, Pada-Hastäsana means keeping the palms down towards the feet."
+        }
+      ]
+    },
+    {
+      "id": "b-yoga-page-27",
+      "title": "Trikonasana — Triangle Posture",
+      "type": "section",
+      "parent": "b-yoga",
+      "doc": "common-yoga-aasana-englishebook",
+      "page": 27,
+      "endPage": 27,
+      "summary": "Source topic in the illustrated Common Yoga Protocol: Trikonasana — Triangle Posture.",
+      "aliases": [],
+      "tags": [
+        "Yoga"
+      ],
+      "method": "OCR page topic; names normalized for navigation; verify against scan",
+      "evidence": [
+        {
+          "doc": "common-yoga-aasana-englishebook",
+          "page": 27,
+          "quote": "COMMON YOGA PROTOCOL Ministry of Ayush, Government of India TRIKONÃSANA (The Triangle Posture) Trikon means triangle. Tri means three and kona means angle. As the asana resembles the shape of a triangle made by the trunk, arms, and legs, th"
+        }
+      ]
+    },
+    {
+      "id": "b-yoga-page-28",
+      "title": "Bhadrasana — Firm / Auspicious Posture",
+      "type": "section",
+      "parent": "b-yoga",
+      "doc": "common-yoga-aasana-englishebook",
+      "page": 28,
+      "endPage": 28,
+      "summary": "Source topic in the illustrated Common Yoga Protocol: Bhadrasana — Firm / Auspicious Posture.",
+      "aliases": [],
+      "tags": [
+        "Yoga"
+      ],
+      "method": "OCR page topic; names normalized for navigation; verify against scan",
+      "evidence": [
+        {
+          "doc": "common-yoga-aasana-englishebook",
+          "page": 28,
+          "quote": "COMMON YOGA PROTOCOL Ministry of Ayush, Government of India B. SITTING POSTURES BHADRASANA (The Firm/Auspicious Posture) Bhadra means firm or auspicious. Sthiti: Viśrämäsana (Long sitting posture)."
+        }
+      ]
+    },
+    {
+      "id": "b-yoga-page-29",
+      "title": "Vajrasana — Thunderbolt Posture",
+      "type": "section",
+      "parent": "b-yoga",
+      "doc": "common-yoga-aasana-englishebook",
+      "page": 29,
+      "endPage": 29,
+      "summary": "Source topic in the illustrated Common Yoga Protocol: Vajrasana — Thunderbolt Posture.",
+      "aliases": [],
+      "tags": [
+        "Yoga"
+      ],
+      "method": "OCR page topic; names normalized for navigation; verify against scan",
+      "evidence": [
+        {
+          "doc": "common-yoga-aasana-englishebook",
+          "page": 29,
+          "quote": "COMMON YOGA PROTOCOL Ministry of Ayush, Government of India VAJRÃSANA (Thunderbolt Posture) This is considered as one of the meditative postures. While practising it for meditative purposes, one should close his/her eyes at"
+        }
+      ]
+    },
+    {
+      "id": "b-yoga-page-30",
+      "title": "Ardhaustrasana — Half-Camel Posture",
+      "type": "section",
+      "parent": "b-yoga",
+      "doc": "common-yoga-aasana-englishebook",
+      "page": 30,
+      "endPage": 30,
+      "summary": "Source topic in the illustrated Common Yoga Protocol: Ardhaustrasana — Half-Camel Posture.",
+      "aliases": [],
+      "tags": [
+        "Yoga"
+      ],
+      "method": "OCR page topic; names normalized for navigation; verify against scan",
+      "evidence": [
+        {
+          "doc": "common-yoga-aasana-englishebook",
+          "page": 30,
+          "quote": "COMMON YOGA PROTOCOL Ministry of Ayush, Government of India ARDHAUSTRASANA (The Half-Camel Posture) Ustr means camel. The final version of this sana will resemble the hump of a camel. In this version, only the first stage"
+        }
+      ]
+    },
+    {
+      "id": "b-yoga-page-31",
+      "title": "Ustrasana — Camel Posture",
+      "type": "section",
+      "parent": "b-yoga",
+      "doc": "common-yoga-aasana-englishebook",
+      "page": 31,
+      "endPage": 31,
+      "summary": "Source topic in the illustrated Common Yoga Protocol: Ustrasana — Camel Posture.",
+      "aliases": [],
+      "tags": [
+        "Yoga"
+      ],
+      "method": "OCR page topic; names normalized for navigation; verify against scan",
+      "evidence": [
+        {
+          "doc": "common-yoga-aasana-englishebook",
+          "page": 31,
+          "quote": "COMMON YOGA PROTOCOL Ministry of Ayush, Government of India UŞȚRĂSANA (The Camel Posture) Ustra means camel. The body in this pose will resemble the hump of a camel, hence the name. Sthiti: Vajrāsana"
+        }
+      ]
+    },
+    {
+      "id": "b-yoga-page-32",
+      "title": "Sasakasana — Hare Posture",
+      "type": "section",
+      "parent": "b-yoga",
+      "doc": "common-yoga-aasana-englishebook",
+      "page": 32,
+      "endPage": 32,
+      "summary": "Source topic in the illustrated Common Yoga Protocol: Sasakasana — Hare Posture.",
+      "aliases": [],
+      "tags": [
+        "Yoga"
+      ],
+      "method": "OCR page topic; names normalized for navigation; verify against scan",
+      "evidence": [
+        {
+          "doc": "common-yoga-aasana-englishebook",
+          "page": 32,
+          "quote": "COMMON YOGA PROTOCOL Ministry of Ayush, Government of India Technique ŚAŚAKÃSANA Sit in Vajrasana. (The Hare Posture) • Spread both the knees wide apart, keep the big toes touching."
+        }
+      ]
+    },
+    {
+      "id": "b-yoga-page-33",
+      "title": "Uttanamandukasana — Stretched-up Frog Posture",
+      "type": "section",
+      "parent": "b-yoga",
+      "doc": "common-yoga-aasana-englishebook",
+      "page": 33,
+      "endPage": 33,
+      "summary": "Source topic in the illustrated Common Yoga Protocol: Uttanamandukasana — Stretched-up Frog Posture.",
+      "aliases": [],
+      "tags": [
+        "Yoga"
+      ],
+      "method": "OCR page topic; names normalized for navigation; verify against scan",
+      "evidence": [
+        {
+          "doc": "common-yoga-aasana-englishebook",
+          "page": 33,
+          "quote": "COMMON YOGA PROTOCOL Ministry of Ayush, Government of India UTTĂNAMANDÜKÄSANA (Stretched-up Frog Posture) Uttana means upright and Mandüka means frog. The final position of Uttanamandükasana would resemble an upright frog, hence the name."
+        }
+      ]
+    },
+    {
+      "id": "b-yoga-page-34",
+      "title": "Vakrasana / Marichyasana — Spinal Twist",
+      "type": "section",
+      "parent": "b-yoga",
+      "doc": "common-yoga-aasana-englishebook",
+      "page": 34,
+      "endPage": 34,
+      "summary": "Source topic in the illustrated Common Yoga Protocol: Vakrasana / Marichyasana — Spinal Twist.",
+      "aliases": [],
+      "tags": [
+        "Yoga"
+      ],
+      "method": "OCR page topic; names normalized for navigation; verify against scan",
+      "evidence": [
+        {
+          "doc": "common-yoga-aasana-englishebook",
+          "page": 34,
+          "quote": "COMMON YOGA PROTOCOL Ministry of Ayush, Government of India VAKRÄSANA/MARICHYÃSANA (The Spinal Twist Posture) Vakrä means twisted. In this sana, the spine is twisted, which has a rejuvenating effect on its functioning."
+        }
+      ]
+    },
+    {
+      "id": "b-yoga-page-35",
+      "title": "Makarasana — prone posture",
+      "type": "section",
+      "parent": "b-yoga",
+      "doc": "common-yoga-aasana-englishebook",
+      "page": 35,
+      "endPage": 35,
+      "summary": "Source topic in the illustrated Common Yoga Protocol: Makarasana — prone posture.",
+      "aliases": [],
+      "tags": [
+        "Yoga"
+      ],
+      "method": "OCR page topic; names normalized for navigation; verify against scan",
+      "evidence": [
+        {
+          "doc": "common-yoga-aasana-englishebook",
+          "page": 35,
+          "quote": "COMMON YOGA PROTOCOL Ministry of Ayush, Government of India Technique C. PRONE POSTURES Lie down on stomach with the feet wide apart, toes pointing outwards. MAKARASANA Bend both the arms and place the right palm on the left palm."
+        }
+      ]
+    },
+    {
+      "id": "b-yoga-page-36",
+      "title": "Bhujangasana — Cobra Posture",
+      "type": "section",
+      "parent": "b-yoga",
+      "doc": "common-yoga-aasana-englishebook",
+      "page": 36,
+      "endPage": 36,
+      "summary": "Source topic in the illustrated Common Yoga Protocol: Bhujangasana — Cobra Posture.",
+      "aliases": [],
+      "tags": [
+        "Yoga"
+      ],
+      "method": "OCR page topic; names normalized for navigation; verify against scan",
+      "evidence": [
+        {
+          "doc": "common-yoga-aasana-englishebook",
+          "page": 36,
+          "quote": "COM MON YOGA PROTOCOL Ministry of Ayush, Government of India BHUJANGÃSANA Technique (The Cobra Posture] Lie down on your stomach, rest your head on your hands and"
+        }
+      ]
+    },
+    {
+      "id": "b-yoga-page-37",
+      "title": "Salabhasana — Locust Posture",
+      "type": "section",
+      "parent": "b-yoga",
+      "doc": "common-yoga-aasana-englishebook",
+      "page": 37,
+      "endPage": 37,
+      "summary": "Source topic in the illustrated Common Yoga Protocol: Salabhasana — Locust Posture.",
+      "aliases": [],
+      "tags": [
+        "Yoga"
+      ],
+      "method": "OCR page topic; names normalized for navigation; verify against scan",
+      "evidence": [
+        {
+          "doc": "common-yoga-aasana-englishebook",
+          "page": 37,
+          "quote": "COMMON YOGA PROTOCOL Ministry of Ayush, Government of India Technique ŚALABHÃSANA (The Locust Posture) Lie down on stomach in Makaräsana. Salabha means a locust."
+        }
+      ]
+    },
+    {
+      "id": "b-yoga-page-38",
+      "title": "Setubandhasana — supine posture",
+      "type": "section",
+      "parent": "b-yoga",
+      "doc": "common-yoga-aasana-englishebook",
+      "page": 38,
+      "endPage": 38,
+      "summary": "Source topic in the illustrated Common Yoga Protocol: Setubandhasana — supine posture.",
+      "aliases": [],
+      "tags": [
+        "Yoga"
+      ],
+      "method": "OCR page topic; names normalized for navigation; verify against scan",
+      "evidence": [
+        {
+          "doc": "common-yoga-aasana-englishebook",
+          "page": 38,
+          "quote": "COMMON YOGA PROTOCOL Ministry of Ayush, Government of India Technique D. SUPINE POSTURES Bend both the legs at the knees and bring the heels near the buttocks. SETUBANDHASANA • While holding both the ankles firmly, keep the knees and feet i"
+        }
+      ]
+    },
+    {
+      "id": "b-yoga-page-39",
+      "title": "Uttanapadasana — Raised Feet Posture",
+      "type": "section",
+      "parent": "b-yoga",
+      "doc": "common-yoga-aasana-englishebook",
+      "page": 39,
+      "endPage": 39,
+      "summary": "Source topic in the illustrated Common Yoga Protocol: Uttanapadasana — Raised Feet Posture.",
+      "aliases": [],
+      "tags": [
+        "Yoga"
+      ],
+      "method": "OCR page topic; names normalized for navigation; verify against scan",
+      "evidence": [
+        {
+          "doc": "common-yoga-aasana-englishebook",
+          "page": 39,
+          "quote": "COMMON YOGA PROTOCOL Ministry of Ayush, Government of India UTTÂNAPÃDÃSANA Technique (Raised feet posture) Lie comfortably on the ground with the legs stretched out. Ottana means raised-upwards and Pada"
+        }
+      ]
+    },
+    {
+      "id": "b-yoga-page-40",
+      "title": "Ardhahalasana — Half-Plough Posture",
+      "type": "section",
+      "parent": "b-yoga",
+      "doc": "common-yoga-aasana-englishebook",
+      "page": 40,
+      "endPage": 40,
+      "summary": "Source topic in the illustrated Common Yoga Protocol: Ardhahalasana — Half-Plough Posture.",
+      "aliases": [],
+      "tags": [
+        "Yoga"
+      ],
+      "method": "OCR page topic; names normalized for navigation; verify against scan",
+      "evidence": [
+        {
+          "doc": "common-yoga-aasana-englishebook",
+          "page": 40,
+          "quote": "COMMON YOGA PROTOCOL Ministry of Ayush, Government of India ARDHAHALÃSANA (Half-Plough Posture) \"Ardha' means half and 'Hala' means plough. This posture is known as Ardhahalāsana because in its final position, the body would"
+        }
+      ]
+    },
+    {
+      "id": "b-yoga-page-41",
+      "title": "Pavanamuktasana — Wind-Releasing Posture",
+      "type": "section",
+      "parent": "b-yoga",
+      "doc": "common-yoga-aasana-englishebook",
+      "page": 41,
+      "endPage": 41,
+      "summary": "Source topic in the illustrated Common Yoga Protocol: Pavanamuktasana — Wind-Releasing Posture.",
+      "aliases": [],
+      "tags": [
+        "Yoga"
+      ],
+      "method": "OCR page topic; names normalized for navigation; verify against scan",
+      "evidence": [
+        {
+          "doc": "common-yoga-aasana-englishebook",
+          "page": 41,
+          "quote": "COMMON YOGA PROTOCOL Ministry of Ayush, Government of India PAVANAMUKTÃSANA (Wind-Releasing Posture) Pavana means wind and mukta means to release or to make free. As the name suggests, this sana is useful in removing wind or flatulence from"
+        }
+      ]
+    },
+    {
+      "id": "b-yoga-page-42",
+      "title": "Savasana — Corpse / Dead-Body Posture",
+      "type": "section",
+      "parent": "b-yoga",
+      "doc": "common-yoga-aasana-englishebook",
+      "page": 42,
+      "endPage": 42,
+      "summary": "Source topic in the illustrated Common Yoga Protocol: Savasana — Corpse / Dead-Body Posture.",
+      "aliases": [],
+      "tags": [
+        "Yoga"
+      ],
+      "method": "OCR page topic; names normalized for navigation; verify against scan",
+      "evidence": [
+        {
+          "doc": "common-yoga-aasana-englishebook",
+          "page": 42,
+          "quote": "COMMON YOGA PROTOCOL Ministry of Ayush, Government of India Technique SAVĂSANA Lie down on back with arms and legs comfortably apart. (Corpse/ Dead-Body Posture) Palms facing upwards, eyes closed."
+        }
+      ]
+    },
+    {
+      "id": "b-yoga-page-43",
+      "title": "Kapalabhati — section opening",
+      "type": "section",
+      "parent": "b-yoga",
+      "doc": "common-yoga-aasana-englishebook",
+      "page": 43,
+      "endPage": 43,
+      "summary": "Source topic in the illustrated Common Yoga Protocol: Kapalabhati — section opening.",
+      "aliases": [],
+      "tags": [
+        "Yoga"
+      ],
+      "method": "OCR page topic; names normalized for navigation; verify against scan",
+      "evidence": [
+        {
+          "doc": "common-yoga-aasana-englishebook",
+          "page": 43,
+          "quote": "COMMON YOGA PROTOCOL Ministry of Ayush, Government of India 4 KAPÃLABHÄTI Kapal means skull, bhati means to shine or to cleanse. It is a cleansing practice which helps to clean the frontal sinuses and upper respirating tract. Sthiti: Sukhās"
+        }
+      ]
+    },
+    {
+      "id": "b-yoga-page-44",
+      "title": "Kapalabhati — source benefits and cautions",
+      "type": "section",
+      "parent": "b-yoga",
+      "doc": "common-yoga-aasana-englishebook",
+      "page": 44,
+      "endPage": 44,
+      "summary": "The supplied guide’s kapalabhati — source benefits and cautions. This node identifies the subject and location without endorsing the source’s health assertions.",
+      "aliases": [],
+      "tags": [
+        "Yoga"
+      ],
+      "method": "OCR page topic; names normalized for navigation; verify against scan",
+      "evidence": [
+        {
+          "doc": "common-yoga-aasana-englishebook",
+          "page": 44,
+          "quote": "COMMON YOGA PROTOCOL Ministry of Ayush, Government of India Benefits This practice purifies the frontal air sinuses; helps to overcome cough disorders. • It is useful in treating cold, rhinitis, sinusitis, asthma, and bronchial infections."
+        }
+      ]
+    },
+    {
+      "id": "b-yoga-page-45",
+      "title": "Nadisodhana / Anuloma Viloma Pranayama",
+      "type": "section",
+      "parent": "b-yoga",
+      "doc": "common-yoga-aasana-englishebook",
+      "page": 45,
+      "endPage": 45,
+      "summary": "Source topic in the illustrated Common Yoga Protocol: Nadisodhana / Anuloma Viloma Pranayama.",
+      "aliases": [],
+      "tags": [
+        "Yoga"
+      ],
+      "method": "OCR page topic; names normalized for navigation; verify against scan",
+      "evidence": [
+        {
+          "doc": "common-yoga-aasana-englishebook",
+          "page": 45,
+          "quote": "COMMON YOGA PROTOCOL Ministry of Ayush, Government of India 5 PRĂNAYAMA NADISODHANA or ANULOMA VILOMA PRANÃYÃMA (Alternate Nostril Breathing) The main characteristic feature of this"
+        }
+      ]
+    },
+    {
+      "id": "b-yoga-page-46",
+      "title": "Nadisodhana — continuation",
+      "type": "section",
+      "parent": "b-yoga",
+      "doc": "common-yoga-aasana-englishebook",
+      "page": 46,
+      "endPage": 46,
+      "summary": "Source topic in the illustrated Common Yoga Protocol: Nadisodhana — continuation.",
+      "aliases": [],
+      "tags": [
+        "Yoga"
+      ],
+      "method": "OCR page topic; names normalized for navigation; verify against scan",
+      "evidence": [
+        {
+          "doc": "common-yoga-aasana-englishebook",
+          "page": 46,
+          "quote": "COMMON YOGA PROTOCOL Ministry of Ayush, Government of India • Gradually make the ratio 1:2 (inhalation:exhalation, respectively). Breathing Breath should be slow, steady, and controlled. It should not be forced or restricted in anyway."
+        }
+      ]
+    },
+    {
+      "id": "b-yoga-page-47",
+      "title": "Sitali Pranayama",
+      "type": "section",
+      "parent": "b-yoga",
+      "doc": "common-yoga-aasana-englishebook",
+      "page": 47,
+      "endPage": 47,
+      "summary": "Source topic in the illustrated Common Yoga Protocol: Sitali Pranayama.",
+      "aliases": [],
+      "tags": [
+        "Yoga"
+      ],
+      "method": "OCR page topic; names normalized for navigation; verify against scan",
+      "evidence": [
+        {
+          "doc": "common-yoga-aasana-englishebook",
+          "page": 47,
+          "quote": "COMMON YOGA PROTOCOL Ministry of Ayush, Government of India SITALİ PRANAYAMA Sitali means cooling. It also means calm and passionless. As the name indicates, this pranayāma cools the mind - and body. It is specially designed to reduce the b"
+        }
+      ]
+    },
+    {
+      "id": "b-yoga-page-48",
+      "title": "Sitali — source cautions",
+      "type": "section",
+      "parent": "b-yoga",
+      "doc": "common-yoga-aasana-englishebook",
+      "page": 48,
+      "endPage": 48,
+      "summary": "The supplied guide’s sitali — source cautions. This node identifies the subject and location without endorsing the source’s health assertions.",
+      "aliases": [],
+      "tags": [
+        "Yoga"
+      ],
+      "method": "OCR page topic; names normalized for navigation; verify against scan",
+      "evidence": [
+        {
+          "doc": "common-yoga-aasana-englishebook",
+          "page": 48,
+          "quote": "COMMON YOGA PROTOCOL Ministry of Ayush, Government of India Caution Those who are suffering from severe cold, cough or tonsillitis should not do this pranayama."
+        }
+      ]
+    },
+    {
+      "id": "b-yoga-page-49",
+      "title": "Bhramari Pranayama",
+      "type": "section",
+      "parent": "b-yoga",
+      "doc": "common-yoga-aasana-englishebook",
+      "page": 49,
+      "endPage": 49,
+      "summary": "Source topic in the illustrated Common Yoga Protocol: Bhramari Pranayama.",
+      "aliases": [],
+      "tags": [
+        "Yoga"
+      ],
+      "method": "OCR page topic; names normalized for navigation; verify against scan",
+      "evidence": [
+        {
+          "doc": "common-yoga-aasana-englishebook",
+          "page": 49,
+          "quote": "COMMON YOGA PROTOCOL Ministry of Ayush, Government of India BHRĂMARI PRĂNÂYÃMA Bhramari is derived from bhramara, which means black bee. During the practice of this pranayama, the sound produced resembles the buzzing of a black bee, hence"
+        }
+      ]
+    },
+    {
+      "id": "b-yoga-page-50",
+      "title": "Bhramari — source benefits and cautions",
+      "type": "section",
+      "parent": "b-yoga",
+      "doc": "common-yoga-aasana-englishebook",
+      "page": 50,
+      "endPage": 50,
+      "summary": "The supplied guide’s bhramari — source benefits and cautions. This node identifies the subject and location without endorsing the source’s health assertions.",
+      "aliases": [],
+      "tags": [
+        "Yoga"
+      ],
+      "method": "OCR page topic; names normalized for navigation; verify against scan",
+      "evidence": [
+        {
+          "doc": "common-yoga-aasana-englishebook",
+          "page": 50,
+          "quote": "COMMON YOGA PROTOCOL Ministry of Ayush, Government of India Benefits It relieves stress and helps in alleviating anxiety, anger, and hyper activity. It creates a soothing effect on the nervous system and mind. It is a great tranquiliser, an"
+        }
+      ]
+    },
+    {
+      "id": "b-yoga-page-51",
+      "title": "Dhyana — meditation",
+      "type": "section",
+      "parent": "b-yoga",
+      "doc": "common-yoga-aasana-englishebook",
+      "page": 51,
+      "endPage": 51,
+      "summary": "Source topic in the illustrated Common Yoga Protocol: Dhyana — meditation.",
+      "aliases": [],
+      "tags": [
+        "Yoga"
+      ],
+      "method": "OCR page topic; names normalized for navigation; verify against scan",
+      "evidence": [
+        {
+          "doc": "common-yoga-aasana-englishebook",
+          "page": 51,
+          "quote": "COMMON YOGA PROTOCOL Ministry of Ayush, Government of Iridia 6 DHYÃNA Dhyana or meditation is an act of continuous contemplation. Sthiti: Any comfortable posture. Technique"
+        }
+      ]
+    }
+  ],
+  "edges": [],
+  "notes": [
+    "The three Bonus PDFs are practical guides, cataloged separately from the Veda, Upanishad and Purana collections.",
+    "Ayurvedic Home Remedies has 25 ingredient entries on PDF pages 5–29, preceded by four index/instruction pages. The map does not reproduce dosing instructions or assess efficacy.",
+    "Vastu is a modern 44-page advisory guide, not a supplied ancient Vastu scripture. Headings and topic labels describe this particular file.",
+    "The scanned Yoga PDF contains 51 pages and ends at the Dhyana section. Sankalpa, Shantih Patha, references, Yoga Geet and expert committee items appear in its contents, but those later sections are not included as body pages in the supplied file.",
+    "Yoga title normalization is based on OCR and the supplied contents. PDF page numbers are used throughout. Blank or illustration-dominated pages remain navigable."
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "status": "PASS",
+  "checked_files": [
+    "output/atlas.json",
+    "output/atlas.graphml",
+    "corpus/manifest.json",
+    "corpus/*.jsonl",
+    "inputs/**/*.pdf"
+  ],
+  "counts": {
+    "documents": 30,
+    "nodes": 12722,
+    "edges": 25501,
+    "physical_pdf_pages": 7984,
+    "unique_page_records": 7984,
+    "upanishad_catalog_records": 108,
+    "rig_hymns": 1028,
+    "rig_hymns_per_book": {
+      "1": 191,
+      "2": 43,
+      "3": 62,
+      "4": 58,
+      "5": 87,
+      "6": 75,
+      "7": 104,
+      "8": 103,
+      "9": 114,
+      "10": 191
+    },
+    "quoted_evidence_references": 14225,
+    "page_locator_only_references": 4720,
+    "empty_quote_fields": 0,
+    "distinct_evidence_snippets": 7344,
+    "exact_12_word_overlap_links": 472
+  },
+  "checks": {
+    "unique_node_ids": true,
+    "valid_source_page_ranges": true,
+    "all_evidence_page_locators_valid": true,
+    "all_evidence_quotes_exact_after_whitespace_normalization": true,
+    "all_edge_endpoints_exist": true,
+    "all_parents_exist": true,
+    "acyclic_ancestry": true,
+    "all_nodes_reachable_from_root": true,
+    "all_7984_physical_pages_once": true,
+    "108_unique_upanishad_catalog_numbers": true,
+    "1028_rigveda_hymns": true,
+    "all_30_original_pdf_hashes_unchanged": true,
+    "phrase_links_correct_and_limited_to_english_wording_overlap": true,
+    "graphml_matches_json": true
+  },
+  "failures": [],
+  "scope_notes": [
+    "Quote verification is whitespace-normalized against the extracted current corpus; OCR uncertainty remains in image-derived text.",
+    "Phrase links compare 12 English words in the supplied Rig translation and edited draft compilation. Their labels do not claim Sanskrit equivalence or historical borrowing.",
+    "Ancestry is acyclic; thematic cross-edges can intentionally form cycles."
+  ]
+}
